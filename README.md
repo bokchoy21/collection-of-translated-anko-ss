@@ -1,3 +1,5 @@
+访问网址: https://bokchoy21.github.io/collection-of-translated-anko-ss/
+
 内容全部来自馅文合集
 
 使用python脚本按正则语句拆分出来的章节，若有错误请告知
