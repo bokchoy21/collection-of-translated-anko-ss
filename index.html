@@ -1,0 +1,3800 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>目录</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Microsoft YaHei', 'PingFang SC', sans-serif;
+            line-height: 1.6;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+            padding: 30px 0;
+        }
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        .preface {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            border-left: 5px solid #ff6b6b;
+        }
+        .preface-title {
+            font-size: 1.5em;
+            color: #2c3e50;
+            margin-bottom: 15px;
+            text-align: center;
+            font-weight: bold;
+        }
+        .preface-content {
+            font-size: 16px;
+            color: #555;
+            line-height: 1.8;
+        }
+        .preface-content p {
+            margin-bottom: 15px;
+            text-indent: 2em;
+        }
+        .preface-content p:last-child {
+            margin-bottom: 0;
+        }
+        .toc-container {
+            background: white;
+            border-radius: 15px;
+            padding: 40px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        .toc-title {
+            text-align: center;
+            font-size: 1.8em;
+            color: #333;
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 3px solid #667eea;
+        }
+        .chapter-list {
+            list-style: none;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 15px;
+        }
+        .chapter-item {
+            background: #f8f9fa;
+            border-radius: 10px;
+            transition: all 0.3s ease;
+            border-left: 4px solid #667eea;
+        }
+        .chapter-item:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            background: #e3f2fd;
+        }
+        .chapter-link {
+            display: block;
+            padding: 20px;
+            text-decoration: none;
+            color: #333;
+            height: 100%;
+        }
+        .chapter-number {
+            font-weight: bold;
+            color: #667eea;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+        }
+        .chapter-title {
+            font-size: 1em;
+            line-height: 1.4;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            color: white;
+            opacity: 0.8;
+        }
+        @media (max-width: 768px) {
+            .chapter-list {
+                grid-template-columns: 1fr;
+            }
+            .header h1 {
+                font-size: 2em;
+            }
+            .toc-container {
+                padding: 20px;
+            }
+            .preface {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📚 馅文合集</h1>
+            <p>共 519 个章节</p>
+        </div>
+        
+        <!-- 前言区域 -->
+        <div class="preface">
+            <div class="preface-title">📝 前言</div>
+            <div class="preface-content">
+                
+    <p>内容全部来自馅文合集</p>
+    <p>使用python脚本按正则语句拆分出来的章节，若有错误请告知</p>
+    <p>友情链接：<a href="https://tieba.baidu.com/f?kw=%E9%A6%92%E9%A6%92%E6%9D%A5&fr=index&fp=0&ie=utf-8">馒吧</a></p>
+    <p><strong>阅读提示：</strong>Read at your risk!</p>
+    
+            </div>
+        </div>
+        
+        <div class="toc-container">
+            <h2 class="toc-title">📖 目录</h2>
+            <ul class="chapter-list">
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_001.html" class="chapter-link">
+                        <div class="chapter-number">第零章</div>
+                        <div class="chapter-title">第零章【前言】</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_002.html" class="chapter-link">
+                        <div class="chapter-number">第一章</div>
+                        <div class="chapter-title">第一章 {精品} 魔理沙的庭院</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_003.html" class="chapter-link">
+                        <div class="chapter-number">第二章</div>
+                        <div class="chapter-title">第二章 {精品} 油库里浮生记</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_004.html" class="chapter-link">
+                        <div class="chapter-number">第三章</div>
+                        <div class="chapter-title">第三章  {精品}魔理沙的东西就是我的东西</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_005.html" class="chapter-link">
+                        <div class="chapter-number">第四章</div>
+                        <div class="chapter-title">第四章 无知的疼爱</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_006.html" class="chapter-link">
+                        <div class="chapter-number">第五章</div>
+                        <div class="chapter-title">第五章  {精品}小魔理沙与油库叽的一家</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_007.html" class="chapter-link">
+                        <div class="chapter-number">第六章</div>
+                        <div class="chapter-title">第六章 黑色的洞</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_008.html" class="chapter-link">
+                        <div class="chapter-number">第七章</div>
+                        <div class="chapter-title">第七章  {精品}馒馒来地退化哦</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_009.html" class="chapter-link">
+                        <div class="chapter-number">第八章</div>
+                        <div class="chapter-title">第八章 追逐馒馒来的流浪灵梦</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_010.html" class="chapter-link">
+                        <div class="chapter-number">第九章</div>
+                        <div class="chapter-title">第九章  {精品}野生的DOS魔里沙跳了出来！</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_011.html" class="chapter-link">
+                        <div class="chapter-number">第十章</div>
+                        <div class="chapter-title">第十章  {精品}一只金牌魔理沙的故事</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_012.html" class="chapter-link">
+                        <div class="chapter-number">第十一章</div>
+                        <div class="chapter-title">第十一章 住家宣言</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_013.html" class="chapter-link">
+                        <div class="chapter-number">第十二章</div>
+                        <div class="chapter-title">第十二章 {精品} 烤巧克力油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_014.html" class="chapter-link">
+                        <div class="chapter-number">第十三章</div>
+                        <div class="chapter-title">第十三章  {精品}防霉用灵梦</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_015.html" class="chapter-link">
+                        <div class="chapter-number">第十四章</div>
+                        <div class="chapter-title">第十四章  {精品}anko8206一汤匙的幸福</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_016.html" class="chapter-link">
+                        <div class="chapter-number">第十五章</div>
+                        <div class="chapter-title">第十五章 {精品}ANKO 6661 从帽子中所看</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_017.html" class="chapter-link">
+                        <div class="chapter-number">第十六章</div>
+                        <div class="chapter-title">第十六章  {精品}我家的奴隶魔理掐</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_018.html" class="chapter-link">
+                        <div class="chapter-number">第十七章</div>
+                        <div class="chapter-title">第十七章 选择Choise</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_019.html" class="chapter-link">
+                        <div class="chapter-number">第十八章</div>
+                        <div class="chapter-title">第十八章 麻里恰有很多朋友</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_020.html" class="chapter-link">
+                        <div class="chapter-number">第十九章</div>
+                        <div class="chapter-title">第十九章  {精品}公园里遇到的麻里恰</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_021.html" class="chapter-link">
+                        <div class="chapter-number">第二十章</div>
+                        <div class="chapter-title">第二十章  {精品}黑暗的世界</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_022.html" class="chapter-link">
+                        <div class="chapter-number">第二十一章</div>
+                        <div class="chapter-title">第二十一章 {精品}一油自立+第二油生的支援服务</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_023.html" class="chapter-link">
+                        <div class="chapter-number">第二十二章</div>
+                        <div class="chapter-title">第二十二章  {精品}隔着墙壁的家族</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_024.html" class="chapter-link">
+                        <div class="chapter-number">第二十三章</div>
+                        <div class="chapter-title">第二十三章  {精品}麻里恰无意义的索求声</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_025.html" class="chapter-link">
+                        <div class="chapter-number">第二十四章</div>
+                        <div class="chapter-title">第二十四章  {精品}被梅雨遗忘的东西</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_026.html" class="chapter-link">
+                        <div class="chapter-number">第二十五章</div>
+                        <div class="chapter-title">第二十五章  {精品}地域油库里的生存之道</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_027.html" class="chapter-link">
+                        <div class="chapter-number">第二十六章</div>
+                        <div class="chapter-title">第二十六章  {精品}魔理沙的屁屁庭院（ 尻の庭）</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_028.html" class="chapter-link">
+                        <div class="chapter-number">第二十七章</div>
+                        <div class="chapter-title">第二十七章  {精品}恶魔借着天使的姿态出现</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_029.html" class="chapter-link">
+                        <div class="chapter-number">第二十八章</div>
+                        <div class="chapter-title">第二十八章  {精品}不足油麻里恰</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_030.html" class="chapter-link">
+                        <div class="chapter-number">第二十九章</div>
+                        <div class="chapter-title">第二十九章 医院的油库里活用法</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_031.html" class="chapter-link">
+                        <div class="chapter-number">第三十章</div>
+                        <div class="chapter-title">第三十章 愚者与善良</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_032.html" class="chapter-link">
+                        <div class="chapter-number">第三十一章</div>
+                        <div class="chapter-title">第三十一章  {精品}油库里的品质</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_033.html" class="chapter-link">
+                        <div class="chapter-number">第三十二章</div>
+                        <div class="chapter-title">第三十二章 宠坏</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_034.html" class="chapter-link">
+                        <div class="chapter-number">第三十三章</div>
+                        <div class="chapter-title">第三十三章 无可救药</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_035.html" class="chapter-link">
+                        <div class="chapter-number">第三十四章</div>
+                        <div class="chapter-title">第三十四章  {精品}冬の雨音</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_036.html" class="chapter-link">
+                        <div class="chapter-number">第三十五章</div>
+                        <div class="chapter-title">第三十五章  {精品}麻里恰要活下去</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_037.html" class="chapter-link">
+                        <div class="chapter-number">第三十六章</div>
+                        <div class="chapter-title">第三十六章  {精品}子魔理沙探险队</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_038.html" class="chapter-link">
+                        <div class="chapter-number">第三十七章</div>
+                        <div class="chapter-title">第三十七章  {精品}油库里的四季</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_039.html" class="chapter-link">
+                        <div class="chapter-number">第三十八章</div>
+                        <div class="chapter-title">第三十八章 车站前馒馒来的灵梦</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_040.html" class="chapter-link">
+                        <div class="chapter-number">第三十九章</div>
+                        <div class="chapter-title">第三十九章 油库里更生设施</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_041.html" class="chapter-link">
+                        <div class="chapter-number">第四十章</div>
+                        <div class="chapter-title">第四十章 油库里水难事故</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_042.html" class="chapter-link">
+                        <div class="chapter-number">第四十一章</div>
+                        <div class="chapter-title">第四十一章  录像带</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_043.html" class="chapter-link">
+                        <div class="chapter-number">第四十二章</div>
+                        <div class="chapter-title">第四十二章 油库里盘片</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_044.html" class="chapter-link">
+                        <div class="chapter-number">第四十三章</div>
+                        <div class="chapter-title">第四十三章 {精品}「稻草人」</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_045.html" class="chapter-link">
+                        <div class="chapter-number">第四十四章</div>
+                        <div class="chapter-title">第四十四章 擅自闯进来的魔理沙</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_046.html" class="chapter-link">
+                        <div class="chapter-number">第四十五章</div>
+                        <div class="chapter-title">第四十五章 家养灵梦（爱向）</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_047.html" class="chapter-link">
+                        <div class="chapter-number">第四十六章</div>
+                        <div class="chapter-title">第四十六章  {精品}油民居酒屋</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_048.html" class="chapter-link">
+                        <div class="chapter-number">第四十七章</div>
+                        <div class="chapter-title">第四十七章 油库里家庭伦理剧</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_049.html" class="chapter-link">
+                        <div class="chapter-number">第四十八章</div>
+                        <div class="chapter-title">第四十八章 三只油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_050.html" class="chapter-link">
+                        <div class="chapter-number">第四十九章</div>
+                        <div class="chapter-title">第四十九章  {精品}瓶子里的油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_051.html" class="chapter-link">
+                        <div class="chapter-number">第五十章</div>
+                        <div class="chapter-title">第五十章 {精品}食用油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_052.html" class="chapter-link">
+                        <div class="chapter-number">第五十一章</div>
+                        <div class="chapter-title">第五十一章 记忆盒子（赛博油库里？）</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_053.html" class="chapter-link">
+                        <div class="chapter-number">第五十二章</div>
+                        <div class="chapter-title">第五十二章 {精品}{坑}鬼威惨对抗学生会</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_054.html" class="chapter-link">
+                        <div class="chapter-number">第五十三章</div>
+                        <div class="chapter-title">第五十三章 anko739{精品}最好的油库里pla</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_055.html" class="chapter-link">
+                        <div class="chapter-number">第五十四章</div>
+                        <div class="chapter-title">第五十四章 夏日街头的流浪油</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_056.html" class="chapter-link">
+                        <div class="chapter-number">第五十五章</div>
+                        <div class="chapter-title">第五十五章 灵梦现在非常不油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_057.html" class="chapter-link">
+                        <div class="chapter-number">第五十六章</div>
+                        <div class="chapter-title">第五十六章 喜之郎系列（爱）：喜之郎家中的油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_058.html" class="chapter-link">
+                        <div class="chapter-number">第五十七章</div>
+                        <div class="chapter-title">第五十七章 喜之郎系列（爱）： 劫持事件</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_059.html" class="chapter-link">
+                        <div class="chapter-number">第五十八章</div>
+                        <div class="chapter-title">第五十八章 喜之郎系列：油库里究竟害怕什么？</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_060.html" class="chapter-link">
+                        <div class="chapter-number">第五十九章</div>
+                        <div class="chapter-title">第五十九章 喜之郎系列——招牌</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_061.html" class="chapter-link">
+                        <div class="chapter-number">第六十章</div>
+                        <div class="chapter-title">第六十章 喜之郎系列——陷阱游戏</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_062.html" class="chapter-link">
+                        <div class="chapter-number">第六十一章</div>
+                        <div class="chapter-title">第六十一章 喜之郎系列——饲养的理由</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_063.html" class="chapter-link">
+                        <div class="chapter-number">第六十二章</div>
+                        <div class="chapter-title">第六十二章 喜之郎系列——黑与白之间</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_064.html" class="chapter-link">
+                        <div class="chapter-number">第六十三章</div>
+                        <div class="chapter-title">第六十三章 喜之郎森林漫游记——起源</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_065.html" class="chapter-link">
+                        <div class="chapter-number">第六十四章</div>
+                        <div class="chapter-title">第六十四章 喜之郎森林漫游记——巢穴之内</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_066.html" class="chapter-link">
+                        <div class="chapter-number">第六十五章</div>
+                        <div class="chapter-title">第六十五章 喜之郎系列：雨中——序</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_067.html" class="chapter-link">
+                        <div class="chapter-number">第六十六章</div>
+                        <div class="chapter-title">第六十六章 灵梦的幸福</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_068.html" class="chapter-link">
+                        <div class="chapter-number">第六十七章</div>
+                        <div class="chapter-title">第六十七章 炸弹威胁</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_069.html" class="chapter-link">
+                        <div class="chapter-number">第六十八章</div>
+                        <div class="chapter-title">第六十八章 垃圾爱莉丝与杂碎魔理沙母子</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_070.html" class="chapter-link">
+                        <div class="chapter-number">第六十九章</div>
+                        <div class="chapter-title">第六十九章 {精品}如何寝取魔理沙</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_071.html" class="chapter-link">
+                        <div class="chapter-number">第七十章</div>
+                        <div class="chapter-title">第七十章 {精品}在学校生活的油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_072.html" class="chapter-link">
+                        <div class="chapter-number">第七十一章</div>
+                        <div class="chapter-title">第七十一章 缝合油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_073.html" class="chapter-link">
+                        <div class="chapter-number">第七十二章</div>
+                        <div class="chapter-title">第七十二章 {精品}主角魔理沙的一生</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_074.html" class="chapter-link">
+                        <div class="chapter-number">第七十三章</div>
+                        <div class="chapter-title">第七十三章 灵梦和橙的饲养（爱向）</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_075.html" class="chapter-link">
+                        <div class="chapter-number">第七十四章</div>
+                        <div class="chapter-title">第七十四章 {精品}{争议}究极无敌鬼意山大战列梦</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_076.html" class="chapter-link">
+                        <div class="chapter-number">第七十四章</div>
+                        <div class="chapter-title">第七十四章为列梦本篇，之后在本文档的其他有列梦作品均</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_077.html" class="chapter-link">
+                        <div class="chapter-number">第七十四章</div>
+                        <div class="chapter-title">第七十四章的二创}</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_078.html" class="chapter-link">
+                        <div class="chapter-number">第七十五章</div>
+                        <div class="chapter-title">第七十五章 油库里种植</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_079.html" class="chapter-link">
+                        <div class="chapter-number">第七十六章</div>
+                        <div class="chapter-title">第七十六章  油库里示威活动</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_080.html" class="chapter-link">
+                        <div class="chapter-number">第七十七章</div>
+                        <div class="chapter-title">第七十七章 {精品}劣化灵梦的处理</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_081.html" class="chapter-link">
+                        <div class="chapter-number">第七十八章</div>
+                        <div class="chapter-title">第七十八章 {精品}熊孩子虐待油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_082.html" class="chapter-link">
+                        <div class="chapter-number">第七十九章</div>
+                        <div class="chapter-title">第七十九章 {精品}麻利莎们才不是厨余垃圾noje</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_083.html" class="chapter-link">
+                        <div class="chapter-number">第八十章</div>
+                        <div class="chapter-title">第八十章 {精品}油库里自助餐厅</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_084.html" class="chapter-link">
+                        <div class="chapter-number">第八十一章</div>
+                        <div class="chapter-title">第八十一章 贡品</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_085.html" class="chapter-link">
+                        <div class="chapter-number">第八十二章</div>
+                        <div class="chapter-title">第八十二章  {精品}魔里掐只有你不行</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_086.html" class="chapter-link">
+                        <div class="chapter-number">第八十三章</div>
+                        <div class="chapter-title">第八十三章  {精品}莫西干一侧的诱惑</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_087.html" class="chapter-link">
+                        <div class="chapter-number">第八十四章</div>
+                        <div class="chapter-title">第八十四章  {精品}莫莉莎的复活</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_088.html" class="chapter-link">
+                        <div class="chapter-number">第八十五章</div>
+                        <div class="chapter-title">第八十五章 子油库里对轮胎的复仇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_089.html" class="chapter-link">
+                        <div class="chapter-number">第八十六章</div>
+                        <div class="chapter-title">第八十六章 油库里吸引机</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_090.html" class="chapter-link">
+                        <div class="chapter-number">第八十七章</div>
+                        <div class="chapter-title">第八十七章  {精品}幼灵梦的选择</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_091.html" class="chapter-link">
+                        <div class="chapter-number">第八十八章</div>
+                        <div class="chapter-title">第八十八章 橙与蓝的小吃屋</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_092.html" class="chapter-link">
+                        <div class="chapter-number">第八十九章</div>
+                        <div class="chapter-title">第八十九章 下种油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_093.html" class="chapter-link">
+                        <div class="chapter-number">第九十章</div>
+                        <div class="chapter-title">第九十章  {精品}哪一边是灵梦？</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_094.html" class="chapter-link">
+                        <div class="chapter-number">第九十一章</div>
+                        <div class="chapter-title">第九十一章 {精品}卖剩的圣诞麻里恰</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_095.html" class="chapter-link">
+                        <div class="chapter-number">第九十二章</div>
+                        <div class="chapter-title">第九十二章 无名杂篇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_096.html" class="chapter-link">
+                        <div class="chapter-number">第九十三章</div>
+                        <div class="chapter-title">第九十三章 {精品}被囚禁的灵魔夫妻</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_097.html" class="chapter-link">
+                        <div class="chapter-number">第九十四章</div>
+                        <div class="chapter-title">第九十四章 {精品}幸福故事的特典</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_098.html" class="chapter-link">
+                        <div class="chapter-number">第九十五章</div>
+                        <div class="chapter-title">第九十五章 祸灵梦与大哥哥</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_099.html" class="chapter-link">
+                        <div class="chapter-number">第九十六章</div>
+                        <div class="chapter-title">第九十六章 {精品}加油吧! 虐哥哥【旧】</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_100.html" class="chapter-link">
+                        <div class="chapter-number">第九十七章</div>
+                        <div class="chapter-title">第九十七章 {精品}加油吧，虐哥哥!（新）</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_101.html" class="chapter-link">
+                        <div class="chapter-number">第九十八章</div>
+                        <div class="chapter-title">第九十八章 油库里纸门</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_102.html" class="chapter-link">
+                        <div class="chapter-number">第九十九章</div>
+                        <div class="chapter-title">第九十九章  噗咕！</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_103.html" class="chapter-link">
+                        <div class="chapter-number">第一百章</div>
+                        <div class="chapter-title">第一百章  想养油库里的大哥哥</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_104.html" class="chapter-link">
+                        <div class="chapter-number">第一百零一章</div>
+                        <div class="chapter-title">第一百零一章 强制劳作</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_105.html" class="chapter-link">
+                        <div class="chapter-number">第一百零二章</div>
+                        <div class="chapter-title">第一百零二章 不能油库里的人类</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_106.html" class="chapter-link">
+                        <div class="chapter-number">第一百零三章</div>
+                        <div class="chapter-title">第一百零三章  油库里货币</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_107.html" class="chapter-link">
+                        <div class="chapter-number">第一百零四章</div>
+                        <div class="chapter-title">第一百零四章 dos族群</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_108.html" class="chapter-link">
+                        <div class="chapter-number">第一百零五章</div>
+                        <div class="chapter-title">第一百零五章 爱丽丝不是强奸魔</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_109.html" class="chapter-link">
+                        <div class="chapter-number">第一百零六章</div>
+                        <div class="chapter-title">第一百零六章 油库里毁三观了</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_110.html" class="chapter-link">
+                        <div class="chapter-number">第一百零七章</div>
+                        <div class="chapter-title">第一百零七章  春天的农田</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_111.html" class="chapter-link">
+                        <div class="chapter-number">第一百零八章</div>
+                        <div class="chapter-title">第一百零八章 {精品}HOT油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_112.html" class="chapter-link">
+                        <div class="chapter-number">第一百零九章</div>
+                        <div class="chapter-title">第一百零九章 都会派的爱丽丝</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_113.html" class="chapter-link">
+                        <div class="chapter-number">第一百一十章</div>
+                        <div class="chapter-title">第一百一十章 电车上的痴汉油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_114.html" class="chapter-link">
+                        <div class="chapter-number">第一百一十一章</div>
+                        <div class="chapter-title">第一百一十一章 平原上的油库里夫妇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_115.html" class="chapter-link">
+                        <div class="chapter-number">第一百一十二章</div>
+                        <div class="chapter-title">第一百一十二章 油库里排泄考察</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_116.html" class="chapter-link">
+                        <div class="chapter-number">第一百一十三章</div>
+                        <div class="chapter-title">第一百一十三章 蔬菜是自己长出来的</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_117.html" class="chapter-link">
+                        <div class="chapter-number">第一百一十四章</div>
+                        <div class="chapter-title">第一百一十四章 射击油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_118.html" class="chapter-link">
+                        <div class="chapter-number">第一百一十五章</div>
+                        <div class="chapter-title">第一百一十五章 民主</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_119.html" class="chapter-link">
+                        <div class="chapter-number">第一百一十六章</div>
+                        <div class="chapter-title">第一百一十六章 泉之女神</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_120.html" class="chapter-link">
+                        <div class="chapter-number">第一百一十七章</div>
+                        <div class="chapter-title">第一百一十七章 严酷的冬天</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_121.html" class="chapter-link">
+                        <div class="chapter-number">第一百一十八章</div>
+                        <div class="chapter-title">第一百一十八章 无名杂篇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_122.html" class="chapter-link">
+                        <div class="chapter-number">第一百一十九章</div>
+                        <div class="chapter-title">第一百一十九章 青年与油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_123.html" class="chapter-link">
+                        <div class="chapter-number">第一百二十章</div>
+                        <div class="chapter-title">第一百二十章 从爱到虐</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_124.html" class="chapter-link">
+                        <div class="chapter-number">第一百二十一章</div>
+                        <div class="chapter-title">第一百二十一章 dos狩猎</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_125.html" class="chapter-link">
+                        <div class="chapter-number">第一百二十二章</div>
+                        <div class="chapter-title">第一百二十二章 爱护大哥哥</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_126.html" class="chapter-link">
+                        <div class="chapter-number">第一百二十三章</div>
+                        <div class="chapter-title">第一百二十三章 冒牌货</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_127.html" class="chapter-link">
+                        <div class="chapter-number">第一百二十四章</div>
+                        <div class="chapter-title">第一百二十四章 灵梦过冬</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_128.html" class="chapter-link">
+                        <div class="chapter-number">第一百二十五章</div>
+                        <div class="chapter-title">第一百二十五章 {争议}魔理沙入侵</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_129.html" class="chapter-link">
+                        <div class="chapter-number">第一百二十六章</div>
+                        <div class="chapter-title">第一百二十六章 {精品}寝取</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_130.html" class="chapter-link">
+                        <div class="chapter-number">第一百二十七章</div>
+                        <div class="chapter-title">第一百二十七章 无法发出声音的幼油</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_131.html" class="chapter-link">
+                        <div class="chapter-number">第一百二十八章</div>
+                        <div class="chapter-title">第一百二十八章 {精品}霖之助的店铺</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_132.html" class="chapter-link">
+                        <div class="chapter-number">第一百二十九章</div>
+                        <div class="chapter-title">第一百二十九章 {精品}导盲油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_133.html" class="chapter-link">
+                        <div class="chapter-number">第一百三十章</div>
+                        <div class="chapter-title">第一百三十章  晴天和尚</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_134.html" class="chapter-link">
+                        <div class="chapter-number">第一百三十一章</div>
+                        <div class="chapter-title">第一百三十一章 公园</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_135.html" class="chapter-link">
+                        <div class="chapter-number">第一百三十二章</div>
+                        <div class="chapter-title">第一百三十二章 幻想乡入</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_136.html" class="chapter-link">
+                        <div class="chapter-number">第一百三十三章</div>
+                        <div class="chapter-title">第一百三十三章 {精品}魔理香</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_137.html" class="chapter-link">
+                        <div class="chapter-number">第一百三十四章</div>
+                        <div class="chapter-title">第一百三十四章 {精品}爱向杂篇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_138.html" class="chapter-link">
+                        <div class="chapter-number">第一百三十五章</div>
+                        <div class="chapter-title">第一百三十五章 油库里的豪宅搭建</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_139.html" class="chapter-link">
+                        <div class="chapter-number">第一百三十六章</div>
+                        <div class="chapter-title">第一百三十六章 短篇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_140.html" class="chapter-link">
+                        <div class="chapter-number">第一百三十七章</div>
+                        <div class="chapter-title">第一百三十七章 进贡</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_141.html" class="chapter-link">
+                        <div class="chapter-number">第一百三十八章</div>
+                        <div class="chapter-title">第一百三十八章 幼油死亡竞赛</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_142.html" class="chapter-link">
+                        <div class="chapter-number">第一百三十九章</div>
+                        <div class="chapter-title">第一百三十九章 募捐</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_143.html" class="chapter-link">
+                        <div class="chapter-number">第一百四十章</div>
+                        <div class="chapter-title">第一百四十章 母性</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_144.html" class="chapter-link">
+                        <div class="chapter-number">第一百四十一章</div>
+                        <div class="chapter-title">第一百四十一章 油库里爱护法</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_145.html" class="chapter-link">
+                        <div class="chapter-number">第一百四十二章</div>
+                        <div class="chapter-title">第一百四十二章 油库里和青年</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_146.html" class="chapter-link">
+                        <div class="chapter-number">第一百四十三章</div>
+                        <div class="chapter-title">第一百四十三章 英雄油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_147.html" class="chapter-link">
+                        <div class="chapter-number">第一百四十四章</div>
+                        <div class="chapter-title">第一百四十四章 {精品}请油库里做哟！（早苗）</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_148.html" class="chapter-link">
+                        <div class="chapter-number">第一百四十五章</div>
+                        <div class="chapter-title">第一百四十五章 爱向杂篇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_149.html" class="chapter-link">
+                        <div class="chapter-number">第一百四十六章</div>
+                        <div class="chapter-title">第一百四十六章 草原</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_150.html" class="chapter-link">
+                        <div class="chapter-number">第一百四十七章</div>
+                        <div class="chapter-title">第一百四十七章 {精品}捕油大队</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_151.html" class="chapter-link">
+                        <div class="chapter-number">第一百四十八章</div>
+                        <div class="chapter-title">第一百四十八章 DOS屋</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_152.html" class="chapter-link">
+                        <div class="chapter-number">第一百四十九章</div>
+                        <div class="chapter-title">第一百四十九章 村庄恐怖故事大全</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_153.html" class="chapter-link">
+                        <div class="chapter-number">第一百五十章</div>
+                        <div class="chapter-title">第一百五十章 美玲</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_154.html" class="chapter-link">
+                        <div class="chapter-number">第一百五十一章</div>
+                        <div class="chapter-title">第一百五十一章 住家宣言</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_155.html" class="chapter-link">
+                        <div class="chapter-number">第一百五十二章</div>
+                        <div class="chapter-title">第一百五十二章 蕾蔕</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_156.html" class="chapter-link">
+                        <div class="chapter-number">第一百五十三章</div>
+                        <div class="chapter-title">第一百五十三章 魔理沙和帽子</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_157.html" class="chapter-link">
+                        <div class="chapter-number">第一百五十四章</div>
+                        <div class="chapter-title">第一百五十四章 胎生</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_158.html" class="chapter-link">
+                        <div class="chapter-number">第一百五十五章</div>
+                        <div class="chapter-title">第一百五十五章 突然变成dos</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_159.html" class="chapter-link">
+                        <div class="chapter-number">第一百五十六章</div>
+                        <div class="chapter-title">第一百五十六章  油库里罪行</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_160.html" class="chapter-link">
+                        <div class="chapter-number">第一百五十七章</div>
+                        <div class="chapter-title">第一百五十七章 绝育</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_161.html" class="chapter-link">
+                        <div class="chapter-number">第一百五十八章</div>
+                        <div class="chapter-title">第一百五十八章  UFO</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_162.html" class="chapter-link">
+                        <div class="chapter-number">第一百五十九章</div>
+                        <div class="chapter-title">第一百五十九章 油库里食物研究</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_163.html" class="chapter-link">
+                        <div class="chapter-number">第一百六十章</div>
+                        <div class="chapter-title">第一百六十章 自傲的家</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_164.html" class="chapter-link">
+                        <div class="chapter-number">第一百六十一章</div>
+                        <div class="chapter-title">第一百六十一章 {精品}七选一</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_165.html" class="chapter-link">
+                        <div class="chapter-number">第一百六十二章</div>
+                        <div class="chapter-title">第一百六十二章 {精品}欢迎来到大哥哥的油库里妇产科</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_166.html" class="chapter-link">
+                        <div class="chapter-number">第一百六十三章</div>
+                        <div class="chapter-title">第一百六十三章 {精品}{坑}人间油库里的境界1</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_167.html" class="chapter-link">
+                        <div class="chapter-number">第一百六十四章</div>
+                        <div class="chapter-title">第一百六十四章 强化油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_168.html" class="chapter-link">
+                        <div class="chapter-number">第一百六十五章</div>
+                        <div class="chapter-title">第一百六十五章 爱丽丝</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_169.html" class="chapter-link">
+                        <div class="chapter-number">第一百六十六章</div>
+                        <div class="chapter-title">第一百六十六章 神秘的巨大油库里美铃</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_170.html" class="chapter-link">
+                        <div class="chapter-number">第一百六十七章</div>
+                        <div class="chapter-title">第一百六十七章 最能油库里的油库里不存在喔！</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_171.html" class="chapter-link">
+                        <div class="chapter-number">第一百六十八章</div>
+                        <div class="chapter-title">第一百六十八章 {精品}入侵室内的无知油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_172.html" class="chapter-link">
+                        <div class="chapter-number">第一百六十九章</div>
+                        <div class="chapter-title">第一百六十九章 金章灵梦和野灵梦</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_173.html" class="chapter-link">
+                        <div class="chapter-number">第一百七十章</div>
+                        <div class="chapter-title">第一百七十章 油库里的虐待问题</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_174.html" class="chapter-link">
+                        <div class="chapter-number">第一百七十一章</div>
+                        <div class="chapter-title">第一百七十一章 油库里挖眼法</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_175.html" class="chapter-link">
+                        <div class="chapter-number">第一百七十二章</div>
+                        <div class="chapter-title">第一百七十二章 秋天驱除</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_176.html" class="chapter-link">
+                        <div class="chapter-number">第一百七十三章</div>
+                        <div class="chapter-title">第一百七十三章 『这里是大家的住家宣言』</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_177.html" class="chapter-link">
+                        <div class="chapter-number">第一百七十四章</div>
+                        <div class="chapter-title">第一百七十四章  天子</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_178.html" class="chapter-link">
+                        <div class="chapter-number">第一百七十五章</div>
+                        <div class="chapter-title">第一百七十五章 背叛朋友必须死</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_179.html" class="chapter-link">
+                        <div class="chapter-number">第一百七十六章</div>
+                        <div class="chapter-title">第一百七十六章  油库里研究员</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_180.html" class="chapter-link">
+                        <div class="chapter-number">第一百七十七章</div>
+                        <div class="chapter-title">第一百七十七章 油库里种族歧视</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_181.html" class="chapter-link">
+                        <div class="chapter-number">第一百七十八章</div>
+                        <div class="chapter-title">第一百七十八章 虐姐姐和虐妹妹</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_182.html" class="chapter-link">
+                        <div class="chapter-number">第一百七十九章</div>
+                        <div class="chapter-title">第一百七十九章 大规模生产</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_183.html" class="chapter-link">
+                        <div class="chapter-number">第一百七十九章</div>
+                        <div class="chapter-title">第一百七十九章 野油入侵</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_184.html" class="chapter-link">
+                        <div class="chapter-number">第一百八十章</div>
+                        <div class="chapter-title">第一百八十章 {精品}落榜的魔理沙</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_185.html" class="chapter-link">
+                        <div class="chapter-number">第一百八十一章</div>
+                        <div class="chapter-title">第一百八十一章 毒包子的一生</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_186.html" class="chapter-link">
+                        <div class="chapter-number">第一百八十二章</div>
+                        <div class="chapter-title">第一百八十二章 『潜入油库里的巢里，密集观察其生态』</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_187.html" class="chapter-link">
+                        <div class="chapter-number">第一百八十三章</div>
+                        <div class="chapter-title">第一百八十三章 悔改</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_188.html" class="chapter-link">
+                        <div class="chapter-number">第一百八十四章</div>
+                        <div class="chapter-title">第一百八十四章 鬼意山出游</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_189.html" class="chapter-link">
+                        <div class="chapter-number">第一百八十五章</div>
+                        <div class="chapter-title">第一百八十五章 油库里角斗场</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_190.html" class="chapter-link">
+                        <div class="chapter-number">第一百八十六章</div>
+                        <div class="chapter-title">第一百八十六章 无法嚼─嚼</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_191.html" class="chapter-link">
+                        <div class="chapter-number">第一百八十七章</div>
+                        <div class="chapter-title">第一百八十七章 少女鬼意山</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_192.html" class="chapter-link">
+                        <div class="chapter-number">第一百八十八章</div>
+                        <div class="chapter-title">第一百八十八章 社死的霖之助</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_193.html" class="chapter-link">
+                        <div class="chapter-number">第一百八十九章</div>
+                        <div class="chapter-title">第一百八十九章 幽香和幽香</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_194.html" class="chapter-link">
+                        <div class="chapter-number">第一百九十章</div>
+                        <div class="chapter-title">第一百九十章 4KM自由落体</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_195.html" class="chapter-link">
+                        <div class="chapter-number">第一百九十一章</div>
+                        <div class="chapter-title">第一百九十一章 风筝</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_196.html" class="chapter-link">
+                        <div class="chapter-number">第一百九十二章</div>
+                        <div class="chapter-title">第一百九十二章 来自幻想乡的灵梦</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_197.html" class="chapter-link">
+                        <div class="chapter-number">第一百九十三章</div>
+                        <div class="chapter-title">第一百九十三章 鬼意山的乐趣</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_198.html" class="chapter-link">
+                        <div class="chapter-number">第一百九十四章</div>
+                        <div class="chapter-title">第一百九十四章 饲料爱丽丝</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_199.html" class="chapter-link">
+                        <div class="chapter-number">第一百九十五章</div>
+                        <div class="chapter-title">第一百九十五章 被毁掉重要的东西的滋味</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_200.html" class="chapter-link">
+                        <div class="chapter-number">第一百九十六章</div>
+                        <div class="chapter-title">第一百九十六章 大哥哥和幽香</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_201.html" class="chapter-link">
+                        <div class="chapter-number">第一百九十七章</div>
+                        <div class="chapter-title">第一百九十七章 油库里和加工厂的战争</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_202.html" class="chapter-link">
+                        <div class="chapter-number">第一百九十八章</div>
+                        <div class="chapter-title">第一百九十八章 内馅替换</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_203.html" class="chapter-link">
+                        <div class="chapter-number">第一百九十九章</div>
+                        <div class="chapter-title">第一百九十九章 混血儿（bob警告）</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_204.html" class="chapter-link">
+                        <div class="chapter-number">第二百章</div>
+                        <div class="chapter-title">第二百章 地下室虐待</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_205.html" class="chapter-link">
+                        <div class="chapter-number">第二百零一章</div>
+                        <div class="chapter-title">第二百零一章 被抛下山崖下的小爱莉丝</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_206.html" class="chapter-link">
+                        <div class="chapter-number">第二百零二章</div>
+                        <div class="chapter-title">第二百零二章 无名虐待</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_207.html" class="chapter-link">
+                        <div class="chapter-number">第二百零三章</div>
+                        <div class="chapter-title">第二百零三章 油库里观察者</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_208.html" class="chapter-link">
+                        <div class="chapter-number">第二百零四章</div>
+                        <div class="chapter-title">第二百零四章 {精品}香草的愿望</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_209.html" class="chapter-link">
+                        <div class="chapter-number">第二百零五章</div>
+                        <div class="chapter-title">第二百零五章 油库里出现在现实中</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_210.html" class="chapter-link">
+                        <div class="chapter-number">第二百零六章</div>
+                        <div class="chapter-title">第二百零六章 嘘嘘</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_211.html" class="chapter-link">
+                        <div class="chapter-number">第二百零七章</div>
+                        <div class="chapter-title">第二百零七章 找工作的魔理沙</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_212.html" class="chapter-link">
+                        <div class="chapter-number">第二百零八章</div>
+                        <div class="chapter-title">第二百零八章 虐油报纸</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_213.html" class="chapter-link">
+                        <div class="chapter-number">第二百零九章</div>
+                        <div class="chapter-title">第二百零九章 油库里圆白菜料理</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_214.html" class="chapter-link">
+                        <div class="chapter-number">第二百一十章</div>
+                        <div class="chapter-title">第二百一十章 在幻想乡上</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_215.html" class="chapter-link">
+                        <div class="chapter-number">第二百一十一章</div>
+                        <div class="chapter-title">第二百一十一章 在幻想乡下</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_216.html" class="chapter-link">
+                        <div class="chapter-number">第二百一十二章</div>
+                        <div class="chapter-title">第二百一十二章 幻想和现实</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_217.html" class="chapter-link">
+                        <div class="chapter-number">第二百一十三章</div>
+                        <div class="chapter-title">第二百一十三章 {精品}人类的住家宣言！！</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_218.html" class="chapter-link">
+                        <div class="chapter-number">第二百一十四章</div>
+                        <div class="chapter-title">第二百一十四章 无限怀孕</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_219.html" class="chapter-link">
+                        <div class="chapter-number">第二百一十五章</div>
+                        <div class="chapter-title">第二百一十五章 {精品}沙的世界</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_220.html" class="chapter-link">
+                        <div class="chapter-number">第二百一十六章</div>
+                        <div class="chapter-title">第二百一十六章 蕾咪入侵</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_221.html" class="chapter-link">
+                        <div class="chapter-number">第二百一十七章</div>
+                        <div class="chapter-title">第二百一十七章 无法出生</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_222.html" class="chapter-link">
+                        <div class="chapter-number">第二百一十八章</div>
+                        <div class="chapter-title">第二百一十八章 奔跑吧魔理沙！</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_223.html" class="chapter-link">
+                        <div class="chapter-number">第二百一十九章</div>
+                        <div class="chapter-title">第二百一十九章 逃离公园</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_224.html" class="chapter-link">
+                        <div class="chapter-number">第二百二十章</div>
+                        <div class="chapter-title">第二百二十章 灵梦比例超标</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_225.html" class="chapter-link">
+                        <div class="chapter-number">第二百二十一章</div>
+                        <div class="chapter-title">第二百二十一章 {精品}哭哭油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_226.html" class="chapter-link">
+                        <div class="chapter-number">第二百二十二章</div>
+                        <div class="chapter-title">第二百二十二章 保龄球</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_227.html" class="chapter-link">
+                        <div class="chapter-number">第二百二十三章</div>
+                        <div class="chapter-title">第二百二十三章 {精品}油库里收养日记</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_228.html" class="chapter-link">
+                        <div class="chapter-number">第二百二十四章</div>
+                        <div class="chapter-title">第二百二十四章 强化油库里的诞生</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_229.html" class="chapter-link">
+                        <div class="chapter-number">第二百二十五章</div>
+                        <div class="chapter-title">第二百二十五章 虐待杂篇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_230.html" class="chapter-link">
+                        <div class="chapter-number">第二百二十六章</div>
+                        <div class="chapter-title">第二百二十六章 人里的油库里资源回收中心</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_231.html" class="chapter-link">
+                        <div class="chapter-number">第二百二十七章</div>
+                        <div class="chapter-title">第二百二十七章 {精品}只为得到一滴水</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_232.html" class="chapter-link">
+                        <div class="chapter-number">第二百二十八章</div>
+                        <div class="chapter-title">第二百二十八章 {精品}没事的、麻里洽</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_233.html" class="chapter-link">
+                        <div class="chapter-number">第二百二十九章</div>
+                        <div class="chapter-title">第二百二十九章 {精品}某处的幸褔流浪油的故事</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_234.html" class="chapter-link">
+                        <div class="chapter-number">第二百三十章</div>
+                        <div class="chapter-title">第二百三十章 {精品}流浪油麻里洽 24日间的轨迹</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_235.html" class="chapter-link">
+                        <div class="chapter-number">第二百三十一章</div>
+                        <div class="chapter-title">第二百三十一章 {精品}让麻里莎燃起来</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_236.html" class="chapter-link">
+                        <div class="chapter-number">第二百三十二章</div>
+                        <div class="chapter-title">第二百三十二章 {精品}父亲的回忆</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_237.html" class="chapter-link">
+                        <div class="chapter-number">第二百三十三章</div>
+                        <div class="chapter-title">第二百三十三章 {坑}在玻璃缸的油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_238.html" class="chapter-link">
+                        <div class="chapter-number">第二百三十四章</div>
+                        <div class="chapter-title">第二百三十四章 {精品}油骨鸡</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_239.html" class="chapter-link">
+                        <div class="chapter-number">第二百三十五章</div>
+                        <div class="chapter-title">第二百三十五章 {精品}12月6日的麻里恰，爸爸~快点回</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_240.html" class="chapter-link">
+                        <div class="chapter-number">第二百三十六章</div>
+                        <div class="chapter-title">第二百三十六章 {精品}麻里恰的勇武传</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_241.html" class="chapter-link">
+                        <div class="chapter-number">第二百三十七章</div>
+                        <div class="chapter-title">第二百三十七章  {精品}平等的早晨</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_242.html" class="chapter-link">
+                        <div class="chapter-number">第二百三十八章</div>
+                        <div class="chapter-title">第二百三十八章 {精品}人类先生，请买灵谬回去</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_243.html" class="chapter-link">
+                        <div class="chapter-number">第二百三十九章</div>
+                        <div class="chapter-title">第二百三十九章 {精品}麻里恰的意味</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_244.html" class="chapter-link">
+                        <div class="chapter-number">第二百四十章</div>
+                        <div class="chapter-title">第二百四十章 {精品}忍耐的家族</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_245.html" class="chapter-link">
+                        <div class="chapter-number">第二百四十一章</div>
+                        <div class="chapter-title">第二百四十一章 {精品}搞幸湖ー是什么？</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_246.html" class="chapter-link">
+                        <div class="chapter-number">第二百四十二章</div>
+                        <div class="chapter-title">第二百四十二章 {精品}一日一万回，感谢的『油库里喜爹以</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_247.html" class="chapter-link">
+                        <div class="chapter-number">第二百四十三章</div>
+                        <div class="chapter-title">第二百四十三章 {精品}极限的酷暑</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_248.html" class="chapter-link">
+                        <div class="chapter-number">第二百四十四章</div>
+                        <div class="chapter-title">第二百四十四章 {精品}公园里遇到的麻里恰</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_249.html" class="chapter-link">
+                        <div class="chapter-number">第二百四十五章</div>
+                        <div class="chapter-title">第二百四十五章 {精品}麻里恰奴隶博物馆</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_250.html" class="chapter-link">
+                        <div class="chapter-number">第二百四十六章</div>
+                        <div class="chapter-title">第二百四十六章 {精品}麻里恰捏烂博物馆</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_251.html" class="chapter-link">
+                        <div class="chapter-number">第二百四十七章</div>
+                        <div class="chapter-title">第二百四十七章 {精品}切腹奴隶麻里恰</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_252.html" class="chapter-link">
+                        <div class="chapter-number">第二百四十八章</div>
+                        <div class="chapter-title">第二百四十八章 {精品}茫然不得要领的魔理沙们</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_253.html" class="chapter-link">
+                        <div class="chapter-number">第二百四十九章</div>
+                        <div class="chapter-title">第二百四十九章 {精品}商店里的魔理沙姐妹</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_254.html" class="chapter-link">
+                        <div class="chapter-number">第二百五十章</div>
+                        <div class="chapter-title">第二百五十章 {精品}{坑}和馒馒来在一起的日常</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_255.html" class="chapter-link">
+                        <div class="chapter-number">第二百五十一章</div>
+                        <div class="chapter-title">第二百五十一章 {精品}杂碎魔理沙与灵胖的温暖家庭</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_256.html" class="chapter-link">
+                        <div class="chapter-number">第二百五十二章</div>
+                        <div class="chapter-title">第二百五十二章 {精品}骤雨骤晴</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_257.html" class="chapter-link">
+                        <div class="chapter-number">第二百五十三章</div>
+                        <div class="chapter-title">第二百五十三章 {精品}油库里公民 ～奴隶制度～</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_258.html" class="chapter-link">
+                        <div class="chapter-number">第二百五十四章</div>
+                        <div class="chapter-title">第二百五十四章 {精品}油库里公民 种姓制度</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_259.html" class="chapter-link">
+                        <div class="chapter-number">第二百五十五章</div>
+                        <div class="chapter-title">第二百五十五章 {精品}油库里公民 农奴制</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_260.html" class="chapter-link">
+                        <div class="chapter-number">第二百五十六章</div>
+                        <div class="chapter-title">第二百五十六章 {精品}油库里公民 奴隶解放</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_261.html" class="chapter-link">
+                        <div class="chapter-number">第二百五十七章</div>
+                        <div class="chapter-title">第二百五十七章 {精品}一个无所救赎的故事</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_262.html" class="chapter-link">
+                        <div class="chapter-number">第二百五十八章</div>
+                        <div class="chapter-title">第二百五十八章 {精品}{争议}少女与魔里沙</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_263.html" class="chapter-link">
+                        <div class="chapter-number">第二百五十九章</div>
+                        <div class="chapter-title">第二百五十九章 馒头带来的烘焙业变革</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_264.html" class="chapter-link">
+                        <div class="chapter-number">第二百六十章</div>
+                        <div class="chapter-title">第二百六十章 {精品}后油库里时代</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_265.html" class="chapter-link">
+                        <div class="chapter-number">第二百六十一章</div>
+                        <div class="chapter-title">第二百六十一章 {精品}{坑}油库里革新——十只魔理沙的故事</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_266.html" class="chapter-link">
+                        <div class="chapter-number">第二百六十二章</div>
+                        <div class="chapter-title">第二百六十二章 {精品}{争议}虐大叔</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_267.html" class="chapter-link">
+                        <div class="chapter-number">第二百六十三章</div>
+                        <div class="chapter-title">第二百六十三章 {精品}小贝比什么的没有生过</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_268.html" class="chapter-link">
+                        <div class="chapter-number">第二百六十四章</div>
+                        <div class="chapter-title">第二百六十四章 理所应当的罪行</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_269.html" class="chapter-link">
+                        <div class="chapter-number">第二百六十五章</div>
+                        <div class="chapter-title">第二百六十五章 琪露诺种花</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_270.html" class="chapter-link">
+                        <div class="chapter-number">第二百六十六章</div>
+                        <div class="chapter-title">第二百六十六章 {精品}冬天的油库里place</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_271.html" class="chapter-link">
+                        <div class="chapter-number">第二百六十七章</div>
+                        <div class="chapter-title">第二百六十七章 {精品}一起油库里吧！</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_272.html" class="chapter-link">
+                        <div class="chapter-number">第二百六十八章</div>
+                        <div class="chapter-title">第二百六十八章 {精品}anko583遗腹子</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_273.html" class="chapter-link">
+                        <div class="chapter-number">第二百六十九章</div>
+                        <div class="chapter-title">第二百六十九章 可笑的复仇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_274.html" class="chapter-link">
+                        <div class="chapter-number">第二百七十章</div>
+                        <div class="chapter-title">第二百七十章 {精品}点心铺大哥哥</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_275.html" class="chapter-link">
+                        <div class="chapter-number">第二百七十一章</div>
+                        <div class="chapter-title">第二百七十一章 {精品}子供玩乐油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_276.html" class="chapter-link">
+                        <div class="chapter-number">第二百七十二章</div>
+                        <div class="chapter-title">第二百七十二章 研究爱丽丝</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_277.html" class="chapter-link">
+                        <div class="chapter-number">第二百七十三章</div>
+                        <div class="chapter-title">第二百七十三章 挑战人类</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_278.html" class="chapter-link">
+                        <div class="chapter-number">第二百七十四章</div>
+                        <div class="chapter-title">第二百七十四章 油库里蕾咪莉亚与奇妙的朋友</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_279.html" class="chapter-link">
+                        <div class="chapter-number">第二百七十五章</div>
+                        <div class="chapter-title">第二百七十五章 油库里改造计划</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_280.html" class="chapter-link">
+                        <div class="chapter-number">第二百七十六章</div>
+                        <div class="chapter-title">第二百七十六章 诸君，我喜欢虐待油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_281.html" class="chapter-link">
+                        <div class="chapter-number">第二百七十七章</div>
+                        <div class="chapter-title">第二百七十七章 油库里沙包</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_282.html" class="chapter-link">
+                        <div class="chapter-number">第二百七十八章</div>
+                        <div class="chapter-title">第二百七十八章 {精品}贝壳魔理沙</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_283.html" class="chapter-link">
+                        <div class="chapter-number">第二百七十九章</div>
+                        <div class="chapter-title">第二百七十九章 灵梦的杂技表演</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_284.html" class="chapter-link">
+                        <div class="chapter-number">第二百八十章</div>
+                        <div class="chapter-title">第二百八十章 {精品}「丑八怪灵梦」</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_285.html" class="chapter-link">
+                        <div class="chapter-number">第二百八十一章</div>
+                        <div class="chapter-title">第二百八十一章 {精品}情人节</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_286.html" class="chapter-link">
+                        <div class="chapter-number">第二百八十二章</div>
+                        <div class="chapter-title">第二百八十二章 乞讨的艾丽斯</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_287.html" class="chapter-link">
+                        <div class="chapter-number">第二百八十三章</div>
+                        <div class="chapter-title">第二百八十三章 十只魔理沙</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_288.html" class="chapter-link">
+                        <div class="chapter-number">第二百八十四章</div>
+                        <div class="chapter-title">第二百八十四章 {精品}山中的灵梦</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_289.html" class="chapter-link">
+                        <div class="chapter-number">第二百八十五章</div>
+                        <div class="chapter-title">第二百八十五章 {坑}给油库里摄取小麦粉的故事</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_290.html" class="chapter-link">
+                        <div class="chapter-number">第二百八十六章</div>
+                        <div class="chapter-title">第二百八十六章 野生油库里的生活</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_291.html" class="chapter-link">
+                        <div class="chapter-number">第二百八十七章</div>
+                        <div class="chapter-title">第二百八十七章 阿求种</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_292.html" class="chapter-link">
+                        <div class="chapter-number">第二百八十八章</div>
+                        <div class="chapter-title">第二百八十八章 垃圾魔理沙</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_293.html" class="chapter-link">
+                        <div class="chapter-number">第二百八十九章</div>
+                        <div class="chapter-title">第二百八十九章 爱皮猪日记</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_294.html" class="chapter-link">
+                        <div class="chapter-number">第二百九十章</div>
+                        <div class="chapter-title">第二百九十章 幻想乡虐油短篇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_295.html" class="chapter-link">
+                        <div class="chapter-number">第二百九十一章</div>
+                        <div class="chapter-title">第二百九十一章 油库里姉妹　前编</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_296.html" class="chapter-link">
+                        <div class="chapter-number">第二百九十二章</div>
+                        <div class="chapter-title">第二百九十二章 三只爱丽丝</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_297.html" class="chapter-link">
+                        <div class="chapter-number">第二百九十三章</div>
+                        <div class="chapter-title">第二百九十三章 油库里喝酒</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_298.html" class="chapter-link">
+                        <div class="chapter-number">第二百九十四章</div>
+                        <div class="chapter-title">第二百九十四章 杂篇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_299.html" class="chapter-link">
+                        <div class="chapter-number">第二百九十五章</div>
+                        <div class="chapter-title">第二百九十五章 住家宣言的故事</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_300.html" class="chapter-link">
+                        <div class="chapter-number">第二百九十六章</div>
+                        <div class="chapter-title">第二百九十六章 住家宣言的故事附加剧情</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_301.html" class="chapter-link">
+                        <div class="chapter-number">第二百九十七章</div>
+                        <div class="chapter-title">第二百九十七章 油多拉的宝盒</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_302.html" class="chapter-link">
+                        <div class="chapter-number">第二百九十八章</div>
+                        <div class="chapter-title">第二百九十八章 一颗馒头加上少许的嫉妒所引发一桩悲剧的一</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_303.html" class="chapter-link">
+                        <div class="chapter-number">第二百九十九章</div>
+                        <div class="chapter-title">第二百九十九章 新种爱丽丝</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_304.html" class="chapter-link">
+                        <div class="chapter-number">第三百章</div>
+                        <div class="chapter-title">第三百章 美丽的油库里的制造方法</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_305.html" class="chapter-link">
+                        <div class="chapter-number">第三百零一章</div>
+                        <div class="chapter-title">第三百零一章 鬼之家</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_306.html" class="chapter-link">
+                        <div class="chapter-number">第三百零二章</div>
+                        <div class="chapter-title">第三百零二章 油虐用具</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_307.html" class="chapter-link">
+                        <div class="chapter-number">第三百零三章</div>
+                        <div class="chapter-title">第三百零三章 幻想铁路公司</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_308.html" class="chapter-link">
+                        <div class="chapter-number">第三百零四章</div>
+                        <div class="chapter-title">第三百零四章 BOMB</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_309.html" class="chapter-link">
+                        <div class="chapter-number">第三百零五章</div>
+                        <div class="chapter-title">第三百零五章 无名杂篇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_310.html" class="chapter-link">
+                        <div class="chapter-number">第三百零六章</div>
+                        <div class="chapter-title">第三百零六章 杂篇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_311.html" class="chapter-link">
+                        <div class="chapter-number">第三百零七章</div>
+                        <div class="chapter-title">第三百零七章 {精品}HK夜市油库里美食</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_312.html" class="chapter-link">
+                        <div class="chapter-number">第三百零八章</div>
+                        <div class="chapter-title">第三百零八章 恶妻</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_313.html" class="chapter-link">
+                        <div class="chapter-number">第三百零九章</div>
+                        <div class="chapter-title">第三百零九章 金属化</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_314.html" class="chapter-link">
+                        <div class="chapter-number">第三百一十章</div>
+                        <div class="chapter-title">第三百一十章 感情剧</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_315.html" class="chapter-link">
+                        <div class="chapter-number">第三百一十一章</div>
+                        <div class="chapter-title">第三百一十一章 给油库里喂食食物的反应集</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_316.html" class="chapter-link">
+                        <div class="chapter-number">第三百一十二章</div>
+                        <div class="chapter-title">第三百一十二章 永琳油库里加工厂的新产品推介</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_317.html" class="chapter-link">
+                        <div class="chapter-number">第三百一十三章</div>
+                        <div class="chapter-title">第三百一十三章 {精品}黄金开口笑包子</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_318.html" class="chapter-link">
+                        <div class="chapter-number">第三百一十四章</div>
+                        <div class="chapter-title">第三百一十四章 永不分离的发饰</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_319.html" class="chapter-link">
+                        <div class="chapter-number">第三百一十五章</div>
+                        <div class="chapter-title">第三百一十五章 {争议}列梦二创</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_320.html" class="chapter-link">
+                        <div class="chapter-number">第三百一十六章</div>
+                        <div class="chapter-title">第三百一十六章 眼睛中的摄像机</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_321.html" class="chapter-link">
+                        <div class="chapter-number">第三百一十七章</div>
+                        <div class="chapter-title">第三百一十七章 一些稀有种设定</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_322.html" class="chapter-link">
+                        <div class="chapter-number">第三百一十八章</div>
+                        <div class="chapter-title">第三百一十八章 油库里吸引机</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_323.html" class="chapter-link">
+                        <div class="chapter-number">第三百一十九章</div>
+                        <div class="chapter-title">第三百一十九章 巫女和油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_324.html" class="chapter-link">
+                        <div class="chapter-number">第三百二十章</div>
+                        <div class="chapter-title">第三百二十章 油库里设定</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_325.html" class="chapter-link">
+                        <div class="chapter-number">第三百二十一章</div>
+                        <div class="chapter-title">第三百二十一章 {精品}馒头求闻史记</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_326.html" class="chapter-link">
+                        <div class="chapter-number">第三百二十二章</div>
+                        <div class="chapter-title">第三百二十二章 杂篇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_327.html" class="chapter-link">
+                        <div class="chapter-number">第三百二十三章</div>
+                        <div class="chapter-title">第三百二十三章 {争议}列梦二创</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_328.html" class="chapter-link">
+                        <div class="chapter-number">第三百二十四章</div>
+                        <div class="chapter-title">第三百二十四章 虐待杂篇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_329.html" class="chapter-link">
+                        <div class="chapter-number">第三百二十五章</div>
+                        <div class="chapter-title">第三百二十五章 油库里种族特性</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_330.html" class="chapter-link">
+                        <div class="chapter-number">第三百二十六章</div>
+                        <div class="chapter-title">第三百二十六章 油库里反击</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_331.html" class="chapter-link">
+                        <div class="chapter-number">第三百二十七章</div>
+                        <div class="chapter-title">第三百二十七章 {精品}入侵室内的爱丽丝</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_332.html" class="chapter-link">
+                        <div class="chapter-number">第三百二十八章</div>
+                        <div class="chapter-title">第三百二十八章 {精品}点心铺大哥哥第三部</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_333.html" class="chapter-link">
+                        <div class="chapter-number">第三百二十九章</div>
+                        <div class="chapter-title">第三百二十九章 油库里兄弟</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_334.html" class="chapter-link">
+                        <div class="chapter-number">第三百三十章</div>
+                        <div class="chapter-title">第三百三十章 入侵妖怪领域的油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_335.html" class="chapter-link">
+                        <div class="chapter-number">第三百三十一章</div>
+                        <div class="chapter-title">第三百三十一章 爱皮猪的反抗</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_336.html" class="chapter-link">
+                        <div class="chapter-number">第三百三十二章</div>
+                        <div class="chapter-title">第三百三十二章 {精品}冬天的街道</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_337.html" class="chapter-link">
+                        <div class="chapter-number">第三百三十三章</div>
+                        <div class="chapter-title">第三百三十三章 油库里艾丽斯没办法都会派。</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_338.html" class="chapter-link">
+                        <div class="chapter-number">第三百三十四章</div>
+                        <div class="chapter-title">第三百三十四章 {精品}盒装麻理恰</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_339.html" class="chapter-link">
+                        <div class="chapter-number">第三百三十五章</div>
+                        <div class="chapter-title">第三百三十五章 {精品}{更新中}油库里健身房</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_340.html" class="chapter-link">
+                        <div class="chapter-number">第三百三十六章</div>
+                        <div class="chapter-title">第三百三十六章 在山地遇到油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_341.html" class="chapter-link">
+                        <div class="chapter-number">第三百三十七章</div>
+                        <div class="chapter-title">第三百三十七章 {精品}爱哥哥与早产儿油库里（虐）</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_342.html" class="chapter-link">
+                        <div class="chapter-number">第三百三十八章</div>
+                        <div class="chapter-title">第三百三十八章 【混沌（渣改文）】世间众油</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_343.html" class="chapter-link">
+                        <div class="chapter-number">第三百三十九章</div>
+                        <div class="chapter-title">第三百三十九章 【混沌】独创的世界观？（有缺失）</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_344.html" class="chapter-link">
+                        <div class="chapter-number">第三百四十章</div>
+                        <div class="chapter-title">第三百四十章 {精品}【混沌】【制裁】伐猎者与恶心丸·</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_345.html" class="chapter-link">
+                        <div class="chapter-number">第三百四十一章</div>
+                        <div class="chapter-title">第三百四十一章 {精品}衔尾蛇之棺</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_346.html" class="chapter-link">
+                        <div class="chapter-number">第三百四十二章</div>
+                        <div class="chapter-title">第三百四十二章 {精品}anko11850 朋友家的旧箱</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_347.html" class="chapter-link">
+                        <div class="chapter-number">第三百四十三章</div>
+                        <div class="chapter-title">第三百四十三章 {精品}anko11793 好多好多不能</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_348.html" class="chapter-link">
+                        <div class="chapter-number">第三百四十四章</div>
+                        <div class="chapter-title">第三百四十四章 【观察文】油库里和荔枝先生</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_349.html" class="chapter-link">
+                        <div class="chapter-number">第三百四十五章</div>
+                        <div class="chapter-title">第三百四十五章 【纪录，类日记】油库里，从岛来。</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_350.html" class="chapter-link">
+                        <div class="chapter-number">第三百四十六章</div>
+                        <div class="chapter-title">第三百四十六章 long live the yukkur</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_351.html" class="chapter-link">
+                        <div class="chapter-number">第三百四十七章</div>
+                        <div class="chapter-title">第三百四十七章 {精品}圆滚滚的实油们</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_352.html" class="chapter-link">
+                        <div class="chapter-number">第三百四十八章</div>
+                        <div class="chapter-title">第三百四十八章 {精品}小学生的观察日志</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_353.html" class="chapter-link">
+                        <div class="chapter-number">第三百四十九章</div>
+                        <div class="chapter-title">第三百四十九章 {精品}[自作馅文] 鱼缸与焰火</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_354.html" class="chapter-link">
+                        <div class="chapter-number">第三百五十章</div>
+                        <div class="chapter-title">第三百五十章 {精品}anko4510 地狱公园</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_355.html" class="chapter-link">
+                        <div class="chapter-number">第三百五十二章</div>
+                        <div class="chapter-title">第三百五十二章 {精品} 孤儿愿</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_356.html" class="chapter-link">
+                        <div class="chapter-number">第三百五十三章</div>
+                        <div class="chapter-title">第三百五十三章 {精品}【短篇文/虐】爱与被爱</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_357.html" class="chapter-link">
+                        <div class="chapter-number">第三百五十四章</div>
+                        <div class="chapter-title">第三百五十四章 家油粉</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_358.html" class="chapter-link">
+                        <div class="chapter-number">第三百五十五章</div>
+                        <div class="chapter-title">第三百五十五章 【虐文】【非长篇】和捕食种们一起馒馒来~</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_359.html" class="chapter-link">
+                        <div class="chapter-number">第三百五十六章</div>
+                        <div class="chapter-title">第三百五十六章 【文】蘑菇，金平糖与杂货铺</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_360.html" class="chapter-link">
+                        <div class="chapter-number">第三百五十七章</div>
+                        <div class="chapter-title">第三百五十七章 【虐】在那天被忘却的名字</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_361.html" class="chapter-link">
+                        <div class="chapter-number">第三百五十八章</div>
+                        <div class="chapter-title">第三百五十八章 欢乐向馒文 加油啊！比尔先生！</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_362.html" class="chapter-link">
+                        <div class="chapter-number">第三百五十九章</div>
+                        <div class="chapter-title">第三百五十九章 欢乐向？ 不要停下来啊！鬼意山先生！</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_363.html" class="chapter-link">
+                        <div class="chapter-number">第三百六十章</div>
+                        <div class="chapter-title">第三百六十章 【馒文】科学实验-睡眠剥夺（坑，被吞了挺</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_364.html" class="chapter-link">
+                        <div class="chapter-number">第三百六十一章</div>
+                        <div class="chapter-title">第三百六十一章 {争议}【多种分类】苦力怕的馅文楼！</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_365.html" class="chapter-link">
+                        <div class="chapter-number">第三百六十二章</div>
+                        <div class="chapter-title">第三百六十二章 【歌词\制裁】住家宣言的麻恰</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_366.html" class="chapter-link">
+                        <div class="chapter-number">第三百六十三章</div>
+                        <div class="chapter-title">第三百六十三章 【原创文坑】六花夕持</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_367.html" class="chapter-link">
+                        <div class="chapter-number">第三百六十四章</div>
+                        <div class="chapter-title">第三百六十四章 长凳下的一家</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_368.html" class="chapter-link">
+                        <div class="chapter-number">第三百六十五章</div>
+                        <div class="chapter-title">第三百六十五章 【原创文】【虐】小贝比是好甜好甜喔【短篇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_369.html" class="chapter-link">
+                        <div class="chapter-number">第三百六十六章</div>
+                        <div class="chapter-title">第三百六十六章 {精品}【翻译】anko3557 非油症</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_370.html" class="chapter-link">
+                        <div class="chapter-number">第三百六十七章</div>
+                        <div class="chapter-title">第三百六十七章 【翻译】anko0569 爱丽丝观察日志</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_371.html" class="chapter-link">
+                        <div class="chapter-number">第三百六十八章</div>
+                        <div class="chapter-title">第三百六十八章 【制裁】油库里狩猎 >完结篇<</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_372.html" class="chapter-link">
+                        <div class="chapter-number">第三百六十九章</div>
+                        <div class="chapter-title">第三百六十九章 【文】魔理渣大爷（观察系）</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_373.html" class="chapter-link">
+                        <div class="chapter-number">第三百七十章</div>
+                        <div class="chapter-title">第三百七十章 【新人】【原创文】【短篇虐向？】 脱轨的</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_374.html" class="chapter-link">
+                        <div class="chapter-number">第三百七十一章</div>
+                        <div class="chapter-title">第三百七十一章 [原创馅小说] 脱轨的火车 (重写)</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_375.html" class="chapter-link">
+                        <div class="chapter-number">第三百七十二章</div>
+                        <div class="chapter-title">第三百七十二章 【原创短文】油库里的换馅实验哒</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_376.html" class="chapter-link">
+                        <div class="chapter-number">第三百七十三章</div>
+                        <div class="chapter-title">第三百七十三章 【馅文】《第十个音符》</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_377.html" class="chapter-link">
+                        <div class="chapter-number">第三百七十四章</div>
+                        <div class="chapter-title">第三百七十四章 【渣文/虐/稀有虐/长篇连载/不定期更新</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_378.html" class="chapter-link">
+                        <div class="chapter-number">第三百七十五章</div>
+                        <div class="chapter-title">第三百七十五章【爱向】【坑文】碰瓷碰来的小帕琪</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_379.html" class="chapter-link">
+                        <div class="chapter-number">第三百七十六章</div>
+                        <div class="chapter-title">第三百七十六章 【虐文】（大概也有爱）麻里沙与灵缪的培养</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_380.html" class="chapter-link">
+                        <div class="chapter-number">第三百七十七章</div>
+                        <div class="chapter-title">第三百七十七章 【原创】【新人文坑】魔理沙的奇妙冒险</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_381.html" class="chapter-link">
+                        <div class="chapter-number">第三百七十八章</div>
+                        <div class="chapter-title">第三百七十八章  【虐】【短文】被放生的油库里的下场</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_382.html" class="chapter-link">
+                        <div class="chapter-number">第三百七十九章</div>
+                        <div class="chapter-title">第三百七十九章 【文】【虐】养油七日</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_383.html" class="chapter-link">
+                        <div class="chapter-number">第三百八十章</div>
+                        <div class="chapter-title">第三百八十章 {精品}最棒的猎手和最好的歌手</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_384.html" class="chapter-link">
+                        <div class="chapter-number">第三百八十一章</div>
+                        <div class="chapter-title">第三百八十一章 【馅小说】自然系虐油 系列</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_385.html" class="chapter-link">
+                        <div class="chapter-number">第三百八十二章</div>
+                        <div class="chapter-title">第三百八十二章 燔空之下，麻恰与海</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_386.html" class="chapter-link">
+                        <div class="chapter-number">第三百八十三章</div>
+                        <div class="chapter-title">第三百八十三章 【虐】不妙的宠物油生活</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_387.html" class="chapter-link">
+                        <div class="chapter-number">第三百八十四章</div>
+                        <div class="chapter-title">第三百八十四章 {精品}【虐·馅小说】人生攻略照亮你的生</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_388.html" class="chapter-link">
+                        <div class="chapter-number">第三百八十五章</div>
+                        <div class="chapter-title">第三百八十五章 {精品}【馅小说】【半生不熟翻译】翘家魔</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_389.html" class="chapter-link">
+                        <div class="chapter-number">第三百八十六章</div>
+                        <div class="chapter-title">第三百八十六章 『馅小说』油库里的月亮</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_390.html" class="chapter-link">
+                        <div class="chapter-number">第三百八十七章</div>
+                        <div class="chapter-title">第三百八十七章 {精品}‘油库里’的族群</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_391.html" class="chapter-link">
+                        <div class="chapter-number">第三百八十八章</div>
+                        <div class="chapter-title">第三百八十八章 自制馅文《魔力沙与叛逆的世界》</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_392.html" class="chapter-link">
+                        <div class="chapter-number">第三百八十九章</div>
+                        <div class="chapter-title">第三百八十九章 {精品}【虐/馅文】《油库里的制裁者》</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_393.html" class="chapter-link">
+                        <div class="chapter-number">第三百九十章</div>
+                        <div class="chapter-title">第三百九十章 {精品}《不能油库里的普利斯》</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_394.html" class="chapter-link">
+                        <div class="chapter-number">第三百九十一章</div>
+                        <div class="chapter-title">第三百九十一章 《崩溃的父与子》</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_395.html" class="chapter-link">
+                        <div class="chapter-number">第三百九十二章</div>
+                        <div class="chapter-title">第三百九十二章 {精品}《中秋的油库里月饼》</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_396.html" class="chapter-link">
+                        <div class="chapter-number">第三百九十三章</div>
+                        <div class="chapter-title">第三百九十三章 《报应，直至坠入地狱》（等待更新）</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_397.html" class="chapter-link">
+                        <div class="chapter-number">第三百九十四章</div>
+                        <div class="chapter-title">第三百九十四章 {精品}默认的沉默的声音</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_398.html" class="chapter-link">
+                        <div class="chapter-number">第三百九十五章</div>
+                        <div class="chapter-title">第三百九十五章 {精品}欺负公园里的魔理沙父子</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_399.html" class="chapter-link">
+                        <div class="chapter-number">第三百九十六章</div>
+                        <div class="chapter-title">第三百九十六章 {精品}流浪油和鞋印更相配</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_400.html" class="chapter-link">
+                        <div class="chapter-number">第三百九十七章</div>
+                        <div class="chapter-title">第三百九十七章 女神与公主宁梦</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_401.html" class="chapter-link">
+                        <div class="chapter-number">第三百九十八章</div>
+                        <div class="chapter-title">第三百九十八章 玲奈-驱油</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_402.html" class="chapter-link">
+                        <div class="chapter-number">第三百九十九章</div>
+                        <div class="chapter-title">第三百九十九章 {精品}{争议} bob起源</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_403.html" class="chapter-link">
+                        <div class="chapter-number">第四百章</div>
+                        <div class="chapter-title">第四百章 玲奈-</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_404.html" class="chapter-link">
+                        <div class="chapter-number">第四百零一章</div>
+                        <div class="chapter-title">第四百零一章 失坠的妄想</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_405.html" class="chapter-link">
+                        <div class="chapter-number">第四百零二章</div>
+                        <div class="chapter-title">第四百零二章 地狱般的厨余</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_406.html" class="chapter-link">
+                        <div class="chapter-number">第四百零三章</div>
+                        <div class="chapter-title">第四百零三章 小贝比是嗯嗯奴隶</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_407.html" class="chapter-link">
+                        <div class="chapter-number">第四百零四章</div>
+                        <div class="chapter-title">第四百零四章 身体种界限</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_408.html" class="chapter-link">
+                        <div class="chapter-number">第四百零五章</div>
+                        <div class="chapter-title">第四百零五章 普通种是劣种</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_409.html" class="chapter-link">
+                        <div class="chapter-number">第四百零六章</div>
+                        <div class="chapter-title">第四百零六章 失踪的小贝比</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_410.html" class="chapter-link">
+                        <div class="chapter-number">第四百零七章</div>
+                        <div class="chapter-title">第四百零七章 安乐 死</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_411.html" class="chapter-link">
+                        <div class="chapter-number">第四百零八章</div>
+                        <div class="chapter-title">第四百零八章 狭缝中的家族</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_412.html" class="chapter-link">
+                        <div class="chapter-number">第四百零九章</div>
+                        <div class="chapter-title">第四百零九章 与芙兰的偶遇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_413.html" class="chapter-link">
+                        <div class="chapter-number">第四百一十章</div>
+                        <div class="chapter-title">第四百一十章 油库里典的业务</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_414.html" class="chapter-link">
+                        <div class="chapter-number">第四百一十一章</div>
+                        <div class="chapter-title">第四百一十一章 不同种群的战争</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_415.html" class="chapter-link">
+                        <div class="chapter-number">第四百一十二章</div>
+                        <div class="chapter-title">第四百一十二章 虚伪的油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_416.html" class="chapter-link">
+                        <div class="chapter-number">第四百一十三章</div>
+                        <div class="chapter-title">第四百一十三章	 消灭大作战</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_417.html" class="chapter-link">
+                        <div class="chapter-number">第四百一十四章</div>
+                        <div class="chapter-title">第四百一十四章 繁殖油与普通油</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_418.html" class="chapter-link">
+                        <div class="chapter-number">第四百一十五章</div>
+                        <div class="chapter-title">第四百一十五章 社区油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_419.html" class="chapter-link">
+                        <div class="chapter-number">第四百一十六章</div>
+                        <div class="chapter-title">第四百一十六章 橙的无知之罪</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_420.html" class="chapter-link">
+                        <div class="chapter-number">第四百一十七章</div>
+                        <div class="chapter-title">第四百一十七章 玲奈的日常</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_421.html" class="chapter-link">
+                        <div class="chapter-number">第四百一十八章</div>
+                        <div class="chapter-title">第四百一十八章 不一样的人形</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_422.html" class="chapter-link">
+                        <div class="chapter-number">第四百一十九章</div>
+                        <div class="chapter-title">第四百一十九章 来自人类的天罚</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_423.html" class="chapter-link">
+                        <div class="chapter-number">第四百二十章</div>
+                        <div class="chapter-title">第四百二十章 幕间──油库里地狱 玲奈的日常</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_424.html" class="chapter-link">
+                        <div class="chapter-number">第四百二十一章</div>
+                        <div class="chapter-title">第四百二十一章 世代更替的油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_425.html" class="chapter-link">
+                        <div class="chapter-number">第四百二十二章</div>
+                        <div class="chapter-title">第四百二十二章 身体种的培育</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_426.html" class="chapter-link">
+                        <div class="chapter-number">第四百二十三章</div>
+                        <div class="chapter-title">第四百二十三章 帕秋莉母女</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_427.html" class="chapter-link">
+                        <div class="chapter-number">第四百二十四章</div>
+                        <div class="chapter-title">第四百二十四章 被时间抛弃的灵梦</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_428.html" class="chapter-link">
+                        <div class="chapter-number">第四百二十五章</div>
+                        <div class="chapter-title">第四百二十五章 油库里的真相</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_429.html" class="chapter-link">
+                        <div class="chapter-number">第四百二十六章</div>
+                        <div class="chapter-title">第四百二十六章 小肥（飞）梦</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_430.html" class="chapter-link">
+                        <div class="chapter-number">第四百二十七章</div>
+                        <div class="chapter-title">第四百二十七章 逐步扭曲的麻利莎（（油库里与幽幽子）的四</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_431.html" class="chapter-link">
+                        <div class="chapter-number">第四百二十八章</div>
+                        <div class="chapter-title">第四百二十八章 勇仪种</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_432.html" class="chapter-link">
+                        <div class="chapter-number">第四百二十九章</div>
+                        <div class="chapter-title">第四百二十九章 相信幸福一定会油库里来临！</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_433.html" class="chapter-link">
+                        <div class="chapter-number">第四百三十章</div>
+                        <div class="chapter-title">第四百三十章 {精品}努力的父馒</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_434.html" class="chapter-link">
+                        <div class="chapter-number">第四百三十一章</div>
+                        <div class="chapter-title">第四百三十一章 无名杂篇</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_435.html" class="chapter-link">
+                        <div class="chapter-number">第四百三十二章</div>
+                        <div class="chapter-title">第四百三十二章 {精品}{争议}病态</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_436.html" class="chapter-link">
+                        <div class="chapter-number">第四百三十三章</div>
+                        <div class="chapter-title">第四百三十三章 {精品}想独当一面的废物麻里莎</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_437.html" class="chapter-link">
+                        <div class="chapter-number">第四百三十四章</div>
+                        <div class="chapter-title">第四百三十四章 {精品} 油库里战争</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_438.html" class="chapter-link">
+                        <div class="chapter-number">第四百三十五章</div>
+                        <div class="chapter-title">第四百三十五章 {精品}【观察】【机翻润色】anko43</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_439.html" class="chapter-link">
+                        <div class="chapter-number">第四百三十六章</div>
+                        <div class="chapter-title">第四百三十六章 {精品}孤独的油戏家</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_440.html" class="chapter-link">
+                        <div class="chapter-number">第四百三十七章</div>
+                        <div class="chapter-title">第四百三十七章 {更新中}被选中的麻以恰</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_441.html" class="chapter-link">
+                        <div class="chapter-number">第四百三十八章</div>
+                        <div class="chapter-title">第四百三十八章 自然虐：史上最屑父子吵架</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_442.html" class="chapter-link">
+                        <div class="chapter-number">第四百三十九章</div>
+                        <div class="chapter-title">第四百三十九章 《付不起的代价》</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_443.html" class="chapter-link">
+                        <div class="chapter-number">第四百四十章</div>
+                        <div class="chapter-title">第四百四十章 {更新中}《遴选》</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_444.html" class="chapter-link">
+                        <div class="chapter-number">第四百四十一章</div>
+                        <div class="chapter-title">第四百四十一章 {精品}【虐|观|苛|机翻润色】 虐油之</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_445.html" class="chapter-link">
+                        <div class="chapter-number">第四百四十二章</div>
+                        <div class="chapter-title">第四百四十二章 小段子：废油制造机</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_446.html" class="chapter-link">
+                        <div class="chapter-number">第四百四十三章</div>
+                        <div class="chapter-title">第四百四十三章{精品}一個蠢蛋魔理掐離家出走的故事</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_447.html" class="chapter-link">
+                        <div class="chapter-number">第四百四十四章</div>
+                        <div class="chapter-title">第四百四十四章 {精品}糞金屬</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_448.html" class="chapter-link">
+                        <div class="chapter-number">第四百四十五章</div>
+                        <div class="chapter-title">第四百四十五章 麻里沙探险队anko11730</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_449.html" class="chapter-link">
+                        <div class="chapter-number">第四百四十六章</div>
+                        <div class="chapter-title">第四百四十六章 {精品}【观察】ANKO 11453 中</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_450.html" class="chapter-link">
+                        <div class="chapter-number">第四百四十七章</div>
+                        <div class="chapter-title">第四百四十七章 {精品}【爱】ANKO 9135 油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_451.html" class="chapter-link">
+                        <div class="chapter-number">第四百四十八章</div>
+                        <div class="chapter-title">第四百四十八章 馒头变奏曲</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_452.html" class="chapter-link">
+                        <div class="chapter-number">第四百四十九章</div>
+                        <div class="chapter-title">第四百四十九章 {精品}粪金</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_453.html" class="chapter-link">
+                        <div class="chapter-number">第四百五十章</div>
+                        <div class="chapter-title">第四百五十章 {精品}满足</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_454.html" class="chapter-link">
+                        <div class="chapter-number">第四百五十一章</div>
+                        <div class="chapter-title">第四百五十一章 {精品}河边的小小故事</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_455.html" class="chapter-link">
+                        <div class="chapter-number">第四百五十二章</div>
+                        <div class="chapter-title">第四百五十二章 {精品}香江之油</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_456.html" class="chapter-link">
+                        <div class="chapter-number">第四百五十三章</div>
+                        <div class="chapter-title">第四百五十三章 小区花园里的油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_457.html" class="chapter-link">
+                        <div class="chapter-number">第四百五十四章</div>
+                        <div class="chapter-title">第四百五十四章 茧</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_458.html" class="chapter-link">
+                        <div class="chapter-number">第四百五十五章</div>
+                        <div class="chapter-title">第四百五十五章 残疾的油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_459.html" class="chapter-link">
+                        <div class="chapter-number">第四百五十六章</div>
+                        <div class="chapter-title">第四百五十六章 嗯嗯奴隶是宠物油先生！</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_460.html" class="chapter-link">
+                        <div class="chapter-number">第四百五十七章</div>
+                        <div class="chapter-title">第四百五十七章 杂草</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_461.html" class="chapter-link">
+                        <div class="chapter-number">第四百五十八章</div>
+                        <div class="chapter-title">第四百五十八章 序：拂晓出击</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_462.html" class="chapter-link">
+                        <div class="chapter-number">第四百五十九章</div>
+                        <div class="chapter-title">第四百五十九章 麻恰的故事</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_463.html" class="chapter-link">
+                        <div class="chapter-number">第四百六十章</div>
+                        <div class="chapter-title">第四百六十章 林中之油.</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_464.html" class="chapter-link">
+                        <div class="chapter-number">第四百六十一章</div>
+                        <div class="chapter-title">第四百六十一章 逆转的油库里</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_465.html" class="chapter-link">
+                        <div class="chapter-number">第四百六十二章</div>
+                        <div class="chapter-title">第四百六十二章 {精品}麻恰已出舱，感觉良好noze！！</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_466.html" class="chapter-link">
+                        <div class="chapter-number">第四百六十三章</div>
+                        <div class="chapter-title">第四百六十三章 殊途同归</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_467.html" class="chapter-link">
+                        <div class="chapter-number">第四百六十四章</div>
+                        <div class="chapter-title">第四百六十四章 {自然}人工降雪</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_468.html" class="chapter-link">
+                        <div class="chapter-number">第四百六十五章</div>
+                        <div class="chapter-title">第四百六十五章 腥风摇曳枯木之果，残月半皓生死之间</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_469.html" class="chapter-link">
+                        <div class="chapter-number">第四百六十六章</div>
+                        <div class="chapter-title">第四百六十六章 魔理沙的传奇油生</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_470.html" class="chapter-link">
+                        <div class="chapter-number">第四百六十七章</div>
+                        <div class="chapter-title">第四百六十七章 地域油与油库里狂热</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_471.html" class="chapter-link">
+                        <div class="chapter-number">第四百六十八章</div>
+                        <div class="chapter-title">第四百六十八章 高塔上的五日之王</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_472.html" class="chapter-link">
+                        <div class="chapter-number">第四百六十九章</div>
+                        <div class="chapter-title">第四百六十九章 灵梦麻恰大家族</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_473.html" class="chapter-link">
+                        <div class="chapter-number">第四百七十章</div>
+                        <div class="chapter-title">第四百七十章 过了冬至就是年</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_474.html" class="chapter-link">
+                        <div class="chapter-number">第四百七十一章</div>
+                        <div class="chapter-title">第四百七十一章 麻恰新年快乐</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_475.html" class="chapter-link">
+                        <div class="chapter-number">第四百七十二章</div>
+                        <div class="chapter-title">第四百七十二章 鲅鱼紫与三角函数的自我谋杀</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_476.html" class="chapter-link">
+                        <div class="chapter-number">第四百七十三章</div>
+                        <div class="chapter-title">第四百七十三章 好日子还在后头呢</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_477.html" class="chapter-link">
+                        <div class="chapter-number">第四百七十四章</div>
+                        <div class="chapter-title">第四百七十四章 油奴</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_478.html" class="chapter-link">
+                        <div class="chapter-number">第四百七十五章</div>
+                        <div class="chapter-title">第四百七十五章 三六九等</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_479.html" class="chapter-link">
+                        <div class="chapter-number">第四百七十六章</div>
+                        <div class="chapter-title">第四百七十六章 麻恰的大家庭一起庆祝新年吧</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_480.html" class="chapter-link">
+                        <div class="chapter-number">第四百七十七章</div>
+                        <div class="chapter-title">第四百七十七章 最美的灵梦</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_481.html" class="chapter-link">
+                        <div class="chapter-number">第四百七十八章</div>
+                        <div class="chapter-title">第四百七十八章 罪与善良</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_482.html" class="chapter-link">
+                        <div class="chapter-number">第四百七十九章</div>
+                        <div class="chapter-title">第四百七十九章 anko5348 越冬准备</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_483.html" class="chapter-link">
+                        <div class="chapter-number">第四百八十章</div>
+                        <div class="chapter-title">第四百八十章 anko12344 家油族群的DOS</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_484.html" class="chapter-link">
+                        <div class="chapter-number">第四百八十一章</div>
+                        <div class="chapter-title">第四百八十一章 anko5150 稻田的水上魔理沙</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_485.html" class="chapter-link">
+                        <div class="chapter-number">第四百八十二章</div>
+                        <div class="chapter-title">第四百八十二章 anko7520 稻田的水上魔理沙(夏伏</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_486.html" class="chapter-link">
+                        <div class="chapter-number">第四百八十三章</div>
+                        <div class="chapter-title">第四百八十三章 anko6701母性灵梦的故事</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_487.html" class="chapter-link">
+                        <div class="chapter-number">第四百八十四章</div>
+                        <div class="chapter-title">第四百八十四章 anko11059 家油一家和虫子一家</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_488.html" class="chapter-link">
+                        <div class="chapter-number">第四百八十五章</div>
+                        <div class="chapter-title">第四百八十五章 anko2645流浪油生活能够油库里!</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_489.html" class="chapter-link">
+                        <div class="chapter-number">第四百八十六章</div>
+                        <div class="chapter-title">第四百八十六章 anko11723水上魔理沙的乐园_第一</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_490.html" class="chapter-link">
+                        <div class="chapter-number">第四百八十七章</div>
+                        <div class="chapter-title">第四百八十七章 anko11723水上魔理沙的乐园_第二</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_491.html" class="chapter-link">
+                        <div class="chapter-number">第四百八十八章</div>
+                        <div class="chapter-title">第四百八十八章 anko11723水上魔理沙的乐园_第二</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_492.html" class="chapter-link">
+                        <div class="chapter-number">第四百八十九章</div>
+                        <div class="chapter-title">第四百八十九章 anko11723水上魔理沙的乐园_第三</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_493.html" class="chapter-link">
+                        <div class="chapter-number">第四百九十章</div>
+                        <div class="chapter-title">第四百九十章 anko9067托卵</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_494.html" class="chapter-link">
+                        <div class="chapter-number">第四百九十一章</div>
+                        <div class="chapter-title">第四百九十一章 anko12126冰河期的行星上魔里贝大</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_495.html" class="chapter-link">
+                        <div class="chapter-number">第四百九十二章</div>
+                        <div class="chapter-title">第四百九十二章 油鱼游戏</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_496.html" class="chapter-link">
+                        <div class="chapter-number">第四百九十三章</div>
+                        <div class="chapter-title">第四百九十三章 《馒爷》</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_497.html" class="chapter-link">
+                        <div class="chapter-number">第四百九十四章</div>
+                        <div class="chapter-title">第四百九十四章 失业大学生不会梦见流浪麻理恰</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_498.html" class="chapter-link">
+                        <div class="chapter-number">第四百九十五章</div>
+                        <div class="chapter-title">第四百九十五章 戒油</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_499.html" class="chapter-link">
+                        <div class="chapter-number">第四百九十六章</div>
+                        <div class="chapter-title">第四百九十六章 探险队的馈赠</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_500.html" class="chapter-link">
+                        <div class="chapter-number">第四百九十七章</div>
+                        <div class="chapter-title">第四百九十七章 麻恰觅食</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_501.html" class="chapter-link">
+                        <div class="chapter-number">第四百九十八章</div>
+                        <div class="chapter-title">第四百九十八章 冻豆包</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_502.html" class="chapter-link">
+                        <div class="chapter-number">第四百九十九章</div>
+                        <div class="chapter-title">第四百九十九章 鬼威惨的一天</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_503.html" class="chapter-link">
+                        <div class="chapter-number">第五百章</div>
+                        <div class="chapter-title">第五百章 宠物油来了</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_504.html" class="chapter-link">
+                        <div class="chapter-number">第五百零一章</div>
+                        <div class="chapter-title">第五百零一章 未诞之油</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_505.html" class="chapter-link">
+                        <div class="chapter-number">第五百零二章</div>
+                        <div class="chapter-title">第五百零二章 喜欢欺负帕秋莉的大哥哥正在虐待麻恰</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_506.html" class="chapter-link">
+                        <div class="chapter-number">第五百零三章</div>
+                        <div class="chapter-title">第五百零三章 大姐姐与三油行</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_507.html" class="chapter-link">
+                        <div class="chapter-number">第五百零四章</div>
+                        <div class="chapter-title">第五百零四章 油库里的宗教性以及相关防治措施</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_508.html" class="chapter-link">
+                        <div class="chapter-number">第五百零五章</div>
+                        <div class="chapter-title">第五百零五章 馒头大供奉！莫理沙大人的异世界</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_509.html" class="chapter-link">
+                        <div class="chapter-number">第五百零六章</div>
+                        <div class="chapter-title">第五百零六章 穷极无聊的清晨，就该玩弄子油</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_510.html" class="chapter-link">
+                        <div class="chapter-number">第五百零七章</div>
+                        <div class="chapter-title">第五百零七章 和大枕头一起共度几天</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_511.html" class="chapter-link">
+                        <div class="chapter-number">第五百零八章</div>
+                        <div class="chapter-title">第五百零八章 早苗是抹茶馅！</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_512.html" class="chapter-link">
+                        <div class="chapter-number">第五百零九章</div>
+                        <div class="chapter-title">第五百零九章 油库里的小故事两则</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_513.html" class="chapter-link">
+                        <div class="chapter-number">第五百一十章</div>
+                        <div class="chapter-title">第五百一十章 油痛风</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_514.html" class="chapter-link">
+                        <div class="chapter-number">第五百一十一章</div>
+                        <div class="chapter-title">第五百一十一章 麻里鲸落</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_515.html" class="chapter-link">
+                        <div class="chapter-number">第五百一十二章</div>
+                        <div class="chapter-title">第五百一十二章 马勃菌</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_516.html" class="chapter-link">
+                        <div class="chapter-number">第五百一十三章</div>
+                        <div class="chapter-title">第五百一十三章 爱情是什么？</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_517.html" class="chapter-link">
+                        <div class="chapter-number">第五百一十四章</div>
+                        <div class="chapter-title">第五百一十四章 意油小故事</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_518.html" class="chapter-link">
+                        <div class="chapter-number">第五百一十五章</div>
+                        <div class="chapter-title">第五百一十五章 平淡背叛</div>
+                    </a>
+                </li>
+
+                <li class="chapter-item">
+                    <a href="chapters/chapter_519.html" class="chapter-link">
+                        <div class="chapter-number">第五百一十六章</div>
+                        <div class="chapter-title">第五百一十六章 油库里助眠</div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        
+        <div class="footer">
+            <p>点击章节标题开始阅读</p>
+        </div>
+    </div>
+</body>
+</html>
