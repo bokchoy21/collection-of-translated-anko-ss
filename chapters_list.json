@@ -1,0 +1,4138 @@
+[
+  {
+    "file_name": "第零章【前言】.txt",
+    "display_title": "第零章【前言】",
+    "chapter_number": 0,
+    "display_number": "第零章",
+    "chapter_number_str": "零",
+    "file_index": 1
+  },
+  {
+    "file_name": "第一章 {精品} 魔理沙的庭院.txt",
+    "display_title": "第一章 {精品} 魔理沙的庭院",
+    "chapter_number": 1,
+    "display_number": "第一章",
+    "chapter_number_str": "一",
+    "file_index": 2
+  },
+  {
+    "file_name": "第二章 {精品} 油库里浮生记.txt",
+    "display_title": "第二章 {精品} 油库里浮生记",
+    "chapter_number": 2,
+    "display_number": "第二章",
+    "chapter_number_str": "二",
+    "file_index": 3
+  },
+  {
+    "file_name": "第三章  {精品}魔理沙的东西就是我的东西.txt",
+    "display_title": "第三章  {精品}魔理沙的东西就是我的东西",
+    "chapter_number": 3,
+    "display_number": "第三章",
+    "chapter_number_str": "三",
+    "file_index": 4
+  },
+  {
+    "file_name": "第四章 无知的疼爱.txt",
+    "display_title": "第四章 无知的疼爱",
+    "chapter_number": 4,
+    "display_number": "第四章",
+    "chapter_number_str": "四",
+    "file_index": 5
+  },
+  {
+    "file_name": "第五章  {精品}小魔理沙与油库叽的一家.txt",
+    "display_title": "第五章  {精品}小魔理沙与油库叽的一家",
+    "chapter_number": 5,
+    "display_number": "第五章",
+    "chapter_number_str": "五",
+    "file_index": 6
+  },
+  {
+    "file_name": "第六章 黑色的洞.txt",
+    "display_title": "第六章 黑色的洞",
+    "chapter_number": 6,
+    "display_number": "第六章",
+    "chapter_number_str": "六",
+    "file_index": 7
+  },
+  {
+    "file_name": "第七章  {精品}馒馒来地退化哦.txt",
+    "display_title": "第七章  {精品}馒馒来地退化哦",
+    "chapter_number": 7,
+    "display_number": "第七章",
+    "chapter_number_str": "七",
+    "file_index": 8
+  },
+  {
+    "file_name": "第八章 追逐馒馒来的流浪灵梦.txt",
+    "display_title": "第八章 追逐馒馒来的流浪灵梦",
+    "chapter_number": 8,
+    "display_number": "第八章",
+    "chapter_number_str": "八",
+    "file_index": 9
+  },
+  {
+    "file_name": "第九章  {精品}野生的DOS魔里沙跳了出来！.txt",
+    "display_title": "第九章  {精品}野生的DOS魔里沙跳了出来！",
+    "chapter_number": 9,
+    "display_number": "第九章",
+    "chapter_number_str": "九",
+    "file_index": 10
+  },
+  {
+    "file_name": "第十章  {精品}一只金牌魔理沙的故事.txt",
+    "display_title": "第十章  {精品}一只金牌魔理沙的故事",
+    "chapter_number": 10,
+    "display_number": "第十章",
+    "chapter_number_str": "十",
+    "file_index": 11
+  },
+  {
+    "file_name": "第十一章 住家宣言.txt",
+    "display_title": "第十一章 住家宣言",
+    "chapter_number": 11,
+    "display_number": "第十一章",
+    "chapter_number_str": "十一",
+    "file_index": 12
+  },
+  {
+    "file_name": "第十二章 {精品} 烤巧克力油库里.txt",
+    "display_title": "第十二章 {精品} 烤巧克力油库里",
+    "chapter_number": 12,
+    "display_number": "第十二章",
+    "chapter_number_str": "十二",
+    "file_index": 13
+  },
+  {
+    "file_name": "第十三章  {精品}防霉用灵梦.txt",
+    "display_title": "第十三章  {精品}防霉用灵梦",
+    "chapter_number": 13,
+    "display_number": "第十三章",
+    "chapter_number_str": "十三",
+    "file_index": 14
+  },
+  {
+    "file_name": "第十四章  {精品}anko8206一汤匙的幸福.txt",
+    "display_title": "第十四章  {精品}anko8206一汤匙的幸福",
+    "chapter_number": 14,
+    "display_number": "第十四章",
+    "chapter_number_str": "十四",
+    "file_index": 15
+  },
+  {
+    "file_name": "第十五章 {精品}ANKO 6661 从帽子中所看.txt",
+    "display_title": "第十五章 {精品}ANKO 6661 从帽子中所看",
+    "chapter_number": 15,
+    "display_number": "第十五章",
+    "chapter_number_str": "十五",
+    "file_index": 16
+  },
+  {
+    "file_name": "第十六章  {精品}我家的奴隶魔理掐.txt",
+    "display_title": "第十六章  {精品}我家的奴隶魔理掐",
+    "chapter_number": 16,
+    "display_number": "第十六章",
+    "chapter_number_str": "十六",
+    "file_index": 17
+  },
+  {
+    "file_name": "第十七章 选择Choise.txt",
+    "display_title": "第十七章 选择Choise",
+    "chapter_number": 17,
+    "display_number": "第十七章",
+    "chapter_number_str": "十七",
+    "file_index": 18
+  },
+  {
+    "file_name": "第十八章 麻里恰有很多朋友.txt",
+    "display_title": "第十八章 麻里恰有很多朋友",
+    "chapter_number": 18,
+    "display_number": "第十八章",
+    "chapter_number_str": "十八",
+    "file_index": 19
+  },
+  {
+    "file_name": "第十九章  {精品}公园里遇到的麻里恰.txt",
+    "display_title": "第十九章  {精品}公园里遇到的麻里恰",
+    "chapter_number": 19,
+    "display_number": "第十九章",
+    "chapter_number_str": "十九",
+    "file_index": 20
+  },
+  {
+    "file_name": "第二十章  {精品}黑暗的世界.txt",
+    "display_title": "第二十章  {精品}黑暗的世界",
+    "chapter_number": 20,
+    "display_number": "第二十章",
+    "chapter_number_str": "二十",
+    "file_index": 21
+  },
+  {
+    "file_name": "第二十一章 {精品}一油自立+第二油生的支援服务.txt",
+    "display_title": "第二十一章 {精品}一油自立+第二油生的支援服务",
+    "chapter_number": 21,
+    "display_number": "第二十一章",
+    "chapter_number_str": "二十一",
+    "file_index": 22
+  },
+  {
+    "file_name": "第二十二章  {精品}隔着墙壁的家族.txt",
+    "display_title": "第二十二章  {精品}隔着墙壁的家族",
+    "chapter_number": 22,
+    "display_number": "第二十二章",
+    "chapter_number_str": "二十二",
+    "file_index": 23
+  },
+  {
+    "file_name": "第二十三章  {精品}麻里恰无意义的索求声.txt",
+    "display_title": "第二十三章  {精品}麻里恰无意义的索求声",
+    "chapter_number": 23,
+    "display_number": "第二十三章",
+    "chapter_number_str": "二十三",
+    "file_index": 24
+  },
+  {
+    "file_name": "第二十四章  {精品}被梅雨遗忘的东西.txt",
+    "display_title": "第二十四章  {精品}被梅雨遗忘的东西",
+    "chapter_number": 24,
+    "display_number": "第二十四章",
+    "chapter_number_str": "二十四",
+    "file_index": 25
+  },
+  {
+    "file_name": "第二十五章  {精品}地域油库里的生存之道.txt",
+    "display_title": "第二十五章  {精品}地域油库里的生存之道",
+    "chapter_number": 25,
+    "display_number": "第二十五章",
+    "chapter_number_str": "二十五",
+    "file_index": 26
+  },
+  {
+    "file_name": "第二十六章  {精品}魔理沙的屁屁庭院（ 尻の庭）.txt",
+    "display_title": "第二十六章  {精品}魔理沙的屁屁庭院（ 尻の庭）",
+    "chapter_number": 26,
+    "display_number": "第二十六章",
+    "chapter_number_str": "二十六",
+    "file_index": 27
+  },
+  {
+    "file_name": "第二十七章  {精品}恶魔借着天使的姿态出现.txt",
+    "display_title": "第二十七章  {精品}恶魔借着天使的姿态出现",
+    "chapter_number": 27,
+    "display_number": "第二十七章",
+    "chapter_number_str": "二十七",
+    "file_index": 28
+  },
+  {
+    "file_name": "第二十八章  {精品}不足油麻里恰.txt",
+    "display_title": "第二十八章  {精品}不足油麻里恰",
+    "chapter_number": 28,
+    "display_number": "第二十八章",
+    "chapter_number_str": "二十八",
+    "file_index": 29
+  },
+  {
+    "file_name": "第二十九章 医院的油库里活用法.txt",
+    "display_title": "第二十九章 医院的油库里活用法",
+    "chapter_number": 29,
+    "display_number": "第二十九章",
+    "chapter_number_str": "二十九",
+    "file_index": 30
+  },
+  {
+    "file_name": "第三十章 愚者与善良.txt",
+    "display_title": "第三十章 愚者与善良",
+    "chapter_number": 30,
+    "display_number": "第三十章",
+    "chapter_number_str": "三十",
+    "file_index": 31
+  },
+  {
+    "file_name": "第三十一章  {精品}油库里的品质.txt",
+    "display_title": "第三十一章  {精品}油库里的品质",
+    "chapter_number": 31,
+    "display_number": "第三十一章",
+    "chapter_number_str": "三十一",
+    "file_index": 32
+  },
+  {
+    "file_name": "第三十二章 宠坏.txt",
+    "display_title": "第三十二章 宠坏",
+    "chapter_number": 32,
+    "display_number": "第三十二章",
+    "chapter_number_str": "三十二",
+    "file_index": 33
+  },
+  {
+    "file_name": "第三十三章 无可救药.txt",
+    "display_title": "第三十三章 无可救药",
+    "chapter_number": 33,
+    "display_number": "第三十三章",
+    "chapter_number_str": "三十三",
+    "file_index": 34
+  },
+  {
+    "file_name": "第三十四章  {精品}冬の雨音.txt",
+    "display_title": "第三十四章  {精品}冬の雨音",
+    "chapter_number": 34,
+    "display_number": "第三十四章",
+    "chapter_number_str": "三十四",
+    "file_index": 35
+  },
+  {
+    "file_name": "第三十五章  {精品}麻里恰要活下去.txt",
+    "display_title": "第三十五章  {精品}麻里恰要活下去",
+    "chapter_number": 35,
+    "display_number": "第三十五章",
+    "chapter_number_str": "三十五",
+    "file_index": 36
+  },
+  {
+    "file_name": "第三十六章  {精品}子魔理沙探险队.txt",
+    "display_title": "第三十六章  {精品}子魔理沙探险队",
+    "chapter_number": 36,
+    "display_number": "第三十六章",
+    "chapter_number_str": "三十六",
+    "file_index": 37
+  },
+  {
+    "file_name": "第三十七章  {精品}油库里的四季.txt",
+    "display_title": "第三十七章  {精品}油库里的四季",
+    "chapter_number": 37,
+    "display_number": "第三十七章",
+    "chapter_number_str": "三十七",
+    "file_index": 38
+  },
+  {
+    "file_name": "第三十八章 车站前馒馒来的灵梦.txt",
+    "display_title": "第三十八章 车站前馒馒来的灵梦",
+    "chapter_number": 38,
+    "display_number": "第三十八章",
+    "chapter_number_str": "三十八",
+    "file_index": 39
+  },
+  {
+    "file_name": "第三十九章 油库里更生设施.txt",
+    "display_title": "第三十九章 油库里更生设施",
+    "chapter_number": 39,
+    "display_number": "第三十九章",
+    "chapter_number_str": "三十九",
+    "file_index": 40
+  },
+  {
+    "file_name": "第四十章 油库里水难事故.txt",
+    "display_title": "第四十章 油库里水难事故",
+    "chapter_number": 40,
+    "display_number": "第四十章",
+    "chapter_number_str": "四十",
+    "file_index": 41
+  },
+  {
+    "file_name": "第四十一章  录像带.txt",
+    "display_title": "第四十一章  录像带",
+    "chapter_number": 41,
+    "display_number": "第四十一章",
+    "chapter_number_str": "四十一",
+    "file_index": 42
+  },
+  {
+    "file_name": "第四十二章 油库里盘片.txt",
+    "display_title": "第四十二章 油库里盘片",
+    "chapter_number": 42,
+    "display_number": "第四十二章",
+    "chapter_number_str": "四十二",
+    "file_index": 43
+  },
+  {
+    "file_name": "第四十三章 {精品}「稻草人」.txt",
+    "display_title": "第四十三章 {精品}「稻草人」",
+    "chapter_number": 43,
+    "display_number": "第四十三章",
+    "chapter_number_str": "四十三",
+    "file_index": 44
+  },
+  {
+    "file_name": "第四十四章 擅自闯进来的魔理沙.txt",
+    "display_title": "第四十四章 擅自闯进来的魔理沙",
+    "chapter_number": 44,
+    "display_number": "第四十四章",
+    "chapter_number_str": "四十四",
+    "file_index": 45
+  },
+  {
+    "file_name": "第四十五章 家养灵梦（爱向）.txt",
+    "display_title": "第四十五章 家养灵梦（爱向）",
+    "chapter_number": 45,
+    "display_number": "第四十五章",
+    "chapter_number_str": "四十五",
+    "file_index": 46
+  },
+  {
+    "file_name": "第四十六章  {精品}油民居酒屋.txt",
+    "display_title": "第四十六章  {精品}油民居酒屋",
+    "chapter_number": 46,
+    "display_number": "第四十六章",
+    "chapter_number_str": "四十六",
+    "file_index": 47
+  },
+  {
+    "file_name": "第四十七章 油库里家庭伦理剧.txt",
+    "display_title": "第四十七章 油库里家庭伦理剧",
+    "chapter_number": 47,
+    "display_number": "第四十七章",
+    "chapter_number_str": "四十七",
+    "file_index": 48
+  },
+  {
+    "file_name": "第四十八章 三只油库里.txt",
+    "display_title": "第四十八章 三只油库里",
+    "chapter_number": 48,
+    "display_number": "第四十八章",
+    "chapter_number_str": "四十八",
+    "file_index": 49
+  },
+  {
+    "file_name": "第四十九章  {精品}瓶子里的油库里.txt",
+    "display_title": "第四十九章  {精品}瓶子里的油库里",
+    "chapter_number": 49,
+    "display_number": "第四十九章",
+    "chapter_number_str": "四十九",
+    "file_index": 50
+  },
+  {
+    "file_name": "第五十章 {精品}食用油库里.txt",
+    "display_title": "第五十章 {精品}食用油库里",
+    "chapter_number": 50,
+    "display_number": "第五十章",
+    "chapter_number_str": "五十",
+    "file_index": 51
+  },
+  {
+    "file_name": "第五十一章 记忆盒子（赛博油库里？）.txt",
+    "display_title": "第五十一章 记忆盒子（赛博油库里？）",
+    "chapter_number": 51,
+    "display_number": "第五十一章",
+    "chapter_number_str": "五十一",
+    "file_index": 52
+  },
+  {
+    "file_name": "第五十二章 {精品}{坑}鬼威惨对抗学生会.txt",
+    "display_title": "第五十二章 {精品}{坑}鬼威惨对抗学生会",
+    "chapter_number": 52,
+    "display_number": "第五十二章",
+    "chapter_number_str": "五十二",
+    "file_index": 53
+  },
+  {
+    "file_name": "第五十三章 anko739{精品}最好的油库里pla.txt",
+    "display_title": "第五十三章 anko739{精品}最好的油库里pla",
+    "chapter_number": 53,
+    "display_number": "第五十三章",
+    "chapter_number_str": "五十三",
+    "file_index": 54
+  },
+  {
+    "file_name": "第五十四章 夏日街头的流浪油.txt",
+    "display_title": "第五十四章 夏日街头的流浪油",
+    "chapter_number": 54,
+    "display_number": "第五十四章",
+    "chapter_number_str": "五十四",
+    "file_index": 55
+  },
+  {
+    "file_name": "第五十五章 灵梦现在非常不油库里.txt",
+    "display_title": "第五十五章 灵梦现在非常不油库里",
+    "chapter_number": 55,
+    "display_number": "第五十五章",
+    "chapter_number_str": "五十五",
+    "file_index": 56
+  },
+  {
+    "file_name": "第五十六章 喜之郎系列（爱）：喜之郎家中的油库里.txt",
+    "display_title": "第五十六章 喜之郎系列（爱）：喜之郎家中的油库里",
+    "chapter_number": 56,
+    "display_number": "第五十六章",
+    "chapter_number_str": "五十六",
+    "file_index": 57
+  },
+  {
+    "file_name": "第五十七章 喜之郎系列（爱）： 劫持事件.txt",
+    "display_title": "第五十七章 喜之郎系列（爱）： 劫持事件",
+    "chapter_number": 57,
+    "display_number": "第五十七章",
+    "chapter_number_str": "五十七",
+    "file_index": 58
+  },
+  {
+    "file_name": "第五十八章 喜之郎系列：油库里究竟害怕什么？.txt",
+    "display_title": "第五十八章 喜之郎系列：油库里究竟害怕什么？",
+    "chapter_number": 58,
+    "display_number": "第五十八章",
+    "chapter_number_str": "五十八",
+    "file_index": 59
+  },
+  {
+    "file_name": "第五十九章 喜之郎系列——招牌.txt",
+    "display_title": "第五十九章 喜之郎系列——招牌",
+    "chapter_number": 59,
+    "display_number": "第五十九章",
+    "chapter_number_str": "五十九",
+    "file_index": 60
+  },
+  {
+    "file_name": "第六十章 喜之郎系列——陷阱游戏.txt",
+    "display_title": "第六十章 喜之郎系列——陷阱游戏",
+    "chapter_number": 60,
+    "display_number": "第六十章",
+    "chapter_number_str": "六十",
+    "file_index": 61
+  },
+  {
+    "file_name": "第六十一章 喜之郎系列——饲养的理由.txt",
+    "display_title": "第六十一章 喜之郎系列——饲养的理由",
+    "chapter_number": 61,
+    "display_number": "第六十一章",
+    "chapter_number_str": "六十一",
+    "file_index": 62
+  },
+  {
+    "file_name": "第六十二章 喜之郎系列——黑与白之间.txt",
+    "display_title": "第六十二章 喜之郎系列——黑与白之间",
+    "chapter_number": 62,
+    "display_number": "第六十二章",
+    "chapter_number_str": "六十二",
+    "file_index": 63
+  },
+  {
+    "file_name": "第六十三章 喜之郎森林漫游记——起源.txt",
+    "display_title": "第六十三章 喜之郎森林漫游记——起源",
+    "chapter_number": 63,
+    "display_number": "第六十三章",
+    "chapter_number_str": "六十三",
+    "file_index": 64
+  },
+  {
+    "file_name": "第六十四章 喜之郎森林漫游记——巢穴之内.txt",
+    "display_title": "第六十四章 喜之郎森林漫游记——巢穴之内",
+    "chapter_number": 64,
+    "display_number": "第六十四章",
+    "chapter_number_str": "六十四",
+    "file_index": 65
+  },
+  {
+    "file_name": "第六十五章 喜之郎系列：雨中——序.txt",
+    "display_title": "第六十五章 喜之郎系列：雨中——序",
+    "chapter_number": 65,
+    "display_number": "第六十五章",
+    "chapter_number_str": "六十五",
+    "file_index": 66
+  },
+  {
+    "file_name": "第六十六章 灵梦的幸福.txt",
+    "display_title": "第六十六章 灵梦的幸福",
+    "chapter_number": 66,
+    "display_number": "第六十六章",
+    "chapter_number_str": "六十六",
+    "file_index": 67
+  },
+  {
+    "file_name": "第六十七章 炸弹威胁.txt",
+    "display_title": "第六十七章 炸弹威胁",
+    "chapter_number": 67,
+    "display_number": "第六十七章",
+    "chapter_number_str": "六十七",
+    "file_index": 68
+  },
+  {
+    "file_name": "第六十八章 垃圾爱莉丝与杂碎魔理沙母子.txt",
+    "display_title": "第六十八章 垃圾爱莉丝与杂碎魔理沙母子",
+    "chapter_number": 68,
+    "display_number": "第六十八章",
+    "chapter_number_str": "六十八",
+    "file_index": 69
+  },
+  {
+    "file_name": "第六十九章 {精品}如何寝取魔理沙.txt",
+    "display_title": "第六十九章 {精品}如何寝取魔理沙",
+    "chapter_number": 69,
+    "display_number": "第六十九章",
+    "chapter_number_str": "六十九",
+    "file_index": 70
+  },
+  {
+    "file_name": "第七十章 {精品}在学校生活的油库里.txt",
+    "display_title": "第七十章 {精品}在学校生活的油库里",
+    "chapter_number": 70,
+    "display_number": "第七十章",
+    "chapter_number_str": "七十",
+    "file_index": 71
+  },
+  {
+    "file_name": "第七十一章 缝合油库里.txt",
+    "display_title": "第七十一章 缝合油库里",
+    "chapter_number": 71,
+    "display_number": "第七十一章",
+    "chapter_number_str": "七十一",
+    "file_index": 72
+  },
+  {
+    "file_name": "第七十二章 {精品}主角魔理沙的一生.txt",
+    "display_title": "第七十二章 {精品}主角魔理沙的一生",
+    "chapter_number": 72,
+    "display_number": "第七十二章",
+    "chapter_number_str": "七十二",
+    "file_index": 73
+  },
+  {
+    "file_name": "第七十三章 灵梦和橙的饲养（爱向）.txt",
+    "display_title": "第七十三章 灵梦和橙的饲养（爱向）",
+    "chapter_number": 73,
+    "display_number": "第七十三章",
+    "chapter_number_str": "七十三",
+    "file_index": 74
+  },
+  {
+    "file_name": "第七十四章 {争议}究极无敌鬼意山大战列梦.txt",
+    "display_title": "第七十四章 {争议}究极无敌鬼意山大战列梦",
+    "chapter_number": 74,
+    "display_number": "第七十四章",
+    "chapter_number_str": "七十四",
+    "file_index": 75
+  },
+  {
+    "file_name": "第七十五章 油库里种植.txt",
+    "display_title": "第七十五章 油库里种植",
+    "chapter_number": 75,
+    "display_number": "第七十五章",
+    "chapter_number_str": "七十五",
+    "file_index": 76
+  },
+  {
+    "file_name": "第七十六章  油库里示威活动.txt",
+    "display_title": "第七十六章  油库里示威活动",
+    "chapter_number": 76,
+    "display_number": "第七十六章",
+    "chapter_number_str": "七十六",
+    "file_index": 77
+  },
+  {
+    "file_name": "第七十七章 {精品}劣化灵梦的处理.txt",
+    "display_title": "第七十七章 {精品}劣化灵梦的处理",
+    "chapter_number": 77,
+    "display_number": "第七十七章",
+    "chapter_number_str": "七十七",
+    "file_index": 78
+  },
+  {
+    "file_name": "第七十八章 {精品}熊孩子虐待油库里.txt",
+    "display_title": "第七十八章 {精品}熊孩子虐待油库里",
+    "chapter_number": 78,
+    "display_number": "第七十八章",
+    "chapter_number_str": "七十八",
+    "file_index": 79
+  },
+  {
+    "file_name": "第七十九章 {精品}麻利莎们才不是厨余垃圾noje.txt",
+    "display_title": "第七十九章 {精品}麻利莎们才不是厨余垃圾noje",
+    "chapter_number": 79,
+    "display_number": "第七十九章",
+    "chapter_number_str": "七十九",
+    "file_index": 80
+  },
+  {
+    "file_name": "第八十章 {精品}油库里自助餐厅.txt",
+    "display_title": "第八十章 {精品}油库里自助餐厅",
+    "chapter_number": 80,
+    "display_number": "第八十章",
+    "chapter_number_str": "八十",
+    "file_index": 81
+  },
+  {
+    "file_name": "第八十一章 贡品.txt",
+    "display_title": "第八十一章 贡品",
+    "chapter_number": 81,
+    "display_number": "第八十一章",
+    "chapter_number_str": "八十一",
+    "file_index": 82
+  },
+  {
+    "file_name": "第八十二章  {精品}魔里掐只有你不行.txt",
+    "display_title": "第八十二章  {精品}魔里掐只有你不行",
+    "chapter_number": 82,
+    "display_number": "第八十二章",
+    "chapter_number_str": "八十二",
+    "file_index": 83
+  },
+  {
+    "file_name": "第八十三章  {精品}莫西干一侧的诱惑.txt",
+    "display_title": "第八十三章  {精品}莫西干一侧的诱惑",
+    "chapter_number": 83,
+    "display_number": "第八十三章",
+    "chapter_number_str": "八十三",
+    "file_index": 84
+  },
+  {
+    "file_name": "第八十四章  {精品}莫莉莎的复活.txt",
+    "display_title": "第八十四章  {精品}莫莉莎的复活",
+    "chapter_number": 84,
+    "display_number": "第八十四章",
+    "chapter_number_str": "八十四",
+    "file_index": 85
+  },
+  {
+    "file_name": "第八十五章 子油库里对轮胎的复仇.txt",
+    "display_title": "第八十五章 子油库里对轮胎的复仇",
+    "chapter_number": 85,
+    "display_number": "第八十五章",
+    "chapter_number_str": "八十五",
+    "file_index": 86
+  },
+  {
+    "file_name": "第八十六章 油库里吸引机.txt",
+    "display_title": "第八十六章 油库里吸引机",
+    "chapter_number": 86,
+    "display_number": "第八十六章",
+    "chapter_number_str": "八十六",
+    "file_index": 87
+  },
+  {
+    "file_name": "第八十七章  {精品}幼灵梦的选择.txt",
+    "display_title": "第八十七章  {精品}幼灵梦的选择",
+    "chapter_number": 87,
+    "display_number": "第八十七章",
+    "chapter_number_str": "八十七",
+    "file_index": 88
+  },
+  {
+    "file_name": "第八十八章 橙与蓝的小吃屋.txt",
+    "display_title": "第八十八章 橙与蓝的小吃屋",
+    "chapter_number": 88,
+    "display_number": "第八十八章",
+    "chapter_number_str": "八十八",
+    "file_index": 89
+  },
+  {
+    "file_name": "第八十九章 下种油库里.txt",
+    "display_title": "第八十九章 下种油库里",
+    "chapter_number": 89,
+    "display_number": "第八十九章",
+    "chapter_number_str": "八十九",
+    "file_index": 90
+  },
+  {
+    "file_name": "第九十章  {精品}哪一边是灵梦？.txt",
+    "display_title": "第九十章  {精品}哪一边是灵梦？",
+    "chapter_number": 90,
+    "display_number": "第九十章",
+    "chapter_number_str": "九十",
+    "file_index": 91
+  },
+  {
+    "file_name": "第九十一章 {精品}卖剩的圣诞麻里恰.txt",
+    "display_title": "第九十一章 {精品}卖剩的圣诞麻里恰",
+    "chapter_number": 91,
+    "display_number": "第九十一章",
+    "chapter_number_str": "九十一",
+    "file_index": 92
+  },
+  {
+    "file_name": "第九十二章 无名杂篇.txt",
+    "display_title": "第九十二章 无名杂篇",
+    "chapter_number": 92,
+    "display_number": "第九十二章",
+    "chapter_number_str": "九十二",
+    "file_index": 93
+  },
+  {
+    "file_name": "第九十三章 {精品}被囚禁的灵魔夫妻.txt",
+    "display_title": "第九十三章 {精品}被囚禁的灵魔夫妻",
+    "chapter_number": 93,
+    "display_number": "第九十三章",
+    "chapter_number_str": "九十三",
+    "file_index": 94
+  },
+  {
+    "file_name": "第九十四章 {精品}幸福故事的特典.txt",
+    "display_title": "第九十四章 {精品}幸福故事的特典",
+    "chapter_number": 94,
+    "display_number": "第九十四章",
+    "chapter_number_str": "九十四",
+    "file_index": 95
+  },
+  {
+    "file_name": "第九十五章 祸灵梦与大哥哥.txt",
+    "display_title": "第九十五章 祸灵梦与大哥哥",
+    "chapter_number": 95,
+    "display_number": "第九十五章",
+    "chapter_number_str": "九十五",
+    "file_index": 96
+  },
+  {
+    "file_name": "第九十六章 {精品}加油吧! 虐哥哥【旧】.txt",
+    "display_title": "第九十六章 {精品}加油吧! 虐哥哥【旧】",
+    "chapter_number": 96,
+    "display_number": "第九十六章",
+    "chapter_number_str": "九十六",
+    "file_index": 97
+  },
+  {
+    "file_name": "第九十七章 {精品}加油吧，虐哥哥!（新）.txt",
+    "display_title": "第九十七章 {精品}加油吧，虐哥哥!（新）",
+    "chapter_number": 97,
+    "display_number": "第九十七章",
+    "chapter_number_str": "九十七",
+    "file_index": 98
+  },
+  {
+    "file_name": "第九十八章 油库里纸门.txt",
+    "display_title": "第九十八章 油库里纸门",
+    "chapter_number": 98,
+    "display_number": "第九十八章",
+    "chapter_number_str": "九十八",
+    "file_index": 99
+  },
+  {
+    "file_name": "第九十九章  噗咕！.txt",
+    "display_title": "第九十九章  噗咕！",
+    "chapter_number": 99,
+    "display_number": "第九十九章",
+    "chapter_number_str": "九十九",
+    "file_index": 100
+  },
+  {
+    "file_name": "第一百章  想养油库里的大哥哥.txt",
+    "display_title": "第一百章  想养油库里的大哥哥",
+    "chapter_number": 100,
+    "display_number": "第一百章",
+    "chapter_number_str": "一百",
+    "file_index": 101
+  },
+  {
+    "file_name": "第一百零一章 强制劳作.txt",
+    "display_title": "第一百零一章 强制劳作",
+    "chapter_number": 101,
+    "display_number": "第一百零一章",
+    "chapter_number_str": "一百零一",
+    "file_index": 102
+  },
+  {
+    "file_name": "第一百零二章 不能油库里的人类.txt",
+    "display_title": "第一百零二章 不能油库里的人类",
+    "chapter_number": 102,
+    "display_number": "第一百零二章",
+    "chapter_number_str": "一百零二",
+    "file_index": 103
+  },
+  {
+    "file_name": "第一百零三章  油库里货币.txt",
+    "display_title": "第一百零三章  油库里货币",
+    "chapter_number": 103,
+    "display_number": "第一百零三章",
+    "chapter_number_str": "一百零三",
+    "file_index": 104
+  },
+  {
+    "file_name": "第一百零四章 dos族群.txt",
+    "display_title": "第一百零四章 dos族群",
+    "chapter_number": 104,
+    "display_number": "第一百零四章",
+    "chapter_number_str": "一百零四",
+    "file_index": 105
+  },
+  {
+    "file_name": "第一百零五章 爱丽丝不是强奸魔.txt",
+    "display_title": "第一百零五章 爱丽丝不是强奸魔",
+    "chapter_number": 105,
+    "display_number": "第一百零五章",
+    "chapter_number_str": "一百零五",
+    "file_index": 106
+  },
+  {
+    "file_name": "第一百零六章 油库里毁三观了.txt",
+    "display_title": "第一百零六章 油库里毁三观了",
+    "chapter_number": 106,
+    "display_number": "第一百零六章",
+    "chapter_number_str": "一百零六",
+    "file_index": 107
+  },
+  {
+    "file_name": "第一百零七章  春天的农田.txt",
+    "display_title": "第一百零七章  春天的农田",
+    "chapter_number": 107,
+    "display_number": "第一百零七章",
+    "chapter_number_str": "一百零七",
+    "file_index": 108
+  },
+  {
+    "file_name": "第一百零八章 {精品}HOT油库里.txt",
+    "display_title": "第一百零八章 {精品}HOT油库里",
+    "chapter_number": 108,
+    "display_number": "第一百零八章",
+    "chapter_number_str": "一百零八",
+    "file_index": 109
+  },
+  {
+    "file_name": "第一百零九章 都会派的爱丽丝.txt",
+    "display_title": "第一百零九章 都会派的爱丽丝",
+    "chapter_number": 109,
+    "display_number": "第一百零九章",
+    "chapter_number_str": "一百零九",
+    "file_index": 110
+  },
+  {
+    "file_name": "第一百一十章 电车上的痴汉油库里.txt",
+    "display_title": "第一百一十章 电车上的痴汉油库里",
+    "chapter_number": 110,
+    "display_number": "第一百一十章",
+    "chapter_number_str": "一百一十",
+    "file_index": 111
+  },
+  {
+    "file_name": "第一百一十一章 平原上的油库里夫妇.txt",
+    "display_title": "第一百一十一章 平原上的油库里夫妇",
+    "chapter_number": 111,
+    "display_number": "第一百一十一章",
+    "chapter_number_str": "一百一十一",
+    "file_index": 112
+  },
+  {
+    "file_name": "第一百一十二章 油库里排泄考察.txt",
+    "display_title": "第一百一十二章 油库里排泄考察",
+    "chapter_number": 112,
+    "display_number": "第一百一十二章",
+    "chapter_number_str": "一百一十二",
+    "file_index": 113
+  },
+  {
+    "file_name": "第一百一十三章 蔬菜是自己长出来的.txt",
+    "display_title": "第一百一十三章 蔬菜是自己长出来的",
+    "chapter_number": 113,
+    "display_number": "第一百一十三章",
+    "chapter_number_str": "一百一十三",
+    "file_index": 114
+  },
+  {
+    "file_name": "第一百一十四章 射击油库里.txt",
+    "display_title": "第一百一十四章 射击油库里",
+    "chapter_number": 114,
+    "display_number": "第一百一十四章",
+    "chapter_number_str": "一百一十四",
+    "file_index": 115
+  },
+  {
+    "file_name": "第一百一十五章 民主.txt",
+    "display_title": "第一百一十五章 民主",
+    "chapter_number": 115,
+    "display_number": "第一百一十五章",
+    "chapter_number_str": "一百一十五",
+    "file_index": 116
+  },
+  {
+    "file_name": "第一百一十六章 泉之女神.txt",
+    "display_title": "第一百一十六章 泉之女神",
+    "chapter_number": 116,
+    "display_number": "第一百一十六章",
+    "chapter_number_str": "一百一十六",
+    "file_index": 117
+  },
+  {
+    "file_name": "第一百一十七章 严酷的冬天.txt",
+    "display_title": "第一百一十七章 严酷的冬天",
+    "chapter_number": 117,
+    "display_number": "第一百一十七章",
+    "chapter_number_str": "一百一十七",
+    "file_index": 118
+  },
+  {
+    "file_name": "第一百一十八章 无名杂篇.txt",
+    "display_title": "第一百一十八章 无名杂篇",
+    "chapter_number": 118,
+    "display_number": "第一百一十八章",
+    "chapter_number_str": "一百一十八",
+    "file_index": 119
+  },
+  {
+    "file_name": "第一百一十九章 青年与油库里.txt",
+    "display_title": "第一百一十九章 青年与油库里",
+    "chapter_number": 119,
+    "display_number": "第一百一十九章",
+    "chapter_number_str": "一百一十九",
+    "file_index": 120
+  },
+  {
+    "file_name": "第一百二十章 从爱到虐.txt",
+    "display_title": "第一百二十章 从爱到虐",
+    "chapter_number": 120,
+    "display_number": "第一百二十章",
+    "chapter_number_str": "一百二十",
+    "file_index": 121
+  },
+  {
+    "file_name": "第一百二十一章 dos狩猎.txt",
+    "display_title": "第一百二十一章 dos狩猎",
+    "chapter_number": 121,
+    "display_number": "第一百二十一章",
+    "chapter_number_str": "一百二十一",
+    "file_index": 122
+  },
+  {
+    "file_name": "第一百二十二章 爱护大哥哥.txt",
+    "display_title": "第一百二十二章 爱护大哥哥",
+    "chapter_number": 122,
+    "display_number": "第一百二十二章",
+    "chapter_number_str": "一百二十二",
+    "file_index": 123
+  },
+  {
+    "file_name": "第一百二十三章 冒牌货.txt",
+    "display_title": "第一百二十三章 冒牌货",
+    "chapter_number": 123,
+    "display_number": "第一百二十三章",
+    "chapter_number_str": "一百二十三",
+    "file_index": 124
+  },
+  {
+    "file_name": "第一百二十四章 灵梦过冬.txt",
+    "display_title": "第一百二十四章 灵梦过冬",
+    "chapter_number": 124,
+    "display_number": "第一百二十四章",
+    "chapter_number_str": "一百二十四",
+    "file_index": 125
+  },
+  {
+    "file_name": "第一百二十五章 {争议}魔理沙入侵.txt",
+    "display_title": "第一百二十五章 {争议}魔理沙入侵",
+    "chapter_number": 125,
+    "display_number": "第一百二十五章",
+    "chapter_number_str": "一百二十五",
+    "file_index": 126
+  },
+  {
+    "file_name": "第一百二十六章 {精品}寝取.txt",
+    "display_title": "第一百二十六章 {精品}寝取",
+    "chapter_number": 126,
+    "display_number": "第一百二十六章",
+    "chapter_number_str": "一百二十六",
+    "file_index": 127
+  },
+  {
+    "file_name": "第一百二十七章 无法发出声音的幼油.txt",
+    "display_title": "第一百二十七章 无法发出声音的幼油",
+    "chapter_number": 127,
+    "display_number": "第一百二十七章",
+    "chapter_number_str": "一百二十七",
+    "file_index": 128
+  },
+  {
+    "file_name": "第一百二十八章 {精品}霖之助的店铺.txt",
+    "display_title": "第一百二十八章 {精品}霖之助的店铺",
+    "chapter_number": 128,
+    "display_number": "第一百二十八章",
+    "chapter_number_str": "一百二十八",
+    "file_index": 129
+  },
+  {
+    "file_name": "第一百二十九章 {精品}导盲油库里.txt",
+    "display_title": "第一百二十九章 {精品}导盲油库里",
+    "chapter_number": 129,
+    "display_number": "第一百二十九章",
+    "chapter_number_str": "一百二十九",
+    "file_index": 130
+  },
+  {
+    "file_name": "第一百三十章  晴天和尚.txt",
+    "display_title": "第一百三十章  晴天和尚",
+    "chapter_number": 130,
+    "display_number": "第一百三十章",
+    "chapter_number_str": "一百三十",
+    "file_index": 131
+  },
+  {
+    "file_name": "第一百三十一章 公园.txt",
+    "display_title": "第一百三十一章 公园",
+    "chapter_number": 131,
+    "display_number": "第一百三十一章",
+    "chapter_number_str": "一百三十一",
+    "file_index": 132
+  },
+  {
+    "file_name": "第一百三十二章 幻想乡入.txt",
+    "display_title": "第一百三十二章 幻想乡入",
+    "chapter_number": 132,
+    "display_number": "第一百三十二章",
+    "chapter_number_str": "一百三十二",
+    "file_index": 133
+  },
+  {
+    "file_name": "第一百三十三章 {精品}魔理香.txt",
+    "display_title": "第一百三十三章 {精品}魔理香",
+    "chapter_number": 133,
+    "display_number": "第一百三十三章",
+    "chapter_number_str": "一百三十三",
+    "file_index": 134
+  },
+  {
+    "file_name": "第一百三十四章 {精品}爱向杂篇.txt",
+    "display_title": "第一百三十四章 {精品}爱向杂篇",
+    "chapter_number": 134,
+    "display_number": "第一百三十四章",
+    "chapter_number_str": "一百三十四",
+    "file_index": 135
+  },
+  {
+    "file_name": "第一百三十五章 油库里的豪宅搭建.txt",
+    "display_title": "第一百三十五章 油库里的豪宅搭建",
+    "chapter_number": 135,
+    "display_number": "第一百三十五章",
+    "chapter_number_str": "一百三十五",
+    "file_index": 136
+  },
+  {
+    "file_name": "第一百三十六章 短篇.txt",
+    "display_title": "第一百三十六章 短篇",
+    "chapter_number": 136,
+    "display_number": "第一百三十六章",
+    "chapter_number_str": "一百三十六",
+    "file_index": 137
+  },
+  {
+    "file_name": "第一百三十七章 进贡.txt",
+    "display_title": "第一百三十七章 进贡",
+    "chapter_number": 137,
+    "display_number": "第一百三十七章",
+    "chapter_number_str": "一百三十七",
+    "file_index": 138
+  },
+  {
+    "file_name": "第一百三十八章 幼油死亡竞赛.txt",
+    "display_title": "第一百三十八章 幼油死亡竞赛",
+    "chapter_number": 138,
+    "display_number": "第一百三十八章",
+    "chapter_number_str": "一百三十八",
+    "file_index": 139
+  },
+  {
+    "file_name": "第一百三十九章 募捐.txt",
+    "display_title": "第一百三十九章 募捐",
+    "chapter_number": 139,
+    "display_number": "第一百三十九章",
+    "chapter_number_str": "一百三十九",
+    "file_index": 140
+  },
+  {
+    "file_name": "第一百四十章 母性.txt",
+    "display_title": "第一百四十章 母性",
+    "chapter_number": 140,
+    "display_number": "第一百四十章",
+    "chapter_number_str": "一百四十",
+    "file_index": 141
+  },
+  {
+    "file_name": "第一百四十一章 油库里爱护法.txt",
+    "display_title": "第一百四十一章 油库里爱护法",
+    "chapter_number": 141,
+    "display_number": "第一百四十一章",
+    "chapter_number_str": "一百四十一",
+    "file_index": 142
+  },
+  {
+    "file_name": "第一百四十二章 油库里和青年.txt",
+    "display_title": "第一百四十二章 油库里和青年",
+    "chapter_number": 142,
+    "display_number": "第一百四十二章",
+    "chapter_number_str": "一百四十二",
+    "file_index": 143
+  },
+  {
+    "file_name": "第一百四十三章 英雄油库里.txt",
+    "display_title": "第一百四十三章 英雄油库里",
+    "chapter_number": 143,
+    "display_number": "第一百四十三章",
+    "chapter_number_str": "一百四十三",
+    "file_index": 144
+  },
+  {
+    "file_name": "第一百四十四章 {精品}请油库里做哟！（早苗）.txt",
+    "display_title": "第一百四十四章 {精品}请油库里做哟！（早苗）",
+    "chapter_number": 144,
+    "display_number": "第一百四十四章",
+    "chapter_number_str": "一百四十四",
+    "file_index": 145
+  },
+  {
+    "file_name": "第一百四十五章 爱向杂篇.txt",
+    "display_title": "第一百四十五章 爱向杂篇",
+    "chapter_number": 145,
+    "display_number": "第一百四十五章",
+    "chapter_number_str": "一百四十五",
+    "file_index": 146
+  },
+  {
+    "file_name": "第一百四十六章 草原.txt",
+    "display_title": "第一百四十六章 草原",
+    "chapter_number": 146,
+    "display_number": "第一百四十六章",
+    "chapter_number_str": "一百四十六",
+    "file_index": 147
+  },
+  {
+    "file_name": "第一百四十七章 {精品}捕油大队.txt",
+    "display_title": "第一百四十七章 {精品}捕油大队",
+    "chapter_number": 147,
+    "display_number": "第一百四十七章",
+    "chapter_number_str": "一百四十七",
+    "file_index": 148
+  },
+  {
+    "file_name": "第一百四十八章 DOS屋.txt",
+    "display_title": "第一百四十八章 DOS屋",
+    "chapter_number": 148,
+    "display_number": "第一百四十八章",
+    "chapter_number_str": "一百四十八",
+    "file_index": 149
+  },
+  {
+    "file_name": "第一百四十九章 村庄恐怖故事大全.txt",
+    "display_title": "第一百四十九章 村庄恐怖故事大全",
+    "chapter_number": 149,
+    "display_number": "第一百四十九章",
+    "chapter_number_str": "一百四十九",
+    "file_index": 150
+  },
+  {
+    "file_name": "第一百五十章 美玲.txt",
+    "display_title": "第一百五十章 美玲",
+    "chapter_number": 150,
+    "display_number": "第一百五十章",
+    "chapter_number_str": "一百五十",
+    "file_index": 151
+  },
+  {
+    "file_name": "第一百五十一章 住家宣言.txt",
+    "display_title": "第一百五十一章 住家宣言",
+    "chapter_number": 151,
+    "display_number": "第一百五十一章",
+    "chapter_number_str": "一百五十一",
+    "file_index": 152
+  },
+  {
+    "file_name": "第一百五十二章 蕾蔕.txt",
+    "display_title": "第一百五十二章 蕾蔕",
+    "chapter_number": 152,
+    "display_number": "第一百五十二章",
+    "chapter_number_str": "一百五十二",
+    "file_index": 153
+  },
+  {
+    "file_name": "第一百五十三章 魔理沙和帽子.txt",
+    "display_title": "第一百五十三章 魔理沙和帽子",
+    "chapter_number": 153,
+    "display_number": "第一百五十三章",
+    "chapter_number_str": "一百五十三",
+    "file_index": 154
+  },
+  {
+    "file_name": "第一百五十四章 胎生.txt",
+    "display_title": "第一百五十四章 胎生",
+    "chapter_number": 154,
+    "display_number": "第一百五十四章",
+    "chapter_number_str": "一百五十四",
+    "file_index": 155
+  },
+  {
+    "file_name": "第一百五十五章 突然变成dos.txt",
+    "display_title": "第一百五十五章 突然变成dos",
+    "chapter_number": 155,
+    "display_number": "第一百五十五章",
+    "chapter_number_str": "一百五十五",
+    "file_index": 156
+  },
+  {
+    "file_name": "第一百五十六章  油库里罪行.txt",
+    "display_title": "第一百五十六章  油库里罪行",
+    "chapter_number": 156,
+    "display_number": "第一百五十六章",
+    "chapter_number_str": "一百五十六",
+    "file_index": 157
+  },
+  {
+    "file_name": "第一百五十七章 绝育.txt",
+    "display_title": "第一百五十七章 绝育",
+    "chapter_number": 157,
+    "display_number": "第一百五十七章",
+    "chapter_number_str": "一百五十七",
+    "file_index": 158
+  },
+  {
+    "file_name": "第一百五十八章  UFO.txt",
+    "display_title": "第一百五十八章  UFO",
+    "chapter_number": 158,
+    "display_number": "第一百五十八章",
+    "chapter_number_str": "一百五十八",
+    "file_index": 159
+  },
+  {
+    "file_name": "第一百五十九章 油库里食物研究.txt",
+    "display_title": "第一百五十九章 油库里食物研究",
+    "chapter_number": 159,
+    "display_number": "第一百五十九章",
+    "chapter_number_str": "一百五十九",
+    "file_index": 160
+  },
+  {
+    "file_name": "第一百六十章 自傲的家.txt",
+    "display_title": "第一百六十章 自傲的家",
+    "chapter_number": 160,
+    "display_number": "第一百六十章",
+    "chapter_number_str": "一百六十",
+    "file_index": 161
+  },
+  {
+    "file_name": "第一百六十一章 {精品}七选一.txt",
+    "display_title": "第一百六十一章 {精品}七选一",
+    "chapter_number": 161,
+    "display_number": "第一百六十一章",
+    "chapter_number_str": "一百六十一",
+    "file_index": 162
+  },
+  {
+    "file_name": "第一百六十二章 {精品}欢迎来到大哥哥的油库里妇产科.txt",
+    "display_title": "第一百六十二章 {精品}欢迎来到大哥哥的油库里妇产科",
+    "chapter_number": 162,
+    "display_number": "第一百六十二章",
+    "chapter_number_str": "一百六十二",
+    "file_index": 163
+  },
+  {
+    "file_name": "第一百六十三章 {精品}{坑}人间油库里的境界1.txt",
+    "display_title": "第一百六十三章 {精品}{坑}人间油库里的境界1",
+    "chapter_number": 163,
+    "display_number": "第一百六十三章",
+    "chapter_number_str": "一百六十三",
+    "file_index": 164
+  },
+  {
+    "file_name": "第一百六十四章 强化油库里.txt",
+    "display_title": "第一百六十四章 强化油库里",
+    "chapter_number": 164,
+    "display_number": "第一百六十四章",
+    "chapter_number_str": "一百六十四",
+    "file_index": 165
+  },
+  {
+    "file_name": "第一百六十五章 爱丽丝.txt",
+    "display_title": "第一百六十五章 爱丽丝",
+    "chapter_number": 165,
+    "display_number": "第一百六十五章",
+    "chapter_number_str": "一百六十五",
+    "file_index": 166
+  },
+  {
+    "file_name": "第一百六十六章 神秘的巨大油库里美铃.txt",
+    "display_title": "第一百六十六章 神秘的巨大油库里美铃",
+    "chapter_number": 166,
+    "display_number": "第一百六十六章",
+    "chapter_number_str": "一百六十六",
+    "file_index": 167
+  },
+  {
+    "file_name": "第一百六十七章 最能油库里的油库里不存在喔！.txt",
+    "display_title": "第一百六十七章 最能油库里的油库里不存在喔！",
+    "chapter_number": 167,
+    "display_number": "第一百六十七章",
+    "chapter_number_str": "一百六十七",
+    "file_index": 168
+  },
+  {
+    "file_name": "第一百六十八章 {精品}入侵室内的无知油库里.txt",
+    "display_title": "第一百六十八章 {精品}入侵室内的无知油库里",
+    "chapter_number": 168,
+    "display_number": "第一百六十八章",
+    "chapter_number_str": "一百六十八",
+    "file_index": 169
+  },
+  {
+    "file_name": "第一百六十九章 金章灵梦和野灵梦.txt",
+    "display_title": "第一百六十九章 金章灵梦和野灵梦",
+    "chapter_number": 169,
+    "display_number": "第一百六十九章",
+    "chapter_number_str": "一百六十九",
+    "file_index": 170
+  },
+  {
+    "file_name": "第一百七十章 油库里的虐待问题.txt",
+    "display_title": "第一百七十章 油库里的虐待问题",
+    "chapter_number": 170,
+    "display_number": "第一百七十章",
+    "chapter_number_str": "一百七十",
+    "file_index": 171
+  },
+  {
+    "file_name": "第一百七十一章 油库里挖眼法.txt",
+    "display_title": "第一百七十一章 油库里挖眼法",
+    "chapter_number": 171,
+    "display_number": "第一百七十一章",
+    "chapter_number_str": "一百七十一",
+    "file_index": 172
+  },
+  {
+    "file_name": "第一百七十二章 秋天驱除.txt",
+    "display_title": "第一百七十二章 秋天驱除",
+    "chapter_number": 172,
+    "display_number": "第一百七十二章",
+    "chapter_number_str": "一百七十二",
+    "file_index": 173
+  },
+  {
+    "file_name": "第一百七十三章 『这里是大家的住家宣言』.txt",
+    "display_title": "第一百七十三章 『这里是大家的住家宣言』",
+    "chapter_number": 173,
+    "display_number": "第一百七十三章",
+    "chapter_number_str": "一百七十三",
+    "file_index": 174
+  },
+  {
+    "file_name": "第一百七十四章  天子.txt",
+    "display_title": "第一百七十四章  天子",
+    "chapter_number": 174,
+    "display_number": "第一百七十四章",
+    "chapter_number_str": "一百七十四",
+    "file_index": 175
+  },
+  {
+    "file_name": "第一百七十五章 背叛朋友必须死.txt",
+    "display_title": "第一百七十五章 背叛朋友必须死",
+    "chapter_number": 175,
+    "display_number": "第一百七十五章",
+    "chapter_number_str": "一百七十五",
+    "file_index": 176
+  },
+  {
+    "file_name": "第一百七十六章  油库里研究员.txt",
+    "display_title": "第一百七十六章  油库里研究员",
+    "chapter_number": 176,
+    "display_number": "第一百七十六章",
+    "chapter_number_str": "一百七十六",
+    "file_index": 177
+  },
+  {
+    "file_name": "第一百七十七章 油库里种族歧视.txt",
+    "display_title": "第一百七十七章 油库里种族歧视",
+    "chapter_number": 177,
+    "display_number": "第一百七十七章",
+    "chapter_number_str": "一百七十七",
+    "file_index": 178
+  },
+  {
+    "file_name": "第一百七十八章 虐姐姐和虐妹妹.txt",
+    "display_title": "第一百七十八章 虐姐姐和虐妹妹",
+    "chapter_number": 178,
+    "display_number": "第一百七十八章",
+    "chapter_number_str": "一百七十八",
+    "file_index": 179
+  },
+  {
+    "file_name": "第一百七十九章 大规模生产.txt",
+    "display_title": "第一百七十九章 大规模生产",
+    "chapter_number": 179,
+    "display_number": "第一百七十九章",
+    "chapter_number_str": "一百七十九",
+    "file_index": 180
+  },
+  {
+    "file_name": "第一百七十九章 野油入侵.txt",
+    "display_title": "第一百七十九章 野油入侵",
+    "chapter_number": 179,
+    "display_number": "第一百七十九章",
+    "chapter_number_str": "一百七十九",
+    "file_index": 181
+  },
+  {
+    "file_name": "第一百八十章 {精品}落榜的魔理沙.txt",
+    "display_title": "第一百八十章 {精品}落榜的魔理沙",
+    "chapter_number": 180,
+    "display_number": "第一百八十章",
+    "chapter_number_str": "一百八十",
+    "file_index": 182
+  },
+  {
+    "file_name": "第一百八十一章 毒包子的一生.txt",
+    "display_title": "第一百八十一章 毒包子的一生",
+    "chapter_number": 181,
+    "display_number": "第一百八十一章",
+    "chapter_number_str": "一百八十一",
+    "file_index": 183
+  },
+  {
+    "file_name": "第一百八十二章 『潜入油库里的巢里，密集观察其生态』.txt",
+    "display_title": "第一百八十二章 『潜入油库里的巢里，密集观察其生态』",
+    "chapter_number": 182,
+    "display_number": "第一百八十二章",
+    "chapter_number_str": "一百八十二",
+    "file_index": 184
+  },
+  {
+    "file_name": "第一百八十三章 悔改.txt",
+    "display_title": "第一百八十三章 悔改",
+    "chapter_number": 183,
+    "display_number": "第一百八十三章",
+    "chapter_number_str": "一百八十三",
+    "file_index": 185
+  },
+  {
+    "file_name": "第一百八十四章 鬼意山出游.txt",
+    "display_title": "第一百八十四章 鬼意山出游",
+    "chapter_number": 184,
+    "display_number": "第一百八十四章",
+    "chapter_number_str": "一百八十四",
+    "file_index": 186
+  },
+  {
+    "file_name": "第一百八十五章 油库里角斗场.txt",
+    "display_title": "第一百八十五章 油库里角斗场",
+    "chapter_number": 185,
+    "display_number": "第一百八十五章",
+    "chapter_number_str": "一百八十五",
+    "file_index": 187
+  },
+  {
+    "file_name": "第一百八十六章 无法嚼─嚼.txt",
+    "display_title": "第一百八十六章 无法嚼─嚼",
+    "chapter_number": 186,
+    "display_number": "第一百八十六章",
+    "chapter_number_str": "一百八十六",
+    "file_index": 188
+  },
+  {
+    "file_name": "第一百八十七章 少女鬼意山.txt",
+    "display_title": "第一百八十七章 少女鬼意山",
+    "chapter_number": 187,
+    "display_number": "第一百八十七章",
+    "chapter_number_str": "一百八十七",
+    "file_index": 189
+  },
+  {
+    "file_name": "第一百八十八章 社死的霖之助.txt",
+    "display_title": "第一百八十八章 社死的霖之助",
+    "chapter_number": 188,
+    "display_number": "第一百八十八章",
+    "chapter_number_str": "一百八十八",
+    "file_index": 190
+  },
+  {
+    "file_name": "第一百八十九章 幽香和幽香.txt",
+    "display_title": "第一百八十九章 幽香和幽香",
+    "chapter_number": 189,
+    "display_number": "第一百八十九章",
+    "chapter_number_str": "一百八十九",
+    "file_index": 191
+  },
+  {
+    "file_name": "第一百九十章 4KM自由落体.txt",
+    "display_title": "第一百九十章 4KM自由落体",
+    "chapter_number": 190,
+    "display_number": "第一百九十章",
+    "chapter_number_str": "一百九十",
+    "file_index": 192
+  },
+  {
+    "file_name": "第一百九十一章 风筝.txt",
+    "display_title": "第一百九十一章 风筝",
+    "chapter_number": 191,
+    "display_number": "第一百九十一章",
+    "chapter_number_str": "一百九十一",
+    "file_index": 193
+  },
+  {
+    "file_name": "第一百九十二章 来自幻想乡的灵梦.txt",
+    "display_title": "第一百九十二章 来自幻想乡的灵梦",
+    "chapter_number": 192,
+    "display_number": "第一百九十二章",
+    "chapter_number_str": "一百九十二",
+    "file_index": 194
+  },
+  {
+    "file_name": "第一百九十三章 鬼意山的乐趣.txt",
+    "display_title": "第一百九十三章 鬼意山的乐趣",
+    "chapter_number": 193,
+    "display_number": "第一百九十三章",
+    "chapter_number_str": "一百九十三",
+    "file_index": 195
+  },
+  {
+    "file_name": "第一百九十四章 饲料爱丽丝.txt",
+    "display_title": "第一百九十四章 饲料爱丽丝",
+    "chapter_number": 194,
+    "display_number": "第一百九十四章",
+    "chapter_number_str": "一百九十四",
+    "file_index": 196
+  },
+  {
+    "file_name": "第一百九十五章 被毁掉重要的东西的滋味.txt",
+    "display_title": "第一百九十五章 被毁掉重要的东西的滋味",
+    "chapter_number": 195,
+    "display_number": "第一百九十五章",
+    "chapter_number_str": "一百九十五",
+    "file_index": 197
+  },
+  {
+    "file_name": "第一百九十六章 大哥哥和幽香.txt",
+    "display_title": "第一百九十六章 大哥哥和幽香",
+    "chapter_number": 196,
+    "display_number": "第一百九十六章",
+    "chapter_number_str": "一百九十六",
+    "file_index": 198
+  },
+  {
+    "file_name": "第一百九十七章 油库里和加工厂的战争.txt",
+    "display_title": "第一百九十七章 油库里和加工厂的战争",
+    "chapter_number": 197,
+    "display_number": "第一百九十七章",
+    "chapter_number_str": "一百九十七",
+    "file_index": 199
+  },
+  {
+    "file_name": "第一百九十八章 内馅替换.txt",
+    "display_title": "第一百九十八章 内馅替换",
+    "chapter_number": 198,
+    "display_number": "第一百九十八章",
+    "chapter_number_str": "一百九十八",
+    "file_index": 200
+  },
+  {
+    "file_name": "第一百九十九章 混血儿（bob警告）.txt",
+    "display_title": "第一百九十九章 混血儿（bob警告）",
+    "chapter_number": 199,
+    "display_number": "第一百九十九章",
+    "chapter_number_str": "一百九十九",
+    "file_index": 201
+  },
+  {
+    "file_name": "第二百章 地下室虐待.txt",
+    "display_title": "第二百章 地下室虐待",
+    "chapter_number": 200,
+    "display_number": "第二百章",
+    "chapter_number_str": "二百",
+    "file_index": 202
+  },
+  {
+    "file_name": "第二百零一章 被抛下山崖下的小爱莉丝.txt",
+    "display_title": "第二百零一章 被抛下山崖下的小爱莉丝",
+    "chapter_number": 201,
+    "display_number": "第二百零一章",
+    "chapter_number_str": "二百零一",
+    "file_index": 203
+  },
+  {
+    "file_name": "第二百零二章 无名虐待.txt",
+    "display_title": "第二百零二章 无名虐待",
+    "chapter_number": 202,
+    "display_number": "第二百零二章",
+    "chapter_number_str": "二百零二",
+    "file_index": 204
+  },
+  {
+    "file_name": "第二百零三章 油库里观察者.txt",
+    "display_title": "第二百零三章 油库里观察者",
+    "chapter_number": 203,
+    "display_number": "第二百零三章",
+    "chapter_number_str": "二百零三",
+    "file_index": 205
+  },
+  {
+    "file_name": "第二百零四章 {精品}香草的愿望.txt",
+    "display_title": "第二百零四章 {精品}香草的愿望",
+    "chapter_number": 204,
+    "display_number": "第二百零四章",
+    "chapter_number_str": "二百零四",
+    "file_index": 206
+  },
+  {
+    "file_name": "第二百零五章 油库里出现在现实中.txt",
+    "display_title": "第二百零五章 油库里出现在现实中",
+    "chapter_number": 205,
+    "display_number": "第二百零五章",
+    "chapter_number_str": "二百零五",
+    "file_index": 207
+  },
+  {
+    "file_name": "第二百零六章 嘘嘘.txt",
+    "display_title": "第二百零六章 嘘嘘",
+    "chapter_number": 206,
+    "display_number": "第二百零六章",
+    "chapter_number_str": "二百零六",
+    "file_index": 208
+  },
+  {
+    "file_name": "第二百零七章 找工作的魔理沙.txt",
+    "display_title": "第二百零七章 找工作的魔理沙",
+    "chapter_number": 207,
+    "display_number": "第二百零七章",
+    "chapter_number_str": "二百零七",
+    "file_index": 209
+  },
+  {
+    "file_name": "第二百零八章 虐油报纸.txt",
+    "display_title": "第二百零八章 虐油报纸",
+    "chapter_number": 208,
+    "display_number": "第二百零八章",
+    "chapter_number_str": "二百零八",
+    "file_index": 210
+  },
+  {
+    "file_name": "第二百零九章 油库里圆白菜料理.txt",
+    "display_title": "第二百零九章 油库里圆白菜料理",
+    "chapter_number": 209,
+    "display_number": "第二百零九章",
+    "chapter_number_str": "二百零九",
+    "file_index": 211
+  },
+  {
+    "file_name": "第二百一十章 在幻想乡上.txt",
+    "display_title": "第二百一十章 在幻想乡上",
+    "chapter_number": 210,
+    "display_number": "第二百一十章",
+    "chapter_number_str": "二百一十",
+    "file_index": 212
+  },
+  {
+    "file_name": "第二百一十一章 在幻想乡下.txt",
+    "display_title": "第二百一十一章 在幻想乡下",
+    "chapter_number": 211,
+    "display_number": "第二百一十一章",
+    "chapter_number_str": "二百一十一",
+    "file_index": 213
+  },
+  {
+    "file_name": "第二百一十二章 幻想和现实.txt",
+    "display_title": "第二百一十二章 幻想和现实",
+    "chapter_number": 212,
+    "display_number": "第二百一十二章",
+    "chapter_number_str": "二百一十二",
+    "file_index": 214
+  },
+  {
+    "file_name": "第二百一十三章 {精品}人类的住家宣言！！.txt",
+    "display_title": "第二百一十三章 {精品}人类的住家宣言！！",
+    "chapter_number": 213,
+    "display_number": "第二百一十三章",
+    "chapter_number_str": "二百一十三",
+    "file_index": 215
+  },
+  {
+    "file_name": "第二百一十四章 无限怀孕.txt",
+    "display_title": "第二百一十四章 无限怀孕",
+    "chapter_number": 214,
+    "display_number": "第二百一十四章",
+    "chapter_number_str": "二百一十四",
+    "file_index": 216
+  },
+  {
+    "file_name": "第二百一十五章 {精品}沙的世界.txt",
+    "display_title": "第二百一十五章 {精品}沙的世界",
+    "chapter_number": 215,
+    "display_number": "第二百一十五章",
+    "chapter_number_str": "二百一十五",
+    "file_index": 217
+  },
+  {
+    "file_name": "第二百一十六章 蕾咪入侵.txt",
+    "display_title": "第二百一十六章 蕾咪入侵",
+    "chapter_number": 216,
+    "display_number": "第二百一十六章",
+    "chapter_number_str": "二百一十六",
+    "file_index": 218
+  },
+  {
+    "file_name": "第二百一十七章 无法出生.txt",
+    "display_title": "第二百一十七章 无法出生",
+    "chapter_number": 217,
+    "display_number": "第二百一十七章",
+    "chapter_number_str": "二百一十七",
+    "file_index": 219
+  },
+  {
+    "file_name": "第二百一十八章 奔跑吧魔理沙！.txt",
+    "display_title": "第二百一十八章 奔跑吧魔理沙！",
+    "chapter_number": 218,
+    "display_number": "第二百一十八章",
+    "chapter_number_str": "二百一十八",
+    "file_index": 220
+  },
+  {
+    "file_name": "第二百一十九章 逃离公园.txt",
+    "display_title": "第二百一十九章 逃离公园",
+    "chapter_number": 219,
+    "display_number": "第二百一十九章",
+    "chapter_number_str": "二百一十九",
+    "file_index": 221
+  },
+  {
+    "file_name": "第二百二十章 灵梦比例超标.txt",
+    "display_title": "第二百二十章 灵梦比例超标",
+    "chapter_number": 220,
+    "display_number": "第二百二十章",
+    "chapter_number_str": "二百二十",
+    "file_index": 222
+  },
+  {
+    "file_name": "第二百二十一章 {精品}哭哭油库里.txt",
+    "display_title": "第二百二十一章 {精品}哭哭油库里",
+    "chapter_number": 221,
+    "display_number": "第二百二十一章",
+    "chapter_number_str": "二百二十一",
+    "file_index": 223
+  },
+  {
+    "file_name": "第二百二十二章 保龄球.txt",
+    "display_title": "第二百二十二章 保龄球",
+    "chapter_number": 222,
+    "display_number": "第二百二十二章",
+    "chapter_number_str": "二百二十二",
+    "file_index": 224
+  },
+  {
+    "file_name": "第二百二十三章 {精品}油库里收养日记.txt",
+    "display_title": "第二百二十三章 {精品}油库里收养日记",
+    "chapter_number": 223,
+    "display_number": "第二百二十三章",
+    "chapter_number_str": "二百二十三",
+    "file_index": 225
+  },
+  {
+    "file_name": "第二百二十四章 强化油库里的诞生.txt",
+    "display_title": "第二百二十四章 强化油库里的诞生",
+    "chapter_number": 224,
+    "display_number": "第二百二十四章",
+    "chapter_number_str": "二百二十四",
+    "file_index": 226
+  },
+  {
+    "file_name": "第二百二十五章 虐待杂篇.txt",
+    "display_title": "第二百二十五章 虐待杂篇",
+    "chapter_number": 225,
+    "display_number": "第二百二十五章",
+    "chapter_number_str": "二百二十五",
+    "file_index": 227
+  },
+  {
+    "file_name": "第二百二十六章 人里的油库里资源回收中心.txt",
+    "display_title": "第二百二十六章 人里的油库里资源回收中心",
+    "chapter_number": 226,
+    "display_number": "第二百二十六章",
+    "chapter_number_str": "二百二十六",
+    "file_index": 228
+  },
+  {
+    "file_name": "第二百二十七章 {精品}只为得到一滴水.txt",
+    "display_title": "第二百二十七章 {精品}只为得到一滴水",
+    "chapter_number": 227,
+    "display_number": "第二百二十七章",
+    "chapter_number_str": "二百二十七",
+    "file_index": 229
+  },
+  {
+    "file_name": "第二百二十八章 {精品}没事的、麻里洽.txt",
+    "display_title": "第二百二十八章 {精品}没事的、麻里洽",
+    "chapter_number": 228,
+    "display_number": "第二百二十八章",
+    "chapter_number_str": "二百二十八",
+    "file_index": 230
+  },
+  {
+    "file_name": "第二百二十九章 {精品}某处的幸褔流浪油的故事.txt",
+    "display_title": "第二百二十九章 {精品}某处的幸褔流浪油的故事",
+    "chapter_number": 229,
+    "display_number": "第二百二十九章",
+    "chapter_number_str": "二百二十九",
+    "file_index": 231
+  },
+  {
+    "file_name": "第二百三十章 {精品}流浪油麻里洽 24日间的轨迹.txt",
+    "display_title": "第二百三十章 {精品}流浪油麻里洽 24日间的轨迹",
+    "chapter_number": 230,
+    "display_number": "第二百三十章",
+    "chapter_number_str": "二百三十",
+    "file_index": 232
+  },
+  {
+    "file_name": "第二百三十一章 {精品}让麻里莎燃起来.txt",
+    "display_title": "第二百三十一章 {精品}让麻里莎燃起来",
+    "chapter_number": 231,
+    "display_number": "第二百三十一章",
+    "chapter_number_str": "二百三十一",
+    "file_index": 233
+  },
+  {
+    "file_name": "第二百三十二章 {精品}父亲的回忆.txt",
+    "display_title": "第二百三十二章 {精品}父亲的回忆",
+    "chapter_number": 232,
+    "display_number": "第二百三十二章",
+    "chapter_number_str": "二百三十二",
+    "file_index": 234
+  },
+  {
+    "file_name": "第二百三十三章 {坑}在玻璃缸的油库里.txt",
+    "display_title": "第二百三十三章 {坑}在玻璃缸的油库里",
+    "chapter_number": 233,
+    "display_number": "第二百三十三章",
+    "chapter_number_str": "二百三十三",
+    "file_index": 235
+  },
+  {
+    "file_name": "第二百三十四章 {精品}油骨鸡.txt",
+    "display_title": "第二百三十四章 {精品}油骨鸡",
+    "chapter_number": 234,
+    "display_number": "第二百三十四章",
+    "chapter_number_str": "二百三十四",
+    "file_index": 236
+  },
+  {
+    "file_name": "第二百三十五章 {精品}12月6日的麻里恰，爸爸~快点回.txt",
+    "display_title": "第二百三十五章 {精品}12月6日的麻里恰，爸爸~快点回",
+    "chapter_number": 235,
+    "display_number": "第二百三十五章",
+    "chapter_number_str": "二百三十五",
+    "file_index": 237
+  },
+  {
+    "file_name": "第二百三十六章 {精品}麻里恰的勇武传.txt",
+    "display_title": "第二百三十六章 {精品}麻里恰的勇武传",
+    "chapter_number": 236,
+    "display_number": "第二百三十六章",
+    "chapter_number_str": "二百三十六",
+    "file_index": 238
+  },
+  {
+    "file_name": "第二百三十七章  {精品}平等的早晨.txt",
+    "display_title": "第二百三十七章  {精品}平等的早晨",
+    "chapter_number": 237,
+    "display_number": "第二百三十七章",
+    "chapter_number_str": "二百三十七",
+    "file_index": 239
+  },
+  {
+    "file_name": "第二百三十八章 {精品}人类先生，请买灵谬回去.txt",
+    "display_title": "第二百三十八章 {精品}人类先生，请买灵谬回去",
+    "chapter_number": 238,
+    "display_number": "第二百三十八章",
+    "chapter_number_str": "二百三十八",
+    "file_index": 240
+  },
+  {
+    "file_name": "第二百三十九章 {精品}麻里恰的意味.txt",
+    "display_title": "第二百三十九章 {精品}麻里恰的意味",
+    "chapter_number": 239,
+    "display_number": "第二百三十九章",
+    "chapter_number_str": "二百三十九",
+    "file_index": 241
+  },
+  {
+    "file_name": "第二百四十章 {精品}忍耐的家族.txt",
+    "display_title": "第二百四十章 {精品}忍耐的家族",
+    "chapter_number": 240,
+    "display_number": "第二百四十章",
+    "chapter_number_str": "二百四十",
+    "file_index": 242
+  },
+  {
+    "file_name": "第二百四十一章 {精品}搞幸湖ー是什么？.txt",
+    "display_title": "第二百四十一章 {精品}搞幸湖ー是什么？",
+    "chapter_number": 241,
+    "display_number": "第二百四十一章",
+    "chapter_number_str": "二百四十一",
+    "file_index": 243
+  },
+  {
+    "file_name": "第二百四十二章 {精品}一日一万回，感谢的『油库里喜爹以.txt",
+    "display_title": "第二百四十二章 {精品}一日一万回，感谢的『油库里喜爹以",
+    "chapter_number": 242,
+    "display_number": "第二百四十二章",
+    "chapter_number_str": "二百四十二",
+    "file_index": 244
+  },
+  {
+    "file_name": "第二百四十三章 {精品}极限的酷暑.txt",
+    "display_title": "第二百四十三章 {精品}极限的酷暑",
+    "chapter_number": 243,
+    "display_number": "第二百四十三章",
+    "chapter_number_str": "二百四十三",
+    "file_index": 245
+  },
+  {
+    "file_name": "第二百四十四章 {精品}公园里遇到的麻里恰.txt",
+    "display_title": "第二百四十四章 {精品}公园里遇到的麻里恰",
+    "chapter_number": 244,
+    "display_number": "第二百四十四章",
+    "chapter_number_str": "二百四十四",
+    "file_index": 246
+  },
+  {
+    "file_name": "第二百四十五章 {精品}麻里恰奴隶博物馆.txt",
+    "display_title": "第二百四十五章 {精品}麻里恰奴隶博物馆",
+    "chapter_number": 245,
+    "display_number": "第二百四十五章",
+    "chapter_number_str": "二百四十五",
+    "file_index": 247
+  },
+  {
+    "file_name": "第二百四十六章 {精品}麻里恰捏烂博物馆.txt",
+    "display_title": "第二百四十六章 {精品}麻里恰捏烂博物馆",
+    "chapter_number": 246,
+    "display_number": "第二百四十六章",
+    "chapter_number_str": "二百四十六",
+    "file_index": 248
+  },
+  {
+    "file_name": "第二百四十七章 {精品}切腹奴隶麻里恰.txt",
+    "display_title": "第二百四十七章 {精品}切腹奴隶麻里恰",
+    "chapter_number": 247,
+    "display_number": "第二百四十七章",
+    "chapter_number_str": "二百四十七",
+    "file_index": 249
+  },
+  {
+    "file_name": "第二百四十八章 {精品}茫然不得要领的魔理沙们.txt",
+    "display_title": "第二百四十八章 {精品}茫然不得要领的魔理沙们",
+    "chapter_number": 248,
+    "display_number": "第二百四十八章",
+    "chapter_number_str": "二百四十八",
+    "file_index": 250
+  },
+  {
+    "file_name": "第二百四十九章 {精品}商店里的魔理沙姐妹.txt",
+    "display_title": "第二百四十九章 {精品}商店里的魔理沙姐妹",
+    "chapter_number": 249,
+    "display_number": "第二百四十九章",
+    "chapter_number_str": "二百四十九",
+    "file_index": 251
+  },
+  {
+    "file_name": "第二百五十章 {精品}{坑}和馒馒来在一起的日常.txt",
+    "display_title": "第二百五十章 {精品}{坑}和馒馒来在一起的日常",
+    "chapter_number": 250,
+    "display_number": "第二百五十章",
+    "chapter_number_str": "二百五十",
+    "file_index": 252
+  },
+  {
+    "file_name": "第二百五十一章 {精品}杂碎魔理沙与灵胖的温暖家庭.txt",
+    "display_title": "第二百五十一章 {精品}杂碎魔理沙与灵胖的温暖家庭",
+    "chapter_number": 251,
+    "display_number": "第二百五十一章",
+    "chapter_number_str": "二百五十一",
+    "file_index": 253
+  },
+  {
+    "file_name": "第二百五十二章 {精品}骤雨骤晴.txt",
+    "display_title": "第二百五十二章 {精品}骤雨骤晴",
+    "chapter_number": 252,
+    "display_number": "第二百五十二章",
+    "chapter_number_str": "二百五十二",
+    "file_index": 254
+  },
+  {
+    "file_name": "第二百五十三章 {精品}油库里公民 ～奴隶制度～.txt",
+    "display_title": "第二百五十三章 {精品}油库里公民 ～奴隶制度～",
+    "chapter_number": 253,
+    "display_number": "第二百五十三章",
+    "chapter_number_str": "二百五十三",
+    "file_index": 255
+  },
+  {
+    "file_name": "第二百五十四章 {精品}油库里公民 种姓制度.txt",
+    "display_title": "第二百五十四章 {精品}油库里公民 种姓制度",
+    "chapter_number": 254,
+    "display_number": "第二百五十四章",
+    "chapter_number_str": "二百五十四",
+    "file_index": 256
+  },
+  {
+    "file_name": "第二百五十五章 {精品}油库里公民 农奴制.txt",
+    "display_title": "第二百五十五章 {精品}油库里公民 农奴制",
+    "chapter_number": 255,
+    "display_number": "第二百五十五章",
+    "chapter_number_str": "二百五十五",
+    "file_index": 257
+  },
+  {
+    "file_name": "第二百五十六章 {精品}油库里公民 奴隶解放.txt",
+    "display_title": "第二百五十六章 {精品}油库里公民 奴隶解放",
+    "chapter_number": 256,
+    "display_number": "第二百五十六章",
+    "chapter_number_str": "二百五十六",
+    "file_index": 258
+  },
+  {
+    "file_name": "第二百五十七章 {精品}一个无所救赎的故事.txt",
+    "display_title": "第二百五十七章 {精品}一个无所救赎的故事",
+    "chapter_number": 257,
+    "display_number": "第二百五十七章",
+    "chapter_number_str": "二百五十七",
+    "file_index": 259
+  },
+  {
+    "file_name": "第二百五十八章 {精品}{争议}少女与魔里沙.txt",
+    "display_title": "第二百五十八章 {精品}{争议}少女与魔里沙",
+    "chapter_number": 258,
+    "display_number": "第二百五十八章",
+    "chapter_number_str": "二百五十八",
+    "file_index": 260
+  },
+  {
+    "file_name": "第二百五十九章 馒头带来的烘焙业变革.txt",
+    "display_title": "第二百五十九章 馒头带来的烘焙业变革",
+    "chapter_number": 259,
+    "display_number": "第二百五十九章",
+    "chapter_number_str": "二百五十九",
+    "file_index": 261
+  },
+  {
+    "file_name": "第二百六十章 {精品}后油库里时代.txt",
+    "display_title": "第二百六十章 {精品}后油库里时代",
+    "chapter_number": 260,
+    "display_number": "第二百六十章",
+    "chapter_number_str": "二百六十",
+    "file_index": 262
+  },
+  {
+    "file_name": "第二百六十一章 {精品}{坑}油库里革新——十只魔理沙的故事.txt",
+    "display_title": "第二百六十一章 {精品}{坑}油库里革新——十只魔理沙的故事",
+    "chapter_number": 261,
+    "display_number": "第二百六十一章",
+    "chapter_number_str": "二百六十一",
+    "file_index": 263
+  },
+  {
+    "file_name": "第二百六十二章 {精品}{争议}虐大叔.txt",
+    "display_title": "第二百六十二章 {精品}{争议}虐大叔",
+    "chapter_number": 262,
+    "display_number": "第二百六十二章",
+    "chapter_number_str": "二百六十二",
+    "file_index": 264
+  },
+  {
+    "file_name": "第二百六十三章 {精品}小贝比什么的没有生过.txt",
+    "display_title": "第二百六十三章 {精品}小贝比什么的没有生过",
+    "chapter_number": 263,
+    "display_number": "第二百六十三章",
+    "chapter_number_str": "二百六十三",
+    "file_index": 265
+  },
+  {
+    "file_name": "第二百六十四章 理所应当的罪行.txt",
+    "display_title": "第二百六十四章 理所应当的罪行",
+    "chapter_number": 264,
+    "display_number": "第二百六十四章",
+    "chapter_number_str": "二百六十四",
+    "file_index": 266
+  },
+  {
+    "file_name": "第二百六十五章 琪露诺种花.txt",
+    "display_title": "第二百六十五章 琪露诺种花",
+    "chapter_number": 265,
+    "display_number": "第二百六十五章",
+    "chapter_number_str": "二百六十五",
+    "file_index": 267
+  },
+  {
+    "file_name": "第二百六十六章 {精品}冬天的油库里place.txt",
+    "display_title": "第二百六十六章 {精品}冬天的油库里place",
+    "chapter_number": 266,
+    "display_number": "第二百六十六章",
+    "chapter_number_str": "二百六十六",
+    "file_index": 268
+  },
+  {
+    "file_name": "第二百六十七章 {精品}一起油库里吧！.txt",
+    "display_title": "第二百六十七章 {精品}一起油库里吧！",
+    "chapter_number": 267,
+    "display_number": "第二百六十七章",
+    "chapter_number_str": "二百六十七",
+    "file_index": 269
+  },
+  {
+    "file_name": "第二百六十八章 {精品}anko583遗腹子.txt",
+    "display_title": "第二百六十八章 {精品}anko583遗腹子",
+    "chapter_number": 268,
+    "display_number": "第二百六十八章",
+    "chapter_number_str": "二百六十八",
+    "file_index": 270
+  },
+  {
+    "file_name": "第二百六十九章 可笑的复仇.txt",
+    "display_title": "第二百六十九章 可笑的复仇",
+    "chapter_number": 269,
+    "display_number": "第二百六十九章",
+    "chapter_number_str": "二百六十九",
+    "file_index": 271
+  },
+  {
+    "file_name": "第二百七十章 {精品}点心铺大哥哥.txt",
+    "display_title": "第二百七十章 {精品}点心铺大哥哥",
+    "chapter_number": 270,
+    "display_number": "第二百七十章",
+    "chapter_number_str": "二百七十",
+    "file_index": 272
+  },
+  {
+    "file_name": "第二百七十一章 {精品}子供玩乐油库里.txt",
+    "display_title": "第二百七十一章 {精品}子供玩乐油库里",
+    "chapter_number": 271,
+    "display_number": "第二百七十一章",
+    "chapter_number_str": "二百七十一",
+    "file_index": 273
+  },
+  {
+    "file_name": "第二百七十二章 研究爱丽丝.txt",
+    "display_title": "第二百七十二章 研究爱丽丝",
+    "chapter_number": 272,
+    "display_number": "第二百七十二章",
+    "chapter_number_str": "二百七十二",
+    "file_index": 274
+  },
+  {
+    "file_name": "第二百七十三章 挑战人类.txt",
+    "display_title": "第二百七十三章 挑战人类",
+    "chapter_number": 273,
+    "display_number": "第二百七十三章",
+    "chapter_number_str": "二百七十三",
+    "file_index": 275
+  },
+  {
+    "file_name": "第二百七十四章 油库里蕾咪莉亚与奇妙的朋友.txt",
+    "display_title": "第二百七十四章 油库里蕾咪莉亚与奇妙的朋友",
+    "chapter_number": 274,
+    "display_number": "第二百七十四章",
+    "chapter_number_str": "二百七十四",
+    "file_index": 276
+  },
+  {
+    "file_name": "第二百七十五章 油库里改造计划.txt",
+    "display_title": "第二百七十五章 油库里改造计划",
+    "chapter_number": 275,
+    "display_number": "第二百七十五章",
+    "chapter_number_str": "二百七十五",
+    "file_index": 277
+  },
+  {
+    "file_name": "第二百七十六章 诸君，我喜欢虐待油库里.txt",
+    "display_title": "第二百七十六章 诸君，我喜欢虐待油库里",
+    "chapter_number": 276,
+    "display_number": "第二百七十六章",
+    "chapter_number_str": "二百七十六",
+    "file_index": 278
+  },
+  {
+    "file_name": "第二百七十七章 油库里沙包.txt",
+    "display_title": "第二百七十七章 油库里沙包",
+    "chapter_number": 277,
+    "display_number": "第二百七十七章",
+    "chapter_number_str": "二百七十七",
+    "file_index": 279
+  },
+  {
+    "file_name": "第二百七十八章 {精品}贝壳魔理沙.txt",
+    "display_title": "第二百七十八章 {精品}贝壳魔理沙",
+    "chapter_number": 278,
+    "display_number": "第二百七十八章",
+    "chapter_number_str": "二百七十八",
+    "file_index": 280
+  },
+  {
+    "file_name": "第二百七十九章 灵梦的杂技表演.txt",
+    "display_title": "第二百七十九章 灵梦的杂技表演",
+    "chapter_number": 279,
+    "display_number": "第二百七十九章",
+    "chapter_number_str": "二百七十九",
+    "file_index": 281
+  },
+  {
+    "file_name": "第二百八十章 {精品}「丑八怪灵梦」.txt",
+    "display_title": "第二百八十章 {精品}「丑八怪灵梦」",
+    "chapter_number": 280,
+    "display_number": "第二百八十章",
+    "chapter_number_str": "二百八十",
+    "file_index": 282
+  },
+  {
+    "file_name": "第二百八十一章 {精品}情人节.txt",
+    "display_title": "第二百八十一章 {精品}情人节",
+    "chapter_number": 281,
+    "display_number": "第二百八十一章",
+    "chapter_number_str": "二百八十一",
+    "file_index": 283
+  },
+  {
+    "file_name": "第二百八十二章 乞讨的艾丽斯.txt",
+    "display_title": "第二百八十二章 乞讨的艾丽斯",
+    "chapter_number": 282,
+    "display_number": "第二百八十二章",
+    "chapter_number_str": "二百八十二",
+    "file_index": 284
+  },
+  {
+    "file_name": "第二百八十三章 十只魔理沙.txt",
+    "display_title": "第二百八十三章 十只魔理沙",
+    "chapter_number": 283,
+    "display_number": "第二百八十三章",
+    "chapter_number_str": "二百八十三",
+    "file_index": 285
+  },
+  {
+    "file_name": "第二百八十四章 {精品}山中的灵梦.txt",
+    "display_title": "第二百八十四章 {精品}山中的灵梦",
+    "chapter_number": 284,
+    "display_number": "第二百八十四章",
+    "chapter_number_str": "二百八十四",
+    "file_index": 286
+  },
+  {
+    "file_name": "第二百八十五章 {坑}给油库里摄取小麦粉的故事.txt",
+    "display_title": "第二百八十五章 {坑}给油库里摄取小麦粉的故事",
+    "chapter_number": 285,
+    "display_number": "第二百八十五章",
+    "chapter_number_str": "二百八十五",
+    "file_index": 287
+  },
+  {
+    "file_name": "第二百八十六章 野生油库里的生活.txt",
+    "display_title": "第二百八十六章 野生油库里的生活",
+    "chapter_number": 286,
+    "display_number": "第二百八十六章",
+    "chapter_number_str": "二百八十六",
+    "file_index": 288
+  },
+  {
+    "file_name": "第二百八十七章 阿求种.txt",
+    "display_title": "第二百八十七章 阿求种",
+    "chapter_number": 287,
+    "display_number": "第二百八十七章",
+    "chapter_number_str": "二百八十七",
+    "file_index": 289
+  },
+  {
+    "file_name": "第二百八十八章 垃圾魔理沙.txt",
+    "display_title": "第二百八十八章 垃圾魔理沙",
+    "chapter_number": 288,
+    "display_number": "第二百八十八章",
+    "chapter_number_str": "二百八十八",
+    "file_index": 290
+  },
+  {
+    "file_name": "第二百八十九章 爱皮猪日记.txt",
+    "display_title": "第二百八十九章 爱皮猪日记",
+    "chapter_number": 289,
+    "display_number": "第二百八十九章",
+    "chapter_number_str": "二百八十九",
+    "file_index": 291
+  },
+  {
+    "file_name": "第二百九十章 幻想乡虐油短篇.txt",
+    "display_title": "第二百九十章 幻想乡虐油短篇",
+    "chapter_number": 290,
+    "display_number": "第二百九十章",
+    "chapter_number_str": "二百九十",
+    "file_index": 292
+  },
+  {
+    "file_name": "第二百九十一章 油库里姉妹　前编.txt",
+    "display_title": "第二百九十一章 油库里姉妹　前编",
+    "chapter_number": 291,
+    "display_number": "第二百九十一章",
+    "chapter_number_str": "二百九十一",
+    "file_index": 293
+  },
+  {
+    "file_name": "第二百九十二章 三只爱丽丝.txt",
+    "display_title": "第二百九十二章 三只爱丽丝",
+    "chapter_number": 292,
+    "display_number": "第二百九十二章",
+    "chapter_number_str": "二百九十二",
+    "file_index": 294
+  },
+  {
+    "file_name": "第二百九十三章 油库里喝酒.txt",
+    "display_title": "第二百九十三章 油库里喝酒",
+    "chapter_number": 293,
+    "display_number": "第二百九十三章",
+    "chapter_number_str": "二百九十三",
+    "file_index": 295
+  },
+  {
+    "file_name": "第二百九十四章 杂篇.txt",
+    "display_title": "第二百九十四章 杂篇",
+    "chapter_number": 294,
+    "display_number": "第二百九十四章",
+    "chapter_number_str": "二百九十四",
+    "file_index": 296
+  },
+  {
+    "file_name": "第二百九十五章 住家宣言的故事.txt",
+    "display_title": "第二百九十五章 住家宣言的故事",
+    "chapter_number": 295,
+    "display_number": "第二百九十五章",
+    "chapter_number_str": "二百九十五",
+    "file_index": 297
+  },
+  {
+    "file_name": "第二百九十六章 住家宣言的故事附加剧情.txt",
+    "display_title": "第二百九十六章 住家宣言的故事附加剧情",
+    "chapter_number": 296,
+    "display_number": "第二百九十六章",
+    "chapter_number_str": "二百九十六",
+    "file_index": 298
+  },
+  {
+    "file_name": "第二百九十七章 油多拉的宝盒.txt",
+    "display_title": "第二百九十七章 油多拉的宝盒",
+    "chapter_number": 297,
+    "display_number": "第二百九十七章",
+    "chapter_number_str": "二百九十七",
+    "file_index": 299
+  },
+  {
+    "file_name": "第二百九十八章 一颗馒头加上少许的嫉妒所引发一桩悲剧的一.txt",
+    "display_title": "第二百九十八章 一颗馒头加上少许的嫉妒所引发一桩悲剧的一",
+    "chapter_number": 298,
+    "display_number": "第二百九十八章",
+    "chapter_number_str": "二百九十八",
+    "file_index": 300
+  },
+  {
+    "file_name": "第二百九十九章 新种爱丽丝.txt",
+    "display_title": "第二百九十九章 新种爱丽丝",
+    "chapter_number": 299,
+    "display_number": "第二百九十九章",
+    "chapter_number_str": "二百九十九",
+    "file_index": 301
+  },
+  {
+    "file_name": "第三百章 美丽的油库里的制造方法.txt",
+    "display_title": "第三百章 美丽的油库里的制造方法",
+    "chapter_number": 300,
+    "display_number": "第三百章",
+    "chapter_number_str": "三百",
+    "file_index": 302
+  },
+  {
+    "file_name": "第三百零一章 鬼之家.txt",
+    "display_title": "第三百零一章 鬼之家",
+    "chapter_number": 301,
+    "display_number": "第三百零一章",
+    "chapter_number_str": "三百零一",
+    "file_index": 303
+  },
+  {
+    "file_name": "第三百零二章 油虐用具.txt",
+    "display_title": "第三百零二章 油虐用具",
+    "chapter_number": 302,
+    "display_number": "第三百零二章",
+    "chapter_number_str": "三百零二",
+    "file_index": 304
+  },
+  {
+    "file_name": "第三百零三章 幻想铁路公司.txt",
+    "display_title": "第三百零三章 幻想铁路公司",
+    "chapter_number": 303,
+    "display_number": "第三百零三章",
+    "chapter_number_str": "三百零三",
+    "file_index": 305
+  },
+  {
+    "file_name": "第三百零四章 BOMB.txt",
+    "display_title": "第三百零四章 BOMB",
+    "chapter_number": 304,
+    "display_number": "第三百零四章",
+    "chapter_number_str": "三百零四",
+    "file_index": 306
+  },
+  {
+    "file_name": "第三百零五章 无名杂篇.txt",
+    "display_title": "第三百零五章 无名杂篇",
+    "chapter_number": 305,
+    "display_number": "第三百零五章",
+    "chapter_number_str": "三百零五",
+    "file_index": 307
+  },
+  {
+    "file_name": "第三百零六章 杂篇.txt",
+    "display_title": "第三百零六章 杂篇",
+    "chapter_number": 306,
+    "display_number": "第三百零六章",
+    "chapter_number_str": "三百零六",
+    "file_index": 308
+  },
+  {
+    "file_name": "第三百零七章 {精品}HK夜市油库里美食.txt",
+    "display_title": "第三百零七章 {精品}HK夜市油库里美食",
+    "chapter_number": 307,
+    "display_number": "第三百零七章",
+    "chapter_number_str": "三百零七",
+    "file_index": 309
+  },
+  {
+    "file_name": "第三百零八章 恶妻.txt",
+    "display_title": "第三百零八章 恶妻",
+    "chapter_number": 308,
+    "display_number": "第三百零八章",
+    "chapter_number_str": "三百零八",
+    "file_index": 310
+  },
+  {
+    "file_name": "第三百零九章 金属化.txt",
+    "display_title": "第三百零九章 金属化",
+    "chapter_number": 309,
+    "display_number": "第三百零九章",
+    "chapter_number_str": "三百零九",
+    "file_index": 311
+  },
+  {
+    "file_name": "第三百一十章 感情剧.txt",
+    "display_title": "第三百一十章 感情剧",
+    "chapter_number": 310,
+    "display_number": "第三百一十章",
+    "chapter_number_str": "三百一十",
+    "file_index": 312
+  },
+  {
+    "file_name": "第三百一十一章 给油库里喂食食物的反应集.txt",
+    "display_title": "第三百一十一章 给油库里喂食食物的反应集",
+    "chapter_number": 311,
+    "display_number": "第三百一十一章",
+    "chapter_number_str": "三百一十一",
+    "file_index": 313
+  },
+  {
+    "file_name": "第三百一十二章 永琳油库里加工厂的新产品推介.txt",
+    "display_title": "第三百一十二章 永琳油库里加工厂的新产品推介",
+    "chapter_number": 312,
+    "display_number": "第三百一十二章",
+    "chapter_number_str": "三百一十二",
+    "file_index": 314
+  },
+  {
+    "file_name": "第三百一十三章 {精品}黄金开口笑包子.txt",
+    "display_title": "第三百一十三章 {精品}黄金开口笑包子",
+    "chapter_number": 313,
+    "display_number": "第三百一十三章",
+    "chapter_number_str": "三百一十三",
+    "file_index": 315
+  },
+  {
+    "file_name": "第三百一十四章 永不分离的发饰.txt",
+    "display_title": "第三百一十四章 永不分离的发饰",
+    "chapter_number": 314,
+    "display_number": "第三百一十四章",
+    "chapter_number_str": "三百一十四",
+    "file_index": 316
+  },
+  {
+    "file_name": "第三百一十五章 {争议}列梦二创.txt",
+    "display_title": "第三百一十五章 {争议}列梦二创",
+    "chapter_number": 315,
+    "display_number": "第三百一十五章",
+    "chapter_number_str": "三百一十五",
+    "file_index": 317
+  },
+  {
+    "file_name": "第三百一十六章 眼睛中的摄像机.txt",
+    "display_title": "第三百一十六章 眼睛中的摄像机",
+    "chapter_number": 316,
+    "display_number": "第三百一十六章",
+    "chapter_number_str": "三百一十六",
+    "file_index": 318
+  },
+  {
+    "file_name": "第三百一十七章 一些稀有种设定.txt",
+    "display_title": "第三百一十七章 一些稀有种设定",
+    "chapter_number": 317,
+    "display_number": "第三百一十七章",
+    "chapter_number_str": "三百一十七",
+    "file_index": 319
+  },
+  {
+    "file_name": "第三百一十八章 油库里吸引机.txt",
+    "display_title": "第三百一十八章 油库里吸引机",
+    "chapter_number": 318,
+    "display_number": "第三百一十八章",
+    "chapter_number_str": "三百一十八",
+    "file_index": 320
+  },
+  {
+    "file_name": "第三百一十九章 巫女和油库里.txt",
+    "display_title": "第三百一十九章 巫女和油库里",
+    "chapter_number": 319,
+    "display_number": "第三百一十九章",
+    "chapter_number_str": "三百一十九",
+    "file_index": 321
+  },
+  {
+    "file_name": "第三百二十章 油库里设定.txt",
+    "display_title": "第三百二十章 油库里设定",
+    "chapter_number": 320,
+    "display_number": "第三百二十章",
+    "chapter_number_str": "三百二十",
+    "file_index": 322
+  },
+  {
+    "file_name": "第三百二十一章 {精品}馒头求闻史记.txt",
+    "display_title": "第三百二十一章 {精品}馒头求闻史记",
+    "chapter_number": 321,
+    "display_number": "第三百二十一章",
+    "chapter_number_str": "三百二十一",
+    "file_index": 323
+  },
+  {
+    "file_name": "第三百二十二章 杂篇.txt",
+    "display_title": "第三百二十二章 杂篇",
+    "chapter_number": 322,
+    "display_number": "第三百二十二章",
+    "chapter_number_str": "三百二十二",
+    "file_index": 324
+  },
+  {
+    "file_name": "第三百二十三章 {争议}列梦二创.txt",
+    "display_title": "第三百二十三章 {争议}列梦二创",
+    "chapter_number": 323,
+    "display_number": "第三百二十三章",
+    "chapter_number_str": "三百二十三",
+    "file_index": 325
+  },
+  {
+    "file_name": "第三百二十四章 虐待杂篇.txt",
+    "display_title": "第三百二十四章 虐待杂篇",
+    "chapter_number": 324,
+    "display_number": "第三百二十四章",
+    "chapter_number_str": "三百二十四",
+    "file_index": 326
+  },
+  {
+    "file_name": "第三百二十五章 油库里种族特性.txt",
+    "display_title": "第三百二十五章 油库里种族特性",
+    "chapter_number": 325,
+    "display_number": "第三百二十五章",
+    "chapter_number_str": "三百二十五",
+    "file_index": 327
+  },
+  {
+    "file_name": "第三百二十六章 油库里反击.txt",
+    "display_title": "第三百二十六章 油库里反击",
+    "chapter_number": 326,
+    "display_number": "第三百二十六章",
+    "chapter_number_str": "三百二十六",
+    "file_index": 328
+  },
+  {
+    "file_name": "第三百二十七章 {精品}入侵室内的爱丽丝.txt",
+    "display_title": "第三百二十七章 {精品}入侵室内的爱丽丝",
+    "chapter_number": 327,
+    "display_number": "第三百二十七章",
+    "chapter_number_str": "三百二十七",
+    "file_index": 329
+  },
+  {
+    "file_name": "第三百二十八章 {精品}点心铺大哥哥第三部.txt",
+    "display_title": "第三百二十八章 {精品}点心铺大哥哥第三部",
+    "chapter_number": 328,
+    "display_number": "第三百二十八章",
+    "chapter_number_str": "三百二十八",
+    "file_index": 330
+  },
+  {
+    "file_name": "第三百二十九章 油库里兄弟.txt",
+    "display_title": "第三百二十九章 油库里兄弟",
+    "chapter_number": 329,
+    "display_number": "第三百二十九章",
+    "chapter_number_str": "三百二十九",
+    "file_index": 331
+  },
+  {
+    "file_name": "第三百三十章 入侵妖怪领域的油库里.txt",
+    "display_title": "第三百三十章 入侵妖怪领域的油库里",
+    "chapter_number": 330,
+    "display_number": "第三百三十章",
+    "chapter_number_str": "三百三十",
+    "file_index": 332
+  },
+  {
+    "file_name": "第三百三十一章 爱皮猪的反抗.txt",
+    "display_title": "第三百三十一章 爱皮猪的反抗",
+    "chapter_number": 331,
+    "display_number": "第三百三十一章",
+    "chapter_number_str": "三百三十一",
+    "file_index": 333
+  },
+  {
+    "file_name": "第三百三十二章 {精品}冬天的街道.txt",
+    "display_title": "第三百三十二章 {精品}冬天的街道",
+    "chapter_number": 332,
+    "display_number": "第三百三十二章",
+    "chapter_number_str": "三百三十二",
+    "file_index": 334
+  },
+  {
+    "file_name": "第三百三十三章 油库里艾丽斯没办法都会派。.txt",
+    "display_title": "第三百三十三章 油库里艾丽斯没办法都会派。",
+    "chapter_number": 333,
+    "display_number": "第三百三十三章",
+    "chapter_number_str": "三百三十三",
+    "file_index": 335
+  },
+  {
+    "file_name": "第三百三十四章 {精品}盒装麻理恰.txt",
+    "display_title": "第三百三十四章 {精品}盒装麻理恰",
+    "chapter_number": 334,
+    "display_number": "第三百三十四章",
+    "chapter_number_str": "三百三十四",
+    "file_index": 336
+  },
+  {
+    "file_name": "第三百三十五章 {精品}{更新中}油库里健身房.txt",
+    "display_title": "第三百三十五章 {精品}{更新中}油库里健身房",
+    "chapter_number": 335,
+    "display_number": "第三百三十五章",
+    "chapter_number_str": "三百三十五",
+    "file_index": 337
+  },
+  {
+    "file_name": "第三百三十六章 在山地遇到油库里.txt",
+    "display_title": "第三百三十六章 在山地遇到油库里",
+    "chapter_number": 336,
+    "display_number": "第三百三十六章",
+    "chapter_number_str": "三百三十六",
+    "file_index": 338
+  },
+  {
+    "file_name": "第三百三十七章 {精品}爱哥哥与早产儿油库里（虐）.txt",
+    "display_title": "第三百三十七章 {精品}爱哥哥与早产儿油库里（虐）",
+    "chapter_number": 337,
+    "display_number": "第三百三十七章",
+    "chapter_number_str": "三百三十七",
+    "file_index": 339
+  },
+  {
+    "file_name": "第三百三十八章 【混沌（渣改文）】世间众油.txt",
+    "display_title": "第三百三十八章 【混沌（渣改文）】世间众油",
+    "chapter_number": 338,
+    "display_number": "第三百三十八章",
+    "chapter_number_str": "三百三十八",
+    "file_index": 340
+  },
+  {
+    "file_name": "第三百三十九章 【混沌】独创的世界观？（有缺失）.txt",
+    "display_title": "第三百三十九章 【混沌】独创的世界观？（有缺失）",
+    "chapter_number": 339,
+    "display_number": "第三百三十九章",
+    "chapter_number_str": "三百三十九",
+    "file_index": 341
+  },
+  {
+    "file_name": "第三百四十章 {精品}【混沌】【制裁】伐猎者与恶心丸·.txt",
+    "display_title": "第三百四十章 {精品}【混沌】【制裁】伐猎者与恶心丸·",
+    "chapter_number": 340,
+    "display_number": "第三百四十章",
+    "chapter_number_str": "三百四十",
+    "file_index": 342
+  },
+  {
+    "file_name": "第三百四十一章 {精品}衔尾蛇之棺.txt",
+    "display_title": "第三百四十一章 {精品}衔尾蛇之棺",
+    "chapter_number": 341,
+    "display_number": "第三百四十一章",
+    "chapter_number_str": "三百四十一",
+    "file_index": 343
+  },
+  {
+    "file_name": "第三百四十二章 {精品}anko11850 朋友家的旧箱.txt",
+    "display_title": "第三百四十二章 {精品}anko11850 朋友家的旧箱",
+    "chapter_number": 342,
+    "display_number": "第三百四十二章",
+    "chapter_number_str": "三百四十二",
+    "file_index": 344
+  },
+  {
+    "file_name": "第三百四十三章 {精品}anko11793 好多好多不能.txt",
+    "display_title": "第三百四十三章 {精品}anko11793 好多好多不能",
+    "chapter_number": 343,
+    "display_number": "第三百四十三章",
+    "chapter_number_str": "三百四十三",
+    "file_index": 345
+  },
+  {
+    "file_name": "第三百四十四章 【观察文】油库里和荔枝先生.txt",
+    "display_title": "第三百四十四章 【观察文】油库里和荔枝先生",
+    "chapter_number": 344,
+    "display_number": "第三百四十四章",
+    "chapter_number_str": "三百四十四",
+    "file_index": 346
+  },
+  {
+    "file_name": "第三百四十五章 【纪录，类日记】油库里，从岛来。.txt",
+    "display_title": "第三百四十五章 【纪录，类日记】油库里，从岛来。",
+    "chapter_number": 345,
+    "display_number": "第三百四十五章",
+    "chapter_number_str": "三百四十五",
+    "file_index": 347
+  },
+  {
+    "file_name": "第三百四十六章 long live the yukkur.txt",
+    "display_title": "第三百四十六章 long live the yukkur",
+    "chapter_number": 346,
+    "display_number": "第三百四十六章",
+    "chapter_number_str": "三百四十六",
+    "file_index": 348
+  },
+  {
+    "file_name": "第三百四十七章 {精品}圆滚滚的实油们.txt",
+    "display_title": "第三百四十七章 {精品}圆滚滚的实油们",
+    "chapter_number": 347,
+    "display_number": "第三百四十七章",
+    "chapter_number_str": "三百四十七",
+    "file_index": 349
+  },
+  {
+    "file_name": "第三百四十八章 {精品}小学生的观察日志.txt",
+    "display_title": "第三百四十八章 {精品}小学生的观察日志",
+    "chapter_number": 348,
+    "display_number": "第三百四十八章",
+    "chapter_number_str": "三百四十八",
+    "file_index": 350
+  },
+  {
+    "file_name": "第三百四十九章 {精品}[自作馅文] 鱼缸与焰火.txt",
+    "display_title": "第三百四十九章 {精品}[自作馅文] 鱼缸与焰火",
+    "chapter_number": 349,
+    "display_number": "第三百四十九章",
+    "chapter_number_str": "三百四十九",
+    "file_index": 351
+  },
+  {
+    "file_name": "第三百五十章 {精品}anko4510 地狱公园.txt",
+    "display_title": "第三百五十章 {精品}anko4510 地狱公园",
+    "chapter_number": 350,
+    "display_number": "第三百五十章",
+    "chapter_number_str": "三百五十",
+    "file_index": 352
+  },
+  {
+    "file_name": "第三百五十二章 {精品} 孤儿愿.txt",
+    "display_title": "第三百五十二章 {精品} 孤儿愿",
+    "chapter_number": 352,
+    "display_number": "第三百五十二章",
+    "chapter_number_str": "三百五十二",
+    "file_index": 353
+  },
+  {
+    "file_name": "第三百五十三章 {精品}【短篇文虐】爱与被爱.txt",
+    "display_title": "第三百五十三章 {精品}【短篇文/虐】爱与被爱",
+    "chapter_number": 353,
+    "display_number": "第三百五十三章",
+    "chapter_number_str": "三百五十三",
+    "file_index": 354
+  },
+  {
+    "file_name": "第三百五十四章 家油粉.txt",
+    "display_title": "第三百五十四章 家油粉",
+    "chapter_number": 354,
+    "display_number": "第三百五十四章",
+    "chapter_number_str": "三百五十四",
+    "file_index": 355
+  },
+  {
+    "file_name": "第三百五十五章 【虐文】【非长篇】和捕食种们一起馒馒来~.txt",
+    "display_title": "第三百五十五章 【虐文】【非长篇】和捕食种们一起馒馒来~",
+    "chapter_number": 355,
+    "display_number": "第三百五十五章",
+    "chapter_number_str": "三百五十五",
+    "file_index": 356
+  },
+  {
+    "file_name": "第三百五十六章 【文】蘑菇，金平糖与杂货铺.txt",
+    "display_title": "第三百五十六章 【文】蘑菇，金平糖与杂货铺",
+    "chapter_number": 356,
+    "display_number": "第三百五十六章",
+    "chapter_number_str": "三百五十六",
+    "file_index": 357
+  },
+  {
+    "file_name": "第三百五十七章 【虐】在那天被忘却的名字.txt",
+    "display_title": "第三百五十七章 【虐】在那天被忘却的名字",
+    "chapter_number": 357,
+    "display_number": "第三百五十七章",
+    "chapter_number_str": "三百五十七",
+    "file_index": 358
+  },
+  {
+    "file_name": "第三百五十八章 欢乐向馒文 加油啊！比尔先生！.txt",
+    "display_title": "第三百五十八章 欢乐向馒文 加油啊！比尔先生！",
+    "chapter_number": 358,
+    "display_number": "第三百五十八章",
+    "chapter_number_str": "三百五十八",
+    "file_index": 359
+  },
+  {
+    "file_name": "第三百五十九章 欢乐向？ 不要停下来啊！鬼意山先生！.txt",
+    "display_title": "第三百五十九章 欢乐向？ 不要停下来啊！鬼意山先生！",
+    "chapter_number": 359,
+    "display_number": "第三百五十九章",
+    "chapter_number_str": "三百五十九",
+    "file_index": 360
+  },
+  {
+    "file_name": "第三百六十章 【馒文】科学实验-睡眠剥夺（坑，被吞了挺.txt",
+    "display_title": "第三百六十章 【馒文】科学实验-睡眠剥夺（坑，被吞了挺",
+    "chapter_number": 360,
+    "display_number": "第三百六十章",
+    "chapter_number_str": "三百六十",
+    "file_index": 361
+  },
+  {
+    "file_name": "第三百六十一章 {争议}【多种分类】苦力怕的馅文楼！.txt",
+    "display_title": "第三百六十一章 {争议}【多种分类】苦力怕的馅文楼！",
+    "chapter_number": 361,
+    "display_number": "第三百六十一章",
+    "chapter_number_str": "三百六十一",
+    "file_index": 362
+  },
+  {
+    "file_name": "第三百六十二章 【歌词制裁】住家宣言的麻恰.txt",
+    "display_title": "第三百六十二章 【歌词\\制裁】住家宣言的麻恰",
+    "chapter_number": 362,
+    "display_number": "第三百六十二章",
+    "chapter_number_str": "三百六十二",
+    "file_index": 363
+  },
+  {
+    "file_name": "第三百六十三章 【原创文坑】六花夕持.txt",
+    "display_title": "第三百六十三章 【原创文坑】六花夕持",
+    "chapter_number": 363,
+    "display_number": "第三百六十三章",
+    "chapter_number_str": "三百六十三",
+    "file_index": 364
+  },
+  {
+    "file_name": "第三百六十四章 长凳下的一家.txt",
+    "display_title": "第三百六十四章 长凳下的一家",
+    "chapter_number": 364,
+    "display_number": "第三百六十四章",
+    "chapter_number_str": "三百六十四",
+    "file_index": 365
+  },
+  {
+    "file_name": "第三百六十五章 【原创文】【虐】小贝比是好甜好甜喔【短篇.txt",
+    "display_title": "第三百六十五章 【原创文】【虐】小贝比是好甜好甜喔【短篇",
+    "chapter_number": 365,
+    "display_number": "第三百六十五章",
+    "chapter_number_str": "三百六十五",
+    "file_index": 366
+  },
+  {
+    "file_name": "第三百六十六章 {精品}【翻译】anko3557 非油症.txt",
+    "display_title": "第三百六十六章 {精品}【翻译】anko3557 非油症",
+    "chapter_number": 366,
+    "display_number": "第三百六十六章",
+    "chapter_number_str": "三百六十六",
+    "file_index": 367
+  },
+  {
+    "file_name": "第三百六十七章 【翻译】anko0569 爱丽丝观察日志.txt",
+    "display_title": "第三百六十七章 【翻译】anko0569 爱丽丝观察日志",
+    "chapter_number": 367,
+    "display_number": "第三百六十七章",
+    "chapter_number_str": "三百六十七",
+    "file_index": 368
+  },
+  {
+    "file_name": "第三百六十八章 【制裁】油库里狩猎 完结篇.txt",
+    "display_title": "第三百六十八章 【制裁】油库里狩猎 >完结篇<",
+    "chapter_number": 368,
+    "display_number": "第三百六十八章",
+    "chapter_number_str": "三百六十八",
+    "file_index": 369
+  },
+  {
+    "file_name": "第三百六十九章 【文】魔理渣大爷（观察系）.txt",
+    "display_title": "第三百六十九章 【文】魔理渣大爷（观察系）",
+    "chapter_number": 369,
+    "display_number": "第三百六十九章",
+    "chapter_number_str": "三百六十九",
+    "file_index": 370
+  },
+  {
+    "file_name": "第三百七十章 【新人】【原创文】【短篇虐向？】 脱轨的.txt",
+    "display_title": "第三百七十章 【新人】【原创文】【短篇虐向？】 脱轨的",
+    "chapter_number": 370,
+    "display_number": "第三百七十章",
+    "chapter_number_str": "三百七十",
+    "file_index": 371
+  },
+  {
+    "file_name": "第三百七十一章 [原创馅小说] 脱轨的火车 (重写).txt",
+    "display_title": "第三百七十一章 [原创馅小说] 脱轨的火车 (重写)",
+    "chapter_number": 371,
+    "display_number": "第三百七十一章",
+    "chapter_number_str": "三百七十一",
+    "file_index": 372
+  },
+  {
+    "file_name": "第三百七十二章 【原创短文】油库里的换馅实验哒.txt",
+    "display_title": "第三百七十二章 【原创短文】油库里的换馅实验哒",
+    "chapter_number": 372,
+    "display_number": "第三百七十二章",
+    "chapter_number_str": "三百七十二",
+    "file_index": 373
+  },
+  {
+    "file_name": "第三百七十三章 【馅文】《第十个音符》.txt",
+    "display_title": "第三百七十三章 【馅文】《第十个音符》",
+    "chapter_number": 373,
+    "display_number": "第三百七十三章",
+    "chapter_number_str": "三百七十三",
+    "file_index": 374
+  },
+  {
+    "file_name": "第三百七十四章 【渣文虐稀有虐长篇连载不定期更新.txt",
+    "display_title": "第三百七十四章 【渣文/虐/稀有虐/长篇连载/不定期更新",
+    "chapter_number": 374,
+    "display_number": "第三百七十四章",
+    "chapter_number_str": "三百七十四",
+    "file_index": 375
+  },
+  {
+    "file_name": "第三百七十五章【爱向】【坑文】碰瓷碰来的小帕琪.txt",
+    "display_title": "第三百七十五章【爱向】【坑文】碰瓷碰来的小帕琪",
+    "chapter_number": 375,
+    "display_number": "第三百七十五章",
+    "chapter_number_str": "三百七十五",
+    "file_index": 376
+  },
+  {
+    "file_name": "第三百七十六章 【虐文】（大概也有爱）麻里沙与灵缪的培养.txt",
+    "display_title": "第三百七十六章 【虐文】（大概也有爱）麻里沙与灵缪的培养",
+    "chapter_number": 376,
+    "display_number": "第三百七十六章",
+    "chapter_number_str": "三百七十六",
+    "file_index": 377
+  },
+  {
+    "file_name": "第三百七十七章 【原创】【新人文坑】魔理沙的奇妙冒险.txt",
+    "display_title": "第三百七十七章 【原创】【新人文坑】魔理沙的奇妙冒险",
+    "chapter_number": 377,
+    "display_number": "第三百七十七章",
+    "chapter_number_str": "三百七十七",
+    "file_index": 378
+  },
+  {
+    "file_name": "第三百七十八章  【虐】【短文】被放生的油库里的下场.txt",
+    "display_title": "第三百七十八章  【虐】【短文】被放生的油库里的下场",
+    "chapter_number": 378,
+    "display_number": "第三百七十八章",
+    "chapter_number_str": "三百七十八",
+    "file_index": 379
+  },
+  {
+    "file_name": "第三百七十九章 【文】【虐】养油七日.txt",
+    "display_title": "第三百七十九章 【文】【虐】养油七日",
+    "chapter_number": 379,
+    "display_number": "第三百七十九章",
+    "chapter_number_str": "三百七十九",
+    "file_index": 380
+  },
+  {
+    "file_name": "第三百八十章 {精品}最棒的猎手和最好的歌手.txt",
+    "display_title": "第三百八十章 {精品}最棒的猎手和最好的歌手",
+    "chapter_number": 380,
+    "display_number": "第三百八十章",
+    "chapter_number_str": "三百八十",
+    "file_index": 381
+  },
+  {
+    "file_name": "第三百八十一章 【馅小说】自然系虐油 系列.txt",
+    "display_title": "第三百八十一章 【馅小说】自然系虐油 系列",
+    "chapter_number": 381,
+    "display_number": "第三百八十一章",
+    "chapter_number_str": "三百八十一",
+    "file_index": 382
+  },
+  {
+    "file_name": "第三百八十二章 燔空之下，麻恰与海.txt",
+    "display_title": "第三百八十二章 燔空之下，麻恰与海",
+    "chapter_number": 382,
+    "display_number": "第三百八十二章",
+    "chapter_number_str": "三百八十二",
+    "file_index": 383
+  },
+  {
+    "file_name": "第三百八十三章 【虐】不妙的宠物油生活.txt",
+    "display_title": "第三百八十三章 【虐】不妙的宠物油生活",
+    "chapter_number": 383,
+    "display_number": "第三百八十三章",
+    "chapter_number_str": "三百八十三",
+    "file_index": 384
+  },
+  {
+    "file_name": "第三百八十四章 {精品}【虐·馅小说】人生攻略照亮你的生.txt",
+    "display_title": "第三百八十四章 {精品}【虐·馅小说】人生攻略照亮你的生",
+    "chapter_number": 384,
+    "display_number": "第三百八十四章",
+    "chapter_number_str": "三百八十四",
+    "file_index": 385
+  },
+  {
+    "file_name": "第三百八十五章 {精品}【馅小说】【半生不熟翻译】翘家魔.txt",
+    "display_title": "第三百八十五章 {精品}【馅小说】【半生不熟翻译】翘家魔",
+    "chapter_number": 385,
+    "display_number": "第三百八十五章",
+    "chapter_number_str": "三百八十五",
+    "file_index": 386
+  },
+  {
+    "file_name": "第三百八十六章 『馅小说』油库里的月亮.txt",
+    "display_title": "第三百八十六章 『馅小说』油库里的月亮",
+    "chapter_number": 386,
+    "display_number": "第三百八十六章",
+    "chapter_number_str": "三百八十六",
+    "file_index": 387
+  },
+  {
+    "file_name": "第三百八十七章 {精品}‘油库里’的族群.txt",
+    "display_title": "第三百八十七章 {精品}‘油库里’的族群",
+    "chapter_number": 387,
+    "display_number": "第三百八十七章",
+    "chapter_number_str": "三百八十七",
+    "file_index": 388
+  },
+  {
+    "file_name": "第三百八十八章 自制馅文《魔力沙与叛逆的世界》.txt",
+    "display_title": "第三百八十八章 自制馅文《魔力沙与叛逆的世界》",
+    "chapter_number": 388,
+    "display_number": "第三百八十八章",
+    "chapter_number_str": "三百八十八",
+    "file_index": 389
+  },
+  {
+    "file_name": "第三百八十九章 {精品}【虐馅文】《油库里的制裁者》.txt",
+    "display_title": "第三百八十九章 {精品}【虐/馅文】《油库里的制裁者》",
+    "chapter_number": 389,
+    "display_number": "第三百八十九章",
+    "chapter_number_str": "三百八十九",
+    "file_index": 390
+  },
+  {
+    "file_name": "第三百九十章 {精品}《不能油库里的普利斯》.txt",
+    "display_title": "第三百九十章 {精品}《不能油库里的普利斯》",
+    "chapter_number": 390,
+    "display_number": "第三百九十章",
+    "chapter_number_str": "三百九十",
+    "file_index": 391
+  },
+  {
+    "file_name": "第三百九十一章 《崩溃的父与子》.txt",
+    "display_title": "第三百九十一章 《崩溃的父与子》",
+    "chapter_number": 391,
+    "display_number": "第三百九十一章",
+    "chapter_number_str": "三百九十一",
+    "file_index": 392
+  },
+  {
+    "file_name": "第三百九十二章 {精品}《中秋的油库里月饼》.txt",
+    "display_title": "第三百九十二章 {精品}《中秋的油库里月饼》",
+    "chapter_number": 392,
+    "display_number": "第三百九十二章",
+    "chapter_number_str": "三百九十二",
+    "file_index": 393
+  },
+  {
+    "file_name": "第三百九十三章 《报应，直至坠入地狱》（等待更新）.txt",
+    "display_title": "第三百九十三章 《报应，直至坠入地狱》（等待更新）",
+    "chapter_number": 393,
+    "display_number": "第三百九十三章",
+    "chapter_number_str": "三百九十三",
+    "file_index": 394
+  },
+  {
+    "file_name": "第三百九十四章 {精品}默认的沉默的声音.txt",
+    "display_title": "第三百九十四章 {精品}默认的沉默的声音",
+    "chapter_number": 394,
+    "display_number": "第三百九十四章",
+    "chapter_number_str": "三百九十四",
+    "file_index": 395
+  },
+  {
+    "file_name": "第三百九十五章 {精品}欺负公园里的魔理沙父子.txt",
+    "display_title": "第三百九十五章 {精品}欺负公园里的魔理沙父子",
+    "chapter_number": 395,
+    "display_number": "第三百九十五章",
+    "chapter_number_str": "三百九十五",
+    "file_index": 396
+  },
+  {
+    "file_name": "第三百九十六章 {精品}流浪油和鞋印更相配.txt",
+    "display_title": "第三百九十六章 {精品}流浪油和鞋印更相配",
+    "chapter_number": 396,
+    "display_number": "第三百九十六章",
+    "chapter_number_str": "三百九十六",
+    "file_index": 397
+  },
+  {
+    "file_name": "第三百九十七章 女神与公主宁梦.txt",
+    "display_title": "第三百九十七章 女神与公主宁梦",
+    "chapter_number": 397,
+    "display_number": "第三百九十七章",
+    "chapter_number_str": "三百九十七",
+    "file_index": 398
+  },
+  {
+    "file_name": "第三百九十八章 玲奈-驱油.txt",
+    "display_title": "第三百九十八章 玲奈-驱油",
+    "chapter_number": 398,
+    "display_number": "第三百九十八章",
+    "chapter_number_str": "三百九十八",
+    "file_index": 399
+  },
+  {
+    "file_name": "第三百九十九章 {精品}{争议} bob起源.txt",
+    "display_title": "第三百九十九章 {精品}{争议} bob起源",
+    "chapter_number": 399,
+    "display_number": "第三百九十九章",
+    "chapter_number_str": "三百九十九",
+    "file_index": 400
+  },
+  {
+    "file_name": "第四百章 玲奈-.txt",
+    "display_title": "第四百章 玲奈-",
+    "chapter_number": 400,
+    "display_number": "第四百章",
+    "chapter_number_str": "四百",
+    "file_index": 401
+  },
+  {
+    "file_name": "第四百零一章 失坠的妄想.txt",
+    "display_title": "第四百零一章 失坠的妄想",
+    "chapter_number": 401,
+    "display_number": "第四百零一章",
+    "chapter_number_str": "四百零一",
+    "file_index": 402
+  },
+  {
+    "file_name": "第四百零二章 地狱般的厨余.txt",
+    "display_title": "第四百零二章 地狱般的厨余",
+    "chapter_number": 402,
+    "display_number": "第四百零二章",
+    "chapter_number_str": "四百零二",
+    "file_index": 403
+  },
+  {
+    "file_name": "第四百零三章 小贝比是嗯嗯奴隶.txt",
+    "display_title": "第四百零三章 小贝比是嗯嗯奴隶",
+    "chapter_number": 403,
+    "display_number": "第四百零三章",
+    "chapter_number_str": "四百零三",
+    "file_index": 404
+  },
+  {
+    "file_name": "第四百零四章 身体种界限.txt",
+    "display_title": "第四百零四章 身体种界限",
+    "chapter_number": 404,
+    "display_number": "第四百零四章",
+    "chapter_number_str": "四百零四",
+    "file_index": 405
+  },
+  {
+    "file_name": "第四百零五章 普通种是劣种.txt",
+    "display_title": "第四百零五章 普通种是劣种",
+    "chapter_number": 405,
+    "display_number": "第四百零五章",
+    "chapter_number_str": "四百零五",
+    "file_index": 406
+  },
+  {
+    "file_name": "第四百零六章 失踪的小贝比.txt",
+    "display_title": "第四百零六章 失踪的小贝比",
+    "chapter_number": 406,
+    "display_number": "第四百零六章",
+    "chapter_number_str": "四百零六",
+    "file_index": 407
+  },
+  {
+    "file_name": "第四百零七章 安乐 死.txt",
+    "display_title": "第四百零七章 安乐 死",
+    "chapter_number": 407,
+    "display_number": "第四百零七章",
+    "chapter_number_str": "四百零七",
+    "file_index": 408
+  },
+  {
+    "file_name": "第四百零八章 狭缝中的家族.txt",
+    "display_title": "第四百零八章 狭缝中的家族",
+    "chapter_number": 408,
+    "display_number": "第四百零八章",
+    "chapter_number_str": "四百零八",
+    "file_index": 409
+  },
+  {
+    "file_name": "第四百零九章 与芙兰的偶遇.txt",
+    "display_title": "第四百零九章 与芙兰的偶遇",
+    "chapter_number": 409,
+    "display_number": "第四百零九章",
+    "chapter_number_str": "四百零九",
+    "file_index": 410
+  },
+  {
+    "file_name": "第四百一十章 油库里典的业务.txt",
+    "display_title": "第四百一十章 油库里典的业务",
+    "chapter_number": 410,
+    "display_number": "第四百一十章",
+    "chapter_number_str": "四百一十",
+    "file_index": 411
+  },
+  {
+    "file_name": "第四百一十一章 不同种群的战争.txt",
+    "display_title": "第四百一十一章 不同种群的战争",
+    "chapter_number": 411,
+    "display_number": "第四百一十一章",
+    "chapter_number_str": "四百一十一",
+    "file_index": 412
+  },
+  {
+    "file_name": "第四百一十二章 虚伪的油库里.txt",
+    "display_title": "第四百一十二章 虚伪的油库里",
+    "chapter_number": 412,
+    "display_number": "第四百一十二章",
+    "chapter_number_str": "四百一十二",
+    "file_index": 413
+  },
+  {
+    "file_name": "第四百一十三章 消灭大作战.txt",
+    "display_title": "第四百一十三章\t 消灭大作战",
+    "chapter_number": 413,
+    "display_number": "第四百一十三章",
+    "chapter_number_str": "四百一十三",
+    "file_index": 414
+  },
+  {
+    "file_name": "第四百一十四章 繁殖油与普通油.txt",
+    "display_title": "第四百一十四章 繁殖油与普通油",
+    "chapter_number": 414,
+    "display_number": "第四百一十四章",
+    "chapter_number_str": "四百一十四",
+    "file_index": 415
+  },
+  {
+    "file_name": "第四百一十五章 社区油库里.txt",
+    "display_title": "第四百一十五章 社区油库里",
+    "chapter_number": 415,
+    "display_number": "第四百一十五章",
+    "chapter_number_str": "四百一十五",
+    "file_index": 416
+  },
+  {
+    "file_name": "第四百一十六章 橙的无知之罪.txt",
+    "display_title": "第四百一十六章 橙的无知之罪",
+    "chapter_number": 416,
+    "display_number": "第四百一十六章",
+    "chapter_number_str": "四百一十六",
+    "file_index": 417
+  },
+  {
+    "file_name": "第四百一十七章 玲奈的日常.txt",
+    "display_title": "第四百一十七章 玲奈的日常",
+    "chapter_number": 417,
+    "display_number": "第四百一十七章",
+    "chapter_number_str": "四百一十七",
+    "file_index": 418
+  },
+  {
+    "file_name": "第四百一十八章 不一样的人形.txt",
+    "display_title": "第四百一十八章 不一样的人形",
+    "chapter_number": 418,
+    "display_number": "第四百一十八章",
+    "chapter_number_str": "四百一十八",
+    "file_index": 419
+  },
+  {
+    "file_name": "第四百一十九章 来自人类的天罚.txt",
+    "display_title": "第四百一十九章 来自人类的天罚",
+    "chapter_number": 419,
+    "display_number": "第四百一十九章",
+    "chapter_number_str": "四百一十九",
+    "file_index": 420
+  },
+  {
+    "file_name": "第四百二十章 幕间──油库里地狱 玲奈的日常.txt",
+    "display_title": "第四百二十章 幕间──油库里地狱 玲奈的日常",
+    "chapter_number": 420,
+    "display_number": "第四百二十章",
+    "chapter_number_str": "四百二十",
+    "file_index": 421
+  },
+  {
+    "file_name": "第四百二十一章 世代更替的油库里.txt",
+    "display_title": "第四百二十一章 世代更替的油库里",
+    "chapter_number": 421,
+    "display_number": "第四百二十一章",
+    "chapter_number_str": "四百二十一",
+    "file_index": 422
+  },
+  {
+    "file_name": "第四百二十二章 身体种的培育.txt",
+    "display_title": "第四百二十二章 身体种的培育",
+    "chapter_number": 422,
+    "display_number": "第四百二十二章",
+    "chapter_number_str": "四百二十二",
+    "file_index": 423
+  },
+  {
+    "file_name": "第四百二十三章 帕秋莉母女.txt",
+    "display_title": "第四百二十三章 帕秋莉母女",
+    "chapter_number": 423,
+    "display_number": "第四百二十三章",
+    "chapter_number_str": "四百二十三",
+    "file_index": 424
+  },
+  {
+    "file_name": "第四百二十四章 被时间抛弃的灵梦.txt",
+    "display_title": "第四百二十四章 被时间抛弃的灵梦",
+    "chapter_number": 424,
+    "display_number": "第四百二十四章",
+    "chapter_number_str": "四百二十四",
+    "file_index": 425
+  },
+  {
+    "file_name": "第四百二十五章 油库里的真相.txt",
+    "display_title": "第四百二十五章 油库里的真相",
+    "chapter_number": 425,
+    "display_number": "第四百二十五章",
+    "chapter_number_str": "四百二十五",
+    "file_index": 426
+  },
+  {
+    "file_name": "第四百二十六章 小肥（飞）梦.txt",
+    "display_title": "第四百二十六章 小肥（飞）梦",
+    "chapter_number": 426,
+    "display_number": "第四百二十六章",
+    "chapter_number_str": "四百二十六",
+    "file_index": 427
+  },
+  {
+    "file_name": "第四百二十七章 逐步扭曲的麻利莎（（油库里与幽幽子）的四.txt",
+    "display_title": "第四百二十七章 逐步扭曲的麻利莎（（油库里与幽幽子）的四",
+    "chapter_number": 427,
+    "display_number": "第四百二十七章",
+    "chapter_number_str": "四百二十七",
+    "file_index": 428
+  },
+  {
+    "file_name": "第四百二十八章 勇仪种.txt",
+    "display_title": "第四百二十八章 勇仪种",
+    "chapter_number": 428,
+    "display_number": "第四百二十八章",
+    "chapter_number_str": "四百二十八",
+    "file_index": 429
+  },
+  {
+    "file_name": "第四百二十九章 相信幸福一定会油库里来临！.txt",
+    "display_title": "第四百二十九章 相信幸福一定会油库里来临！",
+    "chapter_number": 429,
+    "display_number": "第四百二十九章",
+    "chapter_number_str": "四百二十九",
+    "file_index": 430
+  },
+  {
+    "file_name": "第四百三十章 {精品}努力的父馒.txt",
+    "display_title": "第四百三十章 {精品}努力的父馒",
+    "chapter_number": 430,
+    "display_number": "第四百三十章",
+    "chapter_number_str": "四百三十",
+    "file_index": 431
+  },
+  {
+    "file_name": "第四百三十一章 无名杂篇.txt",
+    "display_title": "第四百三十一章 无名杂篇",
+    "chapter_number": 431,
+    "display_number": "第四百三十一章",
+    "chapter_number_str": "四百三十一",
+    "file_index": 432
+  },
+  {
+    "file_name": "第四百三十二章 {精品}{争议}病态.txt",
+    "display_title": "第四百三十二章 {精品}{争议}病态",
+    "chapter_number": 432,
+    "display_number": "第四百三十二章",
+    "chapter_number_str": "四百三十二",
+    "file_index": 433
+  },
+  {
+    "file_name": "第四百三十三章 {精品}想独当一面的废物麻里莎.txt",
+    "display_title": "第四百三十三章 {精品}想独当一面的废物麻里莎",
+    "chapter_number": 433,
+    "display_number": "第四百三十三章",
+    "chapter_number_str": "四百三十三",
+    "file_index": 434
+  },
+  {
+    "file_name": "第四百三十四章 {精品} 油库里战争.txt",
+    "display_title": "第四百三十四章 {精品} 油库里战争",
+    "chapter_number": 434,
+    "display_number": "第四百三十四章",
+    "chapter_number_str": "四百三十四",
+    "file_index": 435
+  },
+  {
+    "file_name": "第四百三十五章 {精品}【观察】【机翻润色】anko43.txt",
+    "display_title": "第四百三十五章 {精品}【观察】【机翻润色】anko43",
+    "chapter_number": 435,
+    "display_number": "第四百三十五章",
+    "chapter_number_str": "四百三十五",
+    "file_index": 436
+  },
+  {
+    "file_name": "第四百三十六章 {精品}孤独的油戏家.txt",
+    "display_title": "第四百三十六章 {精品}孤独的油戏家",
+    "chapter_number": 436,
+    "display_number": "第四百三十六章",
+    "chapter_number_str": "四百三十六",
+    "file_index": 437
+  },
+  {
+    "file_name": "第四百三十七章 {更新中}被选中的麻以恰.txt",
+    "display_title": "第四百三十七章 {更新中}被选中的麻以恰",
+    "chapter_number": 437,
+    "display_number": "第四百三十七章",
+    "chapter_number_str": "四百三十七",
+    "file_index": 438
+  },
+  {
+    "file_name": "第四百三十八章 自然虐：史上最屑父子吵架.txt",
+    "display_title": "第四百三十八章 自然虐：史上最屑父子吵架",
+    "chapter_number": 438,
+    "display_number": "第四百三十八章",
+    "chapter_number_str": "四百三十八",
+    "file_index": 439
+  },
+  {
+    "file_name": "第四百三十九章 《付不起的代价》.txt",
+    "display_title": "第四百三十九章 《付不起的代价》",
+    "chapter_number": 439,
+    "display_number": "第四百三十九章",
+    "chapter_number_str": "四百三十九",
+    "file_index": 440
+  },
+  {
+    "file_name": "第四百四十章 {更新中}《遴选》.txt",
+    "display_title": "第四百四十章 {更新中}《遴选》",
+    "chapter_number": 440,
+    "display_number": "第四百四十章",
+    "chapter_number_str": "四百四十",
+    "file_index": 441
+  },
+  {
+    "file_name": "第四百四十一章 {精品}【虐观苛机翻润色】 虐油之.txt",
+    "display_title": "第四百四十一章 {精品}【虐|观|苛|机翻润色】 虐油之",
+    "chapter_number": 441,
+    "display_number": "第四百四十一章",
+    "chapter_number_str": "四百四十一",
+    "file_index": 442
+  },
+  {
+    "file_name": "第四百四十二章 小段子：废油制造机.txt",
+    "display_title": "第四百四十二章 小段子：废油制造机",
+    "chapter_number": 442,
+    "display_number": "第四百四十二章",
+    "chapter_number_str": "四百四十二",
+    "file_index": 443
+  },
+  {
+    "file_name": "第四百四十三章{精品}一個蠢蛋魔理掐離家出走的故事.txt",
+    "display_title": "第四百四十三章{精品}一個蠢蛋魔理掐離家出走的故事",
+    "chapter_number": 443,
+    "display_number": "第四百四十三章",
+    "chapter_number_str": "四百四十三",
+    "file_index": 444
+  },
+  {
+    "file_name": "第四百四十四章 {精品}糞金屬.txt",
+    "display_title": "第四百四十四章 {精品}糞金屬",
+    "chapter_number": 444,
+    "display_number": "第四百四十四章",
+    "chapter_number_str": "四百四十四",
+    "file_index": 445
+  },
+  {
+    "file_name": "第四百四十五章 麻里沙探险队anko11730.txt",
+    "display_title": "第四百四十五章 麻里沙探险队anko11730",
+    "chapter_number": 445,
+    "display_number": "第四百四十五章",
+    "chapter_number_str": "四百四十五",
+    "file_index": 446
+  },
+  {
+    "file_name": "第四百四十六章 {精品}【观察】ANKO 11453 中.txt",
+    "display_title": "第四百四十六章 {精品}【观察】ANKO 11453 中",
+    "chapter_number": 446,
+    "display_number": "第四百四十六章",
+    "chapter_number_str": "四百四十六",
+    "file_index": 447
+  },
+  {
+    "file_name": "第四百四十七章 {精品}【爱】ANKO 9135 油库里.txt",
+    "display_title": "第四百四十七章 {精品}【爱】ANKO 9135 油库里",
+    "chapter_number": 447,
+    "display_number": "第四百四十七章",
+    "chapter_number_str": "四百四十七",
+    "file_index": 448
+  },
+  {
+    "file_name": "第四百四十八章 馒头变奏曲.txt",
+    "display_title": "第四百四十八章 馒头变奏曲",
+    "chapter_number": 448,
+    "display_number": "第四百四十八章",
+    "chapter_number_str": "四百四十八",
+    "file_index": 449
+  },
+  {
+    "file_name": "第四百四十九章 {精品}粪金.txt",
+    "display_title": "第四百四十九章 {精品}粪金",
+    "chapter_number": 449,
+    "display_number": "第四百四十九章",
+    "chapter_number_str": "四百四十九",
+    "file_index": 450
+  },
+  {
+    "file_name": "第四百五十章 {精品}满足.txt",
+    "display_title": "第四百五十章 {精品}满足",
+    "chapter_number": 450,
+    "display_number": "第四百五十章",
+    "chapter_number_str": "四百五十",
+    "file_index": 451
+  },
+  {
+    "file_name": "第四百五十一章 {精品}河边的小小故事.txt",
+    "display_title": "第四百五十一章 {精品}河边的小小故事",
+    "chapter_number": 451,
+    "display_number": "第四百五十一章",
+    "chapter_number_str": "四百五十一",
+    "file_index": 452
+  },
+  {
+    "file_name": "第四百五十二章 {精品}香江之油.txt",
+    "display_title": "第四百五十二章 {精品}香江之油",
+    "chapter_number": 452,
+    "display_number": "第四百五十二章",
+    "chapter_number_str": "四百五十二",
+    "file_index": 453
+  },
+  {
+    "file_name": "第四百五十三章 小区花园里的油库里.txt",
+    "display_title": "第四百五十三章 小区花园里的油库里",
+    "chapter_number": 453,
+    "display_number": "第四百五十三章",
+    "chapter_number_str": "四百五十三",
+    "file_index": 454
+  },
+  {
+    "file_name": "第四百五十四章 茧.txt",
+    "display_title": "第四百五十四章 茧",
+    "chapter_number": 454,
+    "display_number": "第四百五十四章",
+    "chapter_number_str": "四百五十四",
+    "file_index": 455
+  },
+  {
+    "file_name": "第四百五十五章 残疾的油库里.txt",
+    "display_title": "第四百五十五章 残疾的油库里",
+    "chapter_number": 455,
+    "display_number": "第四百五十五章",
+    "chapter_number_str": "四百五十五",
+    "file_index": 456
+  },
+  {
+    "file_name": "第四百五十六章 嗯嗯奴隶是宠物油先生！.txt",
+    "display_title": "第四百五十六章 嗯嗯奴隶是宠物油先生！",
+    "chapter_number": 456,
+    "display_number": "第四百五十六章",
+    "chapter_number_str": "四百五十六",
+    "file_index": 457
+  },
+  {
+    "file_name": "第四百五十七章 杂草.txt",
+    "display_title": "第四百五十七章 杂草",
+    "chapter_number": 457,
+    "display_number": "第四百五十七章",
+    "chapter_number_str": "四百五十七",
+    "file_index": 458
+  },
+  {
+    "file_name": "第四百五十八章 序：拂晓出击.txt",
+    "display_title": "第四百五十八章 序：拂晓出击",
+    "chapter_number": 458,
+    "display_number": "第四百五十八章",
+    "chapter_number_str": "四百五十八",
+    "file_index": 459
+  },
+  {
+    "file_name": "第四百五十九章 麻恰的故事.txt",
+    "display_title": "第四百五十九章 麻恰的故事",
+    "chapter_number": 459,
+    "display_number": "第四百五十九章",
+    "chapter_number_str": "四百五十九",
+    "file_index": 460
+  },
+  {
+    "file_name": "第四百六十章 林中之油..txt",
+    "display_title": "第四百六十章 林中之油.",
+    "chapter_number": 460,
+    "display_number": "第四百六十章",
+    "chapter_number_str": "四百六十",
+    "file_index": 461
+  },
+  {
+    "file_name": "第四百六十一章 逆转的油库里.txt",
+    "display_title": "第四百六十一章 逆转的油库里",
+    "chapter_number": 461,
+    "display_number": "第四百六十一章",
+    "chapter_number_str": "四百六十一",
+    "file_index": 462
+  },
+  {
+    "file_name": "第四百六十二章 {精品}麻恰已出舱，感觉良好noze！！.txt",
+    "display_title": "第四百六十二章 {精品}麻恰已出舱，感觉良好noze！！",
+    "chapter_number": 462,
+    "display_number": "第四百六十二章",
+    "chapter_number_str": "四百六十二",
+    "file_index": 463
+  },
+  {
+    "file_name": "第四百六十三章 殊途同归.txt",
+    "display_title": "第四百六十三章 殊途同归",
+    "chapter_number": 463,
+    "display_number": "第四百六十三章",
+    "chapter_number_str": "四百六十三",
+    "file_index": 464
+  },
+  {
+    "file_name": "第四百六十四章 {自然}人工降雪.txt",
+    "display_title": "第四百六十四章 {自然}人工降雪",
+    "chapter_number": 464,
+    "display_number": "第四百六十四章",
+    "chapter_number_str": "四百六十四",
+    "file_index": 465
+  },
+  {
+    "file_name": "第四百六十五章 腥风摇曳枯木之果，残月半皓生死之间.txt",
+    "display_title": "第四百六十五章 腥风摇曳枯木之果，残月半皓生死之间",
+    "chapter_number": 465,
+    "display_number": "第四百六十五章",
+    "chapter_number_str": "四百六十五",
+    "file_index": 466
+  },
+  {
+    "file_name": "第四百六十六章 魔理沙的传奇油生.txt",
+    "display_title": "第四百六十六章 魔理沙的传奇油生",
+    "chapter_number": 466,
+    "display_number": "第四百六十六章",
+    "chapter_number_str": "四百六十六",
+    "file_index": 467
+  },
+  {
+    "file_name": "第四百六十七章 地域油与油库里狂热.txt",
+    "display_title": "第四百六十七章 地域油与油库里狂热",
+    "chapter_number": 467,
+    "display_number": "第四百六十七章",
+    "chapter_number_str": "四百六十七",
+    "file_index": 468
+  },
+  {
+    "file_name": "第四百六十八章 高塔上的五日之王.txt",
+    "display_title": "第四百六十八章 高塔上的五日之王",
+    "chapter_number": 468,
+    "display_number": "第四百六十八章",
+    "chapter_number_str": "四百六十八",
+    "file_index": 469
+  },
+  {
+    "file_name": "第四百六十九章 灵梦麻恰大家族.txt",
+    "display_title": "第四百六十九章 灵梦麻恰大家族",
+    "chapter_number": 469,
+    "display_number": "第四百六十九章",
+    "chapter_number_str": "四百六十九",
+    "file_index": 470
+  },
+  {
+    "file_name": "第四百七十章 过了冬至就是年.txt",
+    "display_title": "第四百七十章 过了冬至就是年",
+    "chapter_number": 470,
+    "display_number": "第四百七十章",
+    "chapter_number_str": "四百七十",
+    "file_index": 471
+  },
+  {
+    "file_name": "第四百七十一章 麻恰新年快乐.txt",
+    "display_title": "第四百七十一章 麻恰新年快乐",
+    "chapter_number": 471,
+    "display_number": "第四百七十一章",
+    "chapter_number_str": "四百七十一",
+    "file_index": 472
+  },
+  {
+    "file_name": "第四百七十二章 鲅鱼紫与三角函数的自我谋杀.txt",
+    "display_title": "第四百七十二章 鲅鱼紫与三角函数的自我谋杀",
+    "chapter_number": 472,
+    "display_number": "第四百七十二章",
+    "chapter_number_str": "四百七十二",
+    "file_index": 473
+  },
+  {
+    "file_name": "第四百七十三章 好日子还在后头呢.txt",
+    "display_title": "第四百七十三章 好日子还在后头呢",
+    "chapter_number": 473,
+    "display_number": "第四百七十三章",
+    "chapter_number_str": "四百七十三",
+    "file_index": 474
+  },
+  {
+    "file_name": "第四百七十四章 油奴.txt",
+    "display_title": "第四百七十四章 油奴",
+    "chapter_number": 474,
+    "display_number": "第四百七十四章",
+    "chapter_number_str": "四百七十四",
+    "file_index": 475
+  },
+  {
+    "file_name": "第四百七十五章 三六九等.txt",
+    "display_title": "第四百七十五章 三六九等",
+    "chapter_number": 475,
+    "display_number": "第四百七十五章",
+    "chapter_number_str": "四百七十五",
+    "file_index": 476
+  },
+  {
+    "file_name": "第四百七十六章 麻恰的大家庭一起庆祝新年吧.txt",
+    "display_title": "第四百七十六章 麻恰的大家庭一起庆祝新年吧",
+    "chapter_number": 476,
+    "display_number": "第四百七十六章",
+    "chapter_number_str": "四百七十六",
+    "file_index": 477
+  },
+  {
+    "file_name": "第四百七十七章 最美的灵梦.txt",
+    "display_title": "第四百七十七章 最美的灵梦",
+    "chapter_number": 477,
+    "display_number": "第四百七十七章",
+    "chapter_number_str": "四百七十七",
+    "file_index": 478
+  },
+  {
+    "file_name": "第四百七十八章 罪与善良.txt",
+    "display_title": "第四百七十八章 罪与善良",
+    "chapter_number": 478,
+    "display_number": "第四百七十八章",
+    "chapter_number_str": "四百七十八",
+    "file_index": 479
+  },
+  {
+    "file_name": "第四百七十九章 anko5348 越冬准备.txt",
+    "display_title": "第四百七十九章 anko5348 越冬准备",
+    "chapter_number": 479,
+    "display_number": "第四百七十九章",
+    "chapter_number_str": "四百七十九",
+    "file_index": 480
+  },
+  {
+    "file_name": "第四百八十章 anko12344 家油族群的DOS.txt",
+    "display_title": "第四百八十章 anko12344 家油族群的DOS",
+    "chapter_number": 480,
+    "display_number": "第四百八十章",
+    "chapter_number_str": "四百八十",
+    "file_index": 481
+  },
+  {
+    "file_name": "第四百八十一章 anko5150 稻田的水上魔理沙.txt",
+    "display_title": "第四百八十一章 anko5150 稻田的水上魔理沙",
+    "chapter_number": 481,
+    "display_number": "第四百八十一章",
+    "chapter_number_str": "四百八十一",
+    "file_index": 482
+  },
+  {
+    "file_name": "第四百八十二章 anko7520 稻田的水上魔理沙(夏伏.txt",
+    "display_title": "第四百八十二章 anko7520 稻田的水上魔理沙(夏伏",
+    "chapter_number": 482,
+    "display_number": "第四百八十二章",
+    "chapter_number_str": "四百八十二",
+    "file_index": 483
+  },
+  {
+    "file_name": "第四百八十三章 anko6701母性灵梦的故事.txt",
+    "display_title": "第四百八十三章 anko6701母性灵梦的故事",
+    "chapter_number": 483,
+    "display_number": "第四百八十三章",
+    "chapter_number_str": "四百八十三",
+    "file_index": 484
+  },
+  {
+    "file_name": "第四百八十四章 anko11059 家油一家和虫子一家.txt",
+    "display_title": "第四百八十四章 anko11059 家油一家和虫子一家",
+    "chapter_number": 484,
+    "display_number": "第四百八十四章",
+    "chapter_number_str": "四百八十四",
+    "file_index": 485
+  },
+  {
+    "file_name": "第四百八十五章 anko2645流浪油生活能够油库里!.txt",
+    "display_title": "第四百八十五章 anko2645流浪油生活能够油库里!",
+    "chapter_number": 485,
+    "display_number": "第四百八十五章",
+    "chapter_number_str": "四百八十五",
+    "file_index": 486
+  },
+  {
+    "file_name": "第四百八十六章 anko11723水上魔理沙的乐园_第一.txt",
+    "display_title": "第四百八十六章 anko11723水上魔理沙的乐园_第一",
+    "chapter_number": 486,
+    "display_number": "第四百八十六章",
+    "chapter_number_str": "四百八十六",
+    "file_index": 487
+  },
+  {
+    "file_name": "第四百八十七章 anko11723水上魔理沙的乐园_第二.txt",
+    "display_title": "第四百八十七章 anko11723水上魔理沙的乐园_第二",
+    "chapter_number": 487,
+    "display_number": "第四百八十七章",
+    "chapter_number_str": "四百八十七",
+    "file_index": 488
+  },
+  {
+    "file_name": "第四百八十八章 anko11723水上魔理沙的乐园_第二.txt",
+    "display_title": "第四百八十八章 anko11723水上魔理沙的乐园_第二",
+    "chapter_number": 488,
+    "display_number": "第四百八十八章",
+    "chapter_number_str": "四百八十八",
+    "file_index": 489
+  },
+  {
+    "file_name": "第四百八十九章 anko11723水上魔理沙的乐园_第三.txt",
+    "display_title": "第四百八十九章 anko11723水上魔理沙的乐园_第三",
+    "chapter_number": 489,
+    "display_number": "第四百八十九章",
+    "chapter_number_str": "四百八十九",
+    "file_index": 490
+  },
+  {
+    "file_name": "第四百九十章 anko9067托卵.txt",
+    "display_title": "第四百九十章 anko9067托卵",
+    "chapter_number": 490,
+    "display_number": "第四百九十章",
+    "chapter_number_str": "四百九十",
+    "file_index": 491
+  },
+  {
+    "file_name": "第四百九十一章 anko12126冰河期的行星上魔里贝大.txt",
+    "display_title": "第四百九十一章 anko12126冰河期的行星上魔里贝大",
+    "chapter_number": 491,
+    "display_number": "第四百九十一章",
+    "chapter_number_str": "四百九十一",
+    "file_index": 492
+  },
+  {
+    "file_name": "第四百九十二章 油鱼游戏.txt",
+    "display_title": "第四百九十二章 油鱼游戏",
+    "chapter_number": 492,
+    "display_number": "第四百九十二章",
+    "chapter_number_str": "四百九十二",
+    "file_index": 493
+  },
+  {
+    "file_name": "第四百九十三章 《馒爷》.txt",
+    "display_title": "第四百九十三章 《馒爷》",
+    "chapter_number": 493,
+    "display_number": "第四百九十三章",
+    "chapter_number_str": "四百九十三",
+    "file_index": 494
+  },
+  {
+    "file_name": "第四百九十四章 失业大学生不会梦见流浪麻理恰.txt",
+    "display_title": "第四百九十四章 失业大学生不会梦见流浪麻理恰",
+    "chapter_number": 494,
+    "display_number": "第四百九十四章",
+    "chapter_number_str": "四百九十四",
+    "file_index": 495
+  },
+  {
+    "file_name": "第四百九十五章 戒油.txt",
+    "display_title": "第四百九十五章 戒油",
+    "chapter_number": 495,
+    "display_number": "第四百九十五章",
+    "chapter_number_str": "四百九十五",
+    "file_index": 496
+  },
+  {
+    "file_name": "第四百九十六章 探险队的馈赠.txt",
+    "display_title": "第四百九十六章 探险队的馈赠",
+    "chapter_number": 496,
+    "display_number": "第四百九十六章",
+    "chapter_number_str": "四百九十六",
+    "file_index": 497
+  },
+  {
+    "file_name": "第四百九十七章 麻恰觅食.txt",
+    "display_title": "第四百九十七章 麻恰觅食",
+    "chapter_number": 497,
+    "display_number": "第四百九十七章",
+    "chapter_number_str": "四百九十七",
+    "file_index": 498
+  },
+  {
+    "file_name": "第四百九十八章 冻豆包.txt",
+    "display_title": "第四百九十八章 冻豆包",
+    "chapter_number": 498,
+    "display_number": "第四百九十八章",
+    "chapter_number_str": "四百九十八",
+    "file_index": 499
+  },
+  {
+    "file_name": "第四百九十九章 鬼威惨的一天.txt",
+    "display_title": "第四百九十九章 鬼威惨的一天",
+    "chapter_number": 499,
+    "display_number": "第四百九十九章",
+    "chapter_number_str": "四百九十九",
+    "file_index": 500
+  },
+  {
+    "file_name": "第五百章 宠物油来了.txt",
+    "display_title": "第五百章 宠物油来了",
+    "chapter_number": 500,
+    "display_number": "第五百章",
+    "chapter_number_str": "五百",
+    "file_index": 501
+  },
+  {
+    "file_name": "第五百零一章 未诞之油.txt",
+    "display_title": "第五百零一章 未诞之油",
+    "chapter_number": 501,
+    "display_number": "第五百零一章",
+    "chapter_number_str": "五百零一",
+    "file_index": 502
+  },
+  {
+    "file_name": "第五百零二章 喜欢欺负帕秋莉的大哥哥正在虐待麻恰.txt",
+    "display_title": "第五百零二章 喜欢欺负帕秋莉的大哥哥正在虐待麻恰",
+    "chapter_number": 502,
+    "display_number": "第五百零二章",
+    "chapter_number_str": "五百零二",
+    "file_index": 503
+  },
+  {
+    "file_name": "第五百零三章 大姐姐与三油行.txt",
+    "display_title": "第五百零三章 大姐姐与三油行",
+    "chapter_number": 503,
+    "display_number": "第五百零三章",
+    "chapter_number_str": "五百零三",
+    "file_index": 504
+  },
+  {
+    "file_name": "第五百零四章 油库里的宗教性以及相关防治措施.txt",
+    "display_title": "第五百零四章 油库里的宗教性以及相关防治措施",
+    "chapter_number": 504,
+    "display_number": "第五百零四章",
+    "chapter_number_str": "五百零四",
+    "file_index": 505
+  },
+  {
+    "file_name": "第五百零五章 馒头大供奉！莫理沙大人的异世界.txt",
+    "display_title": "第五百零五章 馒头大供奉！莫理沙大人的异世界",
+    "chapter_number": 505,
+    "display_number": "第五百零五章",
+    "chapter_number_str": "五百零五",
+    "file_index": 506
+  },
+  {
+    "file_name": "第五百零六章 穷极无聊的清晨，就该玩弄子油.txt",
+    "display_title": "第五百零六章 穷极无聊的清晨，就该玩弄子油",
+    "chapter_number": 506,
+    "display_number": "第五百零六章",
+    "chapter_number_str": "五百零六",
+    "file_index": 507
+  },
+  {
+    "file_name": "第五百零七章 和大枕头一起共度几天.txt",
+    "display_title": "第五百零七章 和大枕头一起共度几天",
+    "chapter_number": 507,
+    "display_number": "第五百零七章",
+    "chapter_number_str": "五百零七",
+    "file_index": 508
+  },
+  {
+    "file_name": "第五百零八章 早苗是抹茶馅！.txt",
+    "display_title": "第五百零八章 早苗是抹茶馅！",
+    "chapter_number": 508,
+    "display_number": "第五百零八章",
+    "chapter_number_str": "五百零八",
+    "file_index": 509
+  },
+  {
+    "file_name": "第五百零九章 油库里的小故事两则.txt",
+    "display_title": "第五百零九章 油库里的小故事两则",
+    "chapter_number": 509,
+    "display_number": "第五百零九章",
+    "chapter_number_str": "五百零九",
+    "file_index": 510
+  },
+  {
+    "file_name": "第五百一十章 油痛风.txt",
+    "display_title": "第五百一十章 油痛风",
+    "chapter_number": 510,
+    "display_number": "第五百一十章",
+    "chapter_number_str": "五百一十",
+    "file_index": 511
+  },
+  {
+    "file_name": "第五百一十一章 麻里鲸落.txt",
+    "display_title": "第五百一十一章 麻里鲸落",
+    "chapter_number": 511,
+    "display_number": "第五百一十一章",
+    "chapter_number_str": "五百一十一",
+    "file_index": 512
+  },
+  {
+    "file_name": "第五百一十二章 马勃菌.txt",
+    "display_title": "第五百一十二章 马勃菌",
+    "chapter_number": 512,
+    "display_number": "第五百一十二章",
+    "chapter_number_str": "五百一十二",
+    "file_index": 513
+  },
+  {
+    "file_name": "第五百一十二章 爱情是什么.txt",
+    "display_title": "第五百一十三章 爱情是什么？",
+    "chapter_number": 513,
+    "display_number": "第五百一十三章",
+    "chapter_number_str": "五百一十三",
+    "file_index": 514
+  },
+  {
+    "file_name": "第五百一十四章 意油小故事.txt",
+    "display_title": "第五百一十四章 意油小故事",
+    "chapter_number": 514,
+    "display_number": "第五百一十四章",
+    "chapter_number_str": "五百一十四",
+    "file_index": 515
+  },
+  {
+    "file_name": "第五百一十五章 平淡背叛.txt",
+    "display_title": "第五百一十五章 平淡背叛",
+    "chapter_number": 515,
+    "display_number": "第五百一十五章",
+    "chapter_number_str": "五百一十五",
+    "file_index": 516
+  },
+  {
+    "file_name": "第五百一十六章 油库里助眠.txt",
+    "display_title": "第五百一十六章 油库里助眠",
+    "chapter_number": 516,
+    "display_number": "第五百一十六章",
+    "chapter_number_str": "五百一十六",
+    "file_index": 517
+  }
+]
