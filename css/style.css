@@ -1,0 +1,392 @@
+/* 修改此文件可以更新所有页面的样式 */
+
+/* 基础样式 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 目录页样式 */
+.toc-page body {
+    font-family: 'Microsoft YaHei', 'PingFang SC', sans-serif;
+    line-height: 1.6;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.toc-page .container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.toc-page .header {
+    text-align: center;
+    color: white;
+    margin-bottom: 30px;
+    padding: 30px 0;
+}
+
+.toc-page .header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.toc-page .header p {
+    font-size: 1.2em;
+    opacity: 0.9;
+}
+
+.toc-page .preface {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 15px;
+    padding: 30px;
+    margin-bottom: 30px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+    border-left: 5px solid #ff6b6b;
+}
+
+.toc-page .preface-title {
+    font-size: 1.5em;
+    color: #2c3e50;
+    margin-bottom: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.toc-page .preface-content {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.8;
+}
+
+.toc-page .preface-content p {
+    margin-bottom: 15px;
+    text-indent: 2em;
+}
+
+.toc-page .preface-content p:last-child {
+    margin-bottom: 0;
+}
+
+.toc-page .toc-container {
+    background: white;
+    border-radius: 15px;
+    padding: 40px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+
+.toc-page .toc-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 3px solid #667eea;
+}
+
+.toc-page .toc-title {
+    font-size: 1.8em;
+    color: #333;
+    margin: 0;
+}
+
+.toc-page .refresh-btn {
+    background: #667eea;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+
+.toc-page .refresh-btn:hover {
+    background: #764ba2;
+    transform: translateY(-2px);
+}
+
+.toc-page .chapter-list {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 15px;
+}
+
+.toc-page .chapter-item {
+    background: #f8f9fa;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    border-left: 4px solid #667eea;
+}
+
+.toc-page .chapter-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    background: #e3f2fd;
+}
+
+.toc-page .chapter-link {
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    color: #333;
+    height: 100%;
+}
+
+.toc-page .chapter-number {
+    font-weight: bold;
+    color: #667eea;
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+
+.toc-page .chapter-title {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+.toc-page .footer {
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+    opacity: 0.8;
+}
+
+/* 章节页样式 */
+.chapter-page body {
+    font-family: 'Microsoft YaHei', 'SimSun', serif;
+    line-height: 1.8;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.chapter-page .container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    overflow: hidden;
+}
+
+.chapter-page .nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: #667eea;
+    color: white;
+}
+
+.chapter-page .nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 1px solid rgba(255,255,255,0.3);
+    border-radius: 25px;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.chapter-page .nav a:hover {
+    background: rgba(255,255,255,0.2);
+    transform: translateY(-2px);
+}
+
+.chapter-page .chapter-header {
+    text-align: center;
+    padding: 40px 20px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+.chapter-page .chapter-number {
+    font-size: 1.2em;
+    opacity: 0.9;
+    margin-bottom: 10px;
+}
+
+.chapter-page .chapter-title {
+    font-size: 2em;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.chapter-page .chapter-content {
+    padding: 40px;
+    font-size: 18px;
+    color: #333;
+}
+
+.chapter-page .chapter-content p {
+    text-indent: 2em;
+    margin-bottom: 1.5em;
+    line-height: 1.8;
+}
+
+.chapter-page .bottom-nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 40px;
+    background: #f8f9fa;
+    border-top: 1px solid #eee;
+    gap: 20px;
+}
+
+.chapter-page .bottom-nav a {
+    color: #667eea;
+    text-decoration: none;
+    padding: 15px 25px;
+    border: 2px solid #667eea;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    flex: 1;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.chapter-page .bottom-nav a:hover {
+    background: #667eea;
+    color: white;
+    transform: translateY(-3px);
+}
+
+.chapter-page .nav-direction {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.chapter-page .nav-title {
+    font-size: 0.9em;
+    opacity: 0.8;
+}
+
+.chapter-page .back-to-toc {
+    text-align: center;
+    padding: 20px;
+    background: #f8f9fa;
+    border-top: 1px solid #eee;
+}
+
+.chapter-page .back-to-toc a {
+    color: #667eea;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: 1px solid #667eea;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.chapter-page .back-to-toc a:hover {
+    background: #667eea;
+    color: white;
+}
+
+/* 通用样式 */
+.back-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 50px;
+    height: 50px;
+    background: #667eea;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 24px;
+    cursor: pointer;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+    z-index: 1000;
+}
+
+.back-to-top:hover {
+    background: #764ba2;
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+}
+
+.back-to-top.show {
+    display: flex;
+}
+
+.loading {
+    text-align: center;
+    padding: 40px;
+    color: #666;
+}
+
+.error {
+    text-align: center;
+    padding: 20px;
+    color: #e74c3c;
+    background: #ffeaea;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .toc-page .chapter-list {
+        grid-template-columns: 1fr;
+    }
+    
+    .toc-page .header h1 {
+        font-size: 2em;
+    }
+    
+    .toc-page .toc-container {
+        padding: 20px;
+    }
+    
+    .toc-page .preface {
+        padding: 20px;
+    }
+    
+    .toc-page .toc-header {
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+    }
+    
+    .chapter-page .nav {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .chapter-page .nav a {
+        text-align: center;
+        justify-content: center;
+    }
+    
+    .chapter-page .bottom-nav {
+        flex-direction: column;
+        padding: 20px;
+    }
+    
+    .chapter-page .chapter-content {
+        padding: 20px;
+        font-size: 16px;
+    }
+    
+    .back-to-top {
+        bottom: 20px;
+        right: 20px;
+        width: 45px;
+        height: 45px;
+        font-size: 20px;
+    }
+}
