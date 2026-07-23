@@ -1,4 +1,3 @@
-访问网址: https://bokchoy21.github.io/collection-of-translated-anko-ss/
 
 内容全部来自馅文合集
 
